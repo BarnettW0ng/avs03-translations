@@ -4798,6 +4798,11 @@ msgid "CLICKABLE.double_click_play"
 msgstr ""
 
 #. Desktop icon tooltip
+#. source: Double-Click to skip track
+msgid "CLICKABLE.double_click_shuffle"
+msgstr ""
+
+#. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
 msgstr ""
@@ -4837,6 +4842,11 @@ msgstr ""
 #. Desktop icon tooltip
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
+msgstr ""
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
+msgid "CLICKABLE.github_translations"
 msgstr ""
 
 #. Desktop icon tooltip
@@ -4974,6 +4984,11 @@ msgstr ""
 #. source: Cost: %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "META.cost_beanz"
+msgstr ""
+
+#. Zip window titlebar when SHZip License is equipped
+#. source: SHZip v2.03
+msgid "ZIP.title_licensed"
 msgstr ""
 
 #. Zip extractor window
@@ -5309,11 +5324,15 @@ msgid "Feedback"
 msgstr ""
 
 #. Scene label
-msgid "Wishlist"
+msgid "Steam"
 msgstr ""
 
 #. Scene label
 msgid "Discord"
+msgstr ""
+
+#. Scene label
+msgid "Translations GitHub"
 msgstr ""
 
 #. avs03

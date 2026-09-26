@@ -1,15 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Antivirus Survivors 2003MIME-Version: 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"Project-Id-Version: Antivirus Survivors 2003"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.9\n"
 
 #. Class select - name (brick)
 #. source: Brick
@@ -19,13 +14,7 @@ msgstr "Tuğla"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr ""
-"Azami Cana +40 ekle.\n"
-"+12 Koruma ekle.\n"
-"İmleç Hızını 0.8 katına indir.\n"
-"Silah Hasarını 0.85 katına indir.\n"
-"Hasar aldığında Silah Hasarını 1.1 katına çıkar (8sn boyunca, 3 defaya "
-"kadar birikebilir)"
+msgstr "Azami Cana +40 ekle.\n+12 Koruma ekle.\nİmleç Hızını 0.8 katına indir.\nSilah Hasarını 0.85 katına indir.\nHasar aldığında Silah Hasarını 1.1 katına çıkar (8sn boyunca, 3 defaya kadar birikebilir)"
 
 #. Class select - name (default)
 #. source: Default
@@ -35,9 +24,7 @@ msgstr "Varsayılan"
 #. Class select - description (default)
 #. source: No class bonuses or penalties.\nBalanced baseline cursor.
 msgid "CLASS.default.description"
-msgstr ""
-"Sınıf bonusu ya da penaltısı yok.\n"
-"Dengeli, temel imleç."
+msgstr "Sınıf bonusu ya da penaltısı yok.\nDengeli, temel imleç."
 
 #. Class select - name (null)
 #. source: Null
@@ -47,11 +34,7 @@ msgstr "Tanımsız"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr ""
-"Azami Canı -25 azalt.\n"
-"+8 Paket Kaybı ekle.\n"
-"Şansı 1.5 katına çıkar.\n"
-"Silah Hasarını 0.9 katına indir."
+msgstr "Azami Canı -25 azalt.\n+8 Paket Kaybı ekle.\nŞansı 1.5 katına çıkar.\nSilah Hasarını 0.9 katına indir."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -61,13 +44,7 @@ msgstr "Vektör"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr ""
-"İmleç Hızını 1.25 katına çıkar.\n"
-"+15 Paket Kaybı ekle.\n"
-"Azami Canı -25 azalt.\n"
-"Silah Hasarını 0.9 katına indir.\n"
-"Paket Kaybı olduğunda İmleç Hızını 1.25 ve Yenileme Hızını 1.2 katına "
-"çıkar. (4sn boyunca)"
+msgstr "İmleç Hızını 1.25 katına çıkar.\n+15 Paket Kaybı ekle.\nAzami Canı -25 azalt.\nSilah Hasarını 0.9 katına indir.\nPaket Kaybı olduğunda İmleç Hızını 1.25 ve Yenileme Hızını 1.2 katına çıkar. (4sn boyunca)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -77,12 +54,7 @@ msgstr "Kesme Noktası"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr ""
-"Kritik Şansını +%12 artır.\n"
-"Kritik Hasarını 1.25 katına çıkar.\n"
-"Azami Canı -15 azalt.\n"
-"İmleç Hızını 0.9 katına indir.\n"
-"Silah Hasarını 0.92 katına indir."
+msgstr "Kritik Şansını +%12 artır.\nKritik Hasarını 1.25 katına çıkar.\nAzami Canı -15 azalt.\nİmleç Hızını 0.9 katına indir.\nSilah Hasarını 0.92 katına indir."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -92,11 +64,7 @@ msgstr "İş Parçacığı"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr ""
-"İşlem Hızını 1.3 katına çıkar.\n"
-"Yenileme Hızını 1.12 katına çıkar.\n"
-"TP Kazancını 1.08 katına çıkar.\n"
-"Silah Hasarını 0.85 katına indir."
+msgstr "İşlem Hızını 1.3 katına çıkar.\nYenileme Hızını 1.12 katına çıkar.\nTP Kazancını 1.08 katına çıkar.\nSilah Hasarını 0.85 katına indir."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -106,13 +74,7 @@ msgstr "Yönetici"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr ""
-"+1 Anahtarla başla.\n"
-"Jeton Kazancını 1.3 katına çıkar.\n"
-"Toplama Mesafesini 1.3 katına çıkar.\n"
-"Dükkanda +%10 indirim uygula.\n"
-"Azami Canı 0.9 katına indir.\n"
-"Silah Hasarını 0.85 katına indir."
+msgstr "+1 Anahtarla başla.\nJeton Kazancını 1.3 katına çıkar.\nToplama Mesafesini 1.3 katına çıkar.\nDükkanda +%10 indirim uygula.\nAzami Canı 0.9 katına indir.\nSilah Hasarını 0.85 katına indir."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -122,9 +84,7 @@ msgstr "Kaos"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr ""
-"Tutarsız, öngörülemez ve karmakarışık bir zorluk. Ne beklemeniz "
-"gerektiğini söyleyemiyorum."
+msgstr "Tutarsız, öngörülemez ve karmakarışık bir zorluk. Ne beklemeniz gerektiğini söyleyemiyorum."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -144,9 +104,7 @@ msgstr "Değişken"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr ""
-"Daha fazla sakin an sunarken zorluk artışlarını daha sert hale getirecek "
-"şekilde dalgalanan, çeşitli seviyelerde düşmanlar."
+msgstr "Daha fazla sakin an sunarken zorluk artışlarını daha sert hale getirecek şekilde dalgalanan, çeşitli seviyelerde düşmanlar."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
@@ -266,9 +224,7 @@ msgstr "Donanım Kesme İsteği"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr ""
-"+5 Koruma ekle.\n"
-"Hasar alırken +25 Paket Kaybı ekle. (10sn boyunca)"
+msgstr "+5 Koruma ekle.\nHasar alırken +25 Paket Kaybı ekle. (10sn boyunca)"
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -288,9 +244,7 @@ msgstr "Kurumsal Sürüm"
 #. Plugin - description (big_hp_regen_boost)
 #. source: Add +64 Max HP.\nAdd +12 Health Regen.
 msgid "PLUGIN.big_hp_regen_boost.description"
-msgstr ""
-"Azami Cana +64 ekle.\n"
-"Can Yenilemeye +12 ekle."
+msgstr "Azami Cana +64 ekle.\nCan Yenilemeye +12 ekle."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -370,9 +324,7 @@ msgstr "Kritik Pil Seviyesi"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr ""
-"İmleç Hızını +%10 artır.\n"
-"Hasar alırken İmleç Hızını +%30 artır (10sn boyunca)."
+msgstr "İmleç Hızını +%10 artır.\nHasar alırken İmleç Hızını +%30 artır (10sn boyunca)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -392,9 +344,7 @@ msgstr "Kariyer Yolu"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr ""
-"Silah Hasarını oyuncu seviyesi başına +%3 artır.\n"
-"Azami Canı oyuncu seviyesi başına -1 azalt."
+msgstr "Silah Hasarını oyuncu seviyesi başına +%3 artır.\nAzami Canı oyuncu seviyesi başına -1 azalt."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -414,11 +364,7 @@ msgstr "Performans Ayarları"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr ""
-"Silah Hasarını +%10 artır.\n"
-"Yenileme Hızını +%10 artır.\n"
-"Kritik Şansını +%5 artır.\n"
-"Kritik Hasarını +%15 artır."
+msgstr "Silah Hasarını +%10 artır.\nYenileme Hızını +%10 artır.\nKritik Şansını +%5 artır.\nKritik Hasarını +%15 artır."
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -468,9 +414,7 @@ msgstr "Otomatik Kurtarma"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr ""
-"İyileştiğinde %7 ihtimalle Azami Cana +3 ekleme şansı. (5sn bekleme "
-"süresi)."
+msgstr "İyileştiğinde %7 ihtimalle Azami Cana +3 ekleme şansı. (5sn bekleme süresi)."
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -500,9 +444,7 @@ msgstr "Şanslı Fırsat"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr ""
-"Şansı +%12 artır.\n"
-"Her Değiştir yaptığında Şansı +%25 artır (10sn boyunca)."
+msgstr "Şansı +%12 artır.\nHer Değiştir yaptığında Şansı +%25 artır (10sn boyunca)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -587,14 +529,12 @@ msgstr "Dükkânda +%25 indirim uygula."
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
 msgid "PLUGIN.slow_but_strong.name"
-msgstr "Rau und Stark"
+msgstr ""
 
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr ""
-"Silah Hasarını 1.25 katına çıkar.\n"
-"İmleç Hızını -%10 azalt."
+msgstr "Silah Hasarını 1.25 katına çıkar.\nİmleç Hızını -%10 azalt."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -604,9 +544,7 @@ msgstr "Akıllı Kurtarma"
 #. Plugin - description (smart_recovery)
 #. source: Add +10 Max HP.\nHeal 25% of Max HP when opening a Safe Folder.
 msgid "PLUGIN.smart_recovery.description"
-msgstr ""
-"Azami Cana +10 ekle.\n"
-"Güvenli Klasör açıldığında Azami Canın %25'i kadar iyileş."
+msgstr "Azami Cana +10 ekle.\nGüvenli Klasör açıldığında Azami Canın %25'i kadar iyileş."
 
 #. Plugin - name (weapon_speed_boost)
 #. source: Weapon Speed Boost
@@ -656,9 +594,7 @@ msgstr "Benioku"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr ""
-"TP Kazancını +%10 artır.\n"
-"Hasar alırken +4 TP kazan."
+msgstr "TP Kazancını +%10 artır.\nHasar alırken +4 TP kazan."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -668,9 +604,7 @@ msgstr "Morgan Antivirüs"
 #. Plugin - description (morgan_av)
 #. source: Difficulty is increased for the rest of the run.\n+1 extra Plus! enemy at each midway point.
 msgid "PLUGIN.morgan_av.description"
-msgstr ""
-"Oturum boyunca zorluk artar.\n"
-"Her ara noktada +1 fazladan Plus! düşmanı."
+msgstr "Oturum boyunca zorluk artar.\nHer ara noktada +1 fazladan Plus! düşmanı."
 
 #. Plugin - name (popup_blocker)
 #. source: Realtime Protection
@@ -710,9 +644,7 @@ msgstr "Hareketsiz Görüntü"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr ""
-"Hareketsiz kalınan saniye başına Silah Hasarını +%5 artır, yük başına +"
-"%15'e kadar."
+msgstr "Hareketsiz kalınan saniye başına Silah Hasarını +%5 artır, yük başına +%15'e kadar."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -732,9 +664,7 @@ msgstr "Yenileme Hız Aşırtma"
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr ""
-"Yenileme Hızını +%50 artır.\n"
-"İmleç Hızını -%15 azalt."
+msgstr "Yenileme Hızını +%50 artır.\nİmleç Hızını -%15 azalt."
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -764,8 +694,7 @@ msgstr "Kritik Patlama"
 #. Plugin - description (crit_blast)
 #. source: 10% Chance for Crits to Blast for 50% Damage.
 msgid "PLUGIN.crit_blast.description"
-msgstr ""
-"%10 ihtimalle Kritik vuruşların %50 hasar veren bir Patlama yaratma şansı."
+msgstr "%10 ihtimalle Kritik vuruşların %50 hasar veren bir Patlama yaratma şansı."
 
 #. Plugin - name (zip_recover)
 #. source: Zip Recover
@@ -780,7 +709,7 @@ msgstr "Başarılı arşiv işlemleri yeşil bir iyileşme alanı bırakır."
 #. Plugin - name (vapidshare_pro)
 #. source: Vapidshare Pro
 msgid "PLUGIN.vapidshare_pro.name"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
@@ -795,10 +724,7 @@ msgstr "Mega Kritik"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr ""
-"Kritik Şansını +%40 artır.\n"
-"%100'ün üzerindeki Kritik Şansı, Kritik Hasarının iki katı kadar Mega "
-"Kritik vuruş yapabilir."
+msgstr "Kritik Şansını +%40 artır.\n%100'ün üzerindeki Kritik Şansı, Kritik Hasarının iki katı kadar Mega Kritik vuruş yapabilir."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -808,9 +734,7 @@ msgstr "Hyper-Threading"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr ""
-"Silah Miktarını 1.5 katına çıkar.\n"
-"Silah Hasarını 0.75 katına indir."
+msgstr "Silah Miktarını 1.5 katına çıkar.\nSilah Hasarını 0.75 katına indir."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -860,21 +784,17 @@ msgstr "Görev Yöneticisi"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr ""
-"Silah Yenilemeyi 2.0 katına çıkar.\n"
-"Silah Boyutunu 0.75 katına indir."
+msgstr "Silah Yenilemeyi 2.0 katına çıkar.\nSilah Boyutunu 0.75 katına indir."
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
 msgid "PLUGIN.raid_0.name"
-msgstr "RAID 0"
+msgstr ""
 
 #. Plugin - description (raid_0)
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
-msgstr ""
-"Arşiv ve RAM ödüllerini 2.0 katına çıkar.\n"
-"Arşiv ve RAM başarı oranlarını düşür."
+msgstr "Arşiv ve RAM ödüllerini 2.0 katına çıkar.\nArşiv ve RAM başarı oranlarını düşür."
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -884,9 +804,7 @@ msgstr "Sistem Geri Yükleme"
 #. Plugin - description (system_restore)
 #. source: On death, heal 50% of Max HP instead of Blue Screen.\nOnce per stack.
 msgid "PLUGIN.system_restore.description"
-msgstr ""
-"Öldüğünde, Mavi Ekran yerine Azami Canının %50'si kadar iyileş.\n"
-"Yük başına bir defa."
+msgstr "Öldüğünde, Mavi Ekran yerine Azami Canının %50'si kadar iyileş.\nYük başına bir defa."
 
 #. Plugin - name (power_user)
 #. source: Power User
@@ -926,9 +844,7 @@ msgstr "Protokol I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr ""
-"Başlangıç zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen "
-"düşmanlar için 16 Beanz kazan."
+msgstr "Başlangıç zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen düşmanlar için 16 Beanz kazan."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -938,9 +854,7 @@ msgstr "Protokol II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr ""
-"İkinci zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen düşmanlar "
-"için 24 Beanz kazan."
+msgstr "İkinci zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen düşmanlar için 24 Beanz kazan."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -950,9 +864,7 @@ msgstr "Protokol III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr ""
-"Üçüncü zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen düşmanlar "
-"için 32 Beanz kazan."
+msgstr "Üçüncü zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen düşmanlar için 32 Beanz kazan."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -962,9 +874,7 @@ msgstr "Protokol IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr ""
-"Kıdemli zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen "
-"düşmanlar için 48 Beanz kazan."
+msgstr "Kıdemli zorluk seviyesi. Her güvenli klasör açılımı ve temizlenen düşmanlar için 48 Beanz kazan."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -974,8 +884,7 @@ msgstr "Protokol V"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr ""
-"Bunu yapmak zorunda değilsin. Ama yaparsan da Güvenli Klasör başı 64 Beanz."
+msgstr "Bunu yapmak zorunda değilsin. Ama yaparsan da Güvenli Klasör başı 64 Beanz."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -1071,9 +980,7 @@ msgstr "Şans"
 #. Stat display - description (upgrade_player_luck)
 #. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr ""
-"Daha iyi seçeneklerin gelme ihtimalini artırır; diğer avantajların yanı "
-"sıra nadirliği yükseltir."
+msgstr "Daha iyi seçeneklerin gelme ihtimalini artırır; diğer avantajların yanı sıra nadirliği yükseltir."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1103,9 +1010,7 @@ msgstr "Silah Gücü"
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
 msgid "STAT.upgrade_player_power_multi.description"
-msgstr ""
-"Bütün silahların Geri Püskürtme, Hararet, Enfeksiyon ve Gecikme gücünü "
-"artırır."
+msgstr "Bütün silahların Geri Püskürtme, Hararet, Enfeksiyon ve Gecikme gücünü artırır."
 
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
@@ -1115,9 +1020,7 @@ msgstr "İşlem Hızı"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr ""
-".zip, .bat, LemWire vb. dahil olmak üzere tüm dosyaların işlenme hızını "
-"katlar. (Üstel)"
+msgstr ".zip, .bat, LemWire vb. dahil olmak üzere tüm dosyaların işlenme hızını katlar. (Üstel)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1147,9 +1050,7 @@ msgstr "Silah Miktarı"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr ""
-"Saldırı sırasında silahların fazladan ortaya çıkma ihtimali. Temel miktara "
-"oranla."
+msgstr "Saldırı sırasında silahların fazladan ortaya çıkma ihtimali. Temel miktara oranla."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1391,9 +1292,7 @@ msgstr "Azami Canı +{percent} artırır."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr ""
-"Silahların Geri Püskürtme, Hararet, Enfeksiyon ve Gecikme gücünü +%"
-"{percent} artırır."
+msgstr "Silahların Geri Püskürtme, Hararet, Enfeksiyon ve Gecikme gücünü +%{percent} artırır."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1449,8 +1348,7 @@ msgstr "Baloncuklar"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr ""
-"Etrafta süzülen, düşmanlara Enfeksiyon yükleri ekleyen devasa baloncuklar."
+msgstr "Etrafta süzülen, düşmanlara Enfeksiyon yükleri ekleyen devasa baloncuklar."
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1480,48 +1378,42 @@ msgstr "Güvenlik Duvarı"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr ""
-"Oyuncunun etrafında, düşmanlara Hararet yükleri ekleyen bir ateş çemberi "
-"oluşturur."
+msgstr "Oyuncunun etrafında, düşmanlara Hararet yükleri ekleyen bir ateş çemberi oluşturur."
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
 msgid "UPGRADE.weapon_fontart.name"
-msgstr "FontArt"
+msgstr ""
 
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr ""
-"En güçlü düşmanın üzerine, düşmanlara Hararet yükü ekleyen harfler düşürür."
+msgstr "En güçlü düşmanın üzerine, düşmanlara Hararet yükü ekleyen harfler düşürür."
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
 msgid "UPGRADE.weapon_hitmarkers.name"
-msgstr "HaD: DoCK"
+msgstr ""
 
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
 msgid "UPGRADE.weapon_hitmarkers.description"
-msgstr ""
-"Atışlar en yakındaki düşmana isabet eder. %3 ihtimalle kafadan vurur."
+msgstr "Atışlar en yakındaki düşmana isabet eder. %3 ihtimalle kafadan vurur."
 
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
 msgid "UPGRADE.weapon_paint.name"
-msgstr "Paint"
+msgstr ""
 
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr ""
-"Oyuncunun yakınında, düşmanlara zamanla hasar veren ve Gecikme yükleri "
-"ekleyen halkalar oluşturur."
+msgstr "Oyuncunun yakınında, düşmanlara zamanla hasar veren ve Gecikme yükleri ekleyen halkalar oluşturur."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
 msgid "UPGRADE.weapon_pinball.name"
-msgstr "Pinball"
+msgstr ""
 
 #. Upgrade card - description (weapon_pinball)
 #. source: Shoots a bouncing ball towards the nearest enemy.
@@ -1551,7 +1443,7 @@ msgstr "Oyuncunun etrafında bir büyüteç belirir."
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
 msgid "UPGRADE.weapon_solitaire.name"
-msgstr "Solitaire"
+msgstr ""
 
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
@@ -1566,21 +1458,17 @@ msgstr "KareSayar"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr ""
-"Yanıp sönen FPS sayıları ateş eder. Gösterilen sayı, verilen hasarı ifade "
-"eder."
+msgstr "Yanıp sönen FPS sayıları ateş eder. Gösterilen sayı, verilen hasarı ifade eder."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
 msgid "UPGRADE.weapon_scimitar.name"
-msgstr "Scimitar"
+msgstr ""
 
 #. Upgrade card - description (weapon_scimitar)
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
-msgstr ""
-"İmlecin yukarısını ve aşağısını biçer. Miktar arttıkça sırayla vuran ek "
-"darbeler eklenir."
+msgstr "İmlecin yukarısını ve aşağısını biçer. Miktar arttıkça sırayla vuran ek darbeler eklenir."
 
 #. Upgrade card - name (weapon_sniper)
 #. source: Sniper 1.6
@@ -1590,8 +1478,7 @@ msgstr "Keskin Nişancı 1.6"
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr ""
-"En güçlü düşmana tek bir güçlü atış. Temizlenenler ölüm akışında görünür."
+msgstr "En güçlü düşmana tek bir güçlü atış. Temizlenenler ölüm akışında görünür."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1611,9 +1498,7 @@ msgstr "E-posta"
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr ""
-"Fırlayan, duvarlardan seken ve bumerang gibi geri dönüp bazen her iki "
-"yönden de hasar veren mektuplar."
+msgstr "Fırlayan, duvarlardan seken ve bumerang gibi geri dönüp bazen her iki yönden de hasar veren mektuplar."
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1623,9 +1508,7 @@ msgstr "İnternet Tarayıcısı"
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr ""
-"Ekranın herhangi bir yerinde bir tarayıcı sekmesi açar. Öylece kalır ve "
-"güçlü Gecikme uygular."
+msgstr "Ekranın herhangi bir yerinde bir tarayıcı sekmesi açar. Öylece kalır ve güçlü Gecikme uygular."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1635,21 +1518,17 @@ msgstr "Orkestra"
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr ""
-"Ekrandaki en yakın düşmanın üzerinde bir tarayıcı sekmesi açar. Enfeksiyon "
-"uygular ve bazen infaz eder."
+msgstr "Ekrandaki en yakın düşmanın üzerinde bir tarayıcı sekmesi açar. Enfeksiyon uygular ve bazen infaz eder."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
 msgid "UPGRADE.weapon_satellite.name"
-msgstr "WLAN"
+msgstr ""
 
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
-msgstr ""
-"Yakındaki düşmanlara Gecikme sinyalleriyle ping atan bir çanak anten "
-"yerleştirir."
+msgstr "Yakındaki düşmanlara Gecikme sinyalleriyle ping atan bir çanak anten yerleştirir."
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1659,11 +1538,8 @@ msgstr "AVN Sohbet"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
-"Yörüngede dönen sohbet balonları mesajlar yazar ve düşmanlarda Gecikme "
-"yapar."
+msgstr "Yörüngede dönen sohbet balonları mesajlar yazar ve düşmanlarda Gecikme yapar."
 
-# Localized as an acronym pun matching “VLC” (Varsayılan Levha Cismi / Default Sign Object)
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
 msgid "UPGRADE.weapon_cone.name"
@@ -1672,20 +1548,17 @@ msgstr "Varsayılan Levha Cismi"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr ""
-"Üzerinize yapışmış turuncu trafik takozları. İşaret ettikleri şeyleri "
-"Hararet ile pişiriyorlar."
+msgstr "Üzerinize yapışmış turuncu trafik takozları. İşaret ettikleri şeyleri Hararet ile pişiriyorlar."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
 msgid "UPGRADE.weapon_blatand.name"
-msgstr "Blåtand"
+msgstr ""
 
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr ""
-"Düşmanlar arasında sabit bir uzunlukta zincirleme Enfeksiyon bağları kurar."
+msgstr "Düşmanlar arasında sabit bir uzunlukta zincirleme Enfeksiyon bağları kurar."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1742,7 +1615,6 @@ msgstr "çanak anten"
 msgid "WEAPON.avn.spawn_noun"
 msgstr "sohbet baloncuğu"
 
-# Translated as “Cisim” (Object) instead of “Koni” (Cone) to stay consistent with the “VLC” (Varsayılan Levha Cismi) acronym pun.
 #. Weapon metadata
 #. source: cone
 msgid "WEAPON.cone.spawn_noun"
@@ -1876,7 +1748,7 @@ msgstr "Geri Dönüştürücü"
 #. Enemy sniper-feed name - name (dxdiag)
 #. source: GfxDiag
 msgid "ENEMY.dxdiag.name"
-msgstr "GfxDiag"
+msgstr ""
 
 #. Enemy sniper-feed name - name (burning_disc)
 #. source: PyroDisc
@@ -2016,7 +1888,7 @@ msgstr "Görüntü Yakınlığı"
 #. Settings menu
 #. source: Vsync
 msgid "SETTINGS.vsync"
-msgstr "Vsync"
+msgstr ""
 
 #. Settings menu
 #. source: FPS Cap
@@ -2086,9 +1958,7 @@ msgstr "Görüntü yırtılmasını önlemek için kare hızını ekranınızla 
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr ""
-"Saniyedeki azami kare sayısı. \"Sınırsız\" seçeneği, donanımınızın "
-"sınırlarını kullanır."
+msgstr "Saniyedeki azami kare sayısı. \"Sınırsız\" seçeneği, donanımınızın sınırlarını kullanır."
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2133,9 +2003,7 @@ msgstr "Menülerde imlecin çubuk veya tuşlarla ne kadar hızlı hareket ettiğ
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr ""
-"Güvenli Klasörde imlecinizi fareyle kontrol edin. Savaş Klasörlerinde her "
-"zaman WASD tuşlarını veya sol çubuğu kullanın."
+msgstr "Güvenli Klasörde imlecinizi fareyle kontrol edin. Savaş Klasörlerinde her zaman WASD tuşlarını veya sol çubuğu kullanın."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2382,7 +2250,7 @@ msgstr "Demo Kaydı"
 #. source: %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "UI.login_profile_detail"
-msgstr "%d Beanz"
+msgstr ""
 
 #. Login screen - second click confirms removing an entry
 #. source: Click again to remove
@@ -2397,10 +2265,7 @@ msgstr "Oturum açıldı"
 #. Login screen - click your user name prompt
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
-msgstr ""
-"Başlamak için kullanıcı adınıza tıklayın.\n"
-"Oturum açtıktan sonra, profil değiştirebilirsiniz.\n"
-"Menünün üst kısmındaki adınıza tıklamanız yeterli."
+msgstr "Başlamak için kullanıcı adınıza tıklayın.\nOturum açtıktan sonra, profil değiştirebilirsiniz.\nMenünün üst kısmındaki adınıza tıklamanız yeterli."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -2572,7 +2437,7 @@ msgstr "Pembe Tema"
 #. Personalise - avatar name
 #. source: Beanz
 msgid "UI.avatar_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Giraffe
@@ -2602,7 +2467,7 @@ msgstr "Yazıcı"
 #. Personalise - avatar name
 #. source: Paint
 msgid "UI.avatar_paint"
-msgstr "Paint"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Orchestra
@@ -2632,7 +2497,7 @@ msgstr "Düşman"
 #. Personalise - avatar name
 #. source: Lemwire
 msgid "UI.avatar_lemwire"
-msgstr "Lemwire"
+msgstr ""
 
 #. Personalise - avatar name
 #. source: Coin
@@ -2642,7 +2507,7 @@ msgstr "Jeton"
 #. Personalise - theme name
 #. source: Modern
 msgid "UI.theme_modern"
-msgstr "Modern"
+msgstr ""
 
 #. Personalise - theme name
 #. source: Classic
@@ -2717,58 +2582,42 @@ msgstr "Kategoriler"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr ""
-"Bu sayfalarda oturum kayıtlarınız yer alıyor. Kilit açmak için Görevler "
-"sekmesine geçin."
+msgstr "Bu sayfalarda oturum kayıtlarınız yer alıyor. Kilit açmak için Görevler sekmesine geçin."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr ""
-"Bir silah görevini tamamla ve ardından \"Kilitleri Ekle/Kaldır\" "
-"menüsünden satın al."
+msgstr "Bir silah görevini tamamla ve ardından \"Kilitleri Ekle/Kaldır\" menüsünden satın al."
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr ""
-"İmleç Sınıfları savaşma şeklini değiştirir. Birinin kilidini aç ve "
-"\"Kilitleri Ekle/Kaldır\" menüsünden satın al."
+msgstr "İmleç Sınıfları savaşma şeklini değiştirir. Birinin kilidini aç ve \"Kilitleri Ekle/Kaldır\" menüsünden satın al."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr ""
-"Eklentiler, kurulum sihirbazlarını açarak kazanılan pasif güçlerdir. "
-"Görevi tamamla ve \"Kilitleri Ekle/Kaldır\" menüsünden satın al."
+msgstr "Eklentiler, kurulum sihirbazlarını açarak kazanılan pasif güçlerdir. Görevi tamamla ve \"Kilitleri Ekle/Kaldır\" menüsünden satın al."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr ""
-"Silah sürücüleri, bir silahı benzersiz bir yükseltmeyle güçlendirir. "
-"Kilitleri açıldığında elde edebilmek için Seviye 8, 16 ve 24'e ulaş."
+msgstr "Silah sürücüleri, bir silahı benzersiz bir yükseltmeyle güçlendirir. Kilitleri açıldığında elde edebilmek için Seviye 8, 16 ve 24'e ulaş."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr ""
-"Güvenli Dosyalar, Savaş Dosyaları ve Özel Dosyalar. Kilitlerini aç ve "
-"\"Kilitleri Ekle/Kaldır\" menüsünden satın al."
+msgstr "Güvenli Dosyalar, Savaş Dosyaları ve Özel Dosyalar. Kilitlerini aç ve \"Kilitleri Ekle/Kaldır\" menüsünden satın al."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr ""
-"Temalarla masaüstünü şenlendir. Kilitleri açıldığında Kişiselleştirme "
-"menüsünden uygulayabilirsin."
+msgstr "Temalarla masaüstünü şenlendir. Kilitleri açıldığında Kişiselleştirme menüsünden uygulayabilirsin."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr ""
-"Her bir İlke aktifken bir Protokolü tamamla, ardından Etki Alanı "
-"İlkelerini bitir. En zoru Protokol V'tir."
+msgstr "Her bir İlke aktifken bir Protokolü tamamla, ardından Etki Alanı İlkelerini bitir. En zoru Protokol V'tir."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -2948,9 +2797,7 @@ msgstr "Gereksiz Reklam Saldırıları"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr ""
-"Başarısızlıkla sonuçlanan arşiv çıkarma veya RAM indirme işlemlerinden "
-"beliren gereksiz açılır pencereler."
+msgstr "Başarısızlıkla sonuçlanan arşiv çıkarma veya RAM indirme işlemlerinden beliren gereksiz açılır pencereler."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3153,9 +3000,7 @@ msgstr "BUHAR"
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr ""
-"Savaş sırasında Özel Dosyalar ortaya çıkar. Biri etkinken kullanmak için "
-"{special} tuşunu basılı tut."
+msgstr "Savaş sırasında Özel Dosyalar ortaya çıkar. Biri etkinken kullanmak için {special} tuşunu basılı tut."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3195,14 +3040,12 @@ msgstr "Oturum sırasında yüklemek için yeni eklentilerin kilidini aç."
 #. Add/Remove Unlocks - safe files tab intro
 #. source: Unlock new file types to use in Safe Folders.
 msgid "UI.features_store_intro_safe_files"
-msgstr ""
-"Güvenli Klasörlerde kullanmak için yeni dosya türlerinin kilidini aç."
+msgstr "Güvenli Klasörlerde kullanmak için yeni dosya türlerinin kilidini aç."
 
 #. Add/Remove Unlocks - battle files tab intro
 #. source: Unlock new file types to spawn during battle rounds.
 msgid "UI.features_store_intro_battle_files"
-msgstr ""
-"Savaş turlarında ortaya çıkması için yeni dosya türlerinin kilidini aç."
+msgstr "Savaş turlarında ortaya çıkması için yeni dosya türlerinin kilidini aç."
 
 #. UI (script-driven)
 #. source: Weapons
@@ -3356,9 +3199,7 @@ msgstr "İlkeleri etkinleştirmek için bir kere %s veya üstünü tamamla."
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr ""
-"Etki Alanı İlkelerini etkinleştirmek için üç farklı ilkeyi %s veya üstünde "
-"tamamla."
+msgstr "Etki Alanı İlkelerini etkinleştirmek için üç farklı ilkeyi %s veya üstünde tamamla."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3405,7 +3246,7 @@ msgstr "İlke"
 #. Policies list column - Beanz
 #. source: Beanz
 msgid "UI.policies_col_beanz"
-msgstr "Beanz"
+msgstr ""
 
 #. Policies list column - enabled/disabled
 #. source: Security Setting
@@ -3440,9 +3281,7 @@ msgstr "Tamamlanmamış"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr ""
-"Güvenli Klasörde imlecini fare ile kontrol et.[br]Savaş Klasörleri daima "
-"WASD ya da sol çubuğu kullanır."
+msgstr "Güvenli Klasörde imlecini fare ile kontrol et.[br]Savaş Klasörleri daima WASD ya da sol çubuğu kullanır."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3476,7 +3315,7 @@ msgstr "%s Kilidi Açıldı"
 #. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
-msgstr "%s +%d Beanz"
+msgstr ""
 
 #. Weapon driver unlock requirement template
 #. source: Reach level {amount} with {weapon} in a single run
@@ -3514,7 +3353,7 @@ msgstr "Disk Birleştirildi"
 #. UI (script-driven)
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
-msgstr "%2.2f KB"
+msgstr ""
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3583,29 +3422,22 @@ msgstr "Yeterli Anahtar Yok :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr ""
-"Bu oturumdaki dört silahından ilki. Seviye atladıkça daha fazlasını seçeceksin."
+msgstr "Bu oturumdaki dört silahından ilki. Seviye atladıkça daha fazlasını seçeceksin."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr ""
-"İmleç Sınıfları senin temel özelliklerini belirler. Bütün yükseltmeler "
-"bunların üzerine eklenir."
+msgstr "İmleç Sınıfları senin temel özelliklerini belirler. Bütün yükseltmeler bunların üzerine eklenir."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr ""
-"Klasör Zorluğu, o oturumun kurallarını belirler: düşman baskısı, ödüller ve "
-"kilidini açabilecekleriniz."
+msgstr "Klasör Zorluğu, o oturumun kurallarını belirler: düşman baskısı, ödüller ve kilidini açabilecekleriniz."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr ""
-"Protokolün üzerine eklenen ekstra seçmeli kurallar. Bunları tamamlayınca "
-"daha fazla Beanz kazanılır."
+msgstr "Protokolün üzerine eklenen ekstra seçmeli kurallar. Bunları tamamlayınca daha fazla Beanz kazanılır."
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3626,98 +3458,47 @@ msgstr "Hızlı Başlangıç Rehberi"
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
-msgstr ""
-"{game} oyununa hoş geldin!\n"
-"\n"
-"Benim adım Virry ve sana oyun hakkında bazı temel bilgiler vereceğim."
+msgstr "{game} oyununa hoş geldin!\n\nBenim adım Virry ve sana oyun hakkında bazı temel bilgiler vereceğim."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr ""
-"Öncelikle, hadi biraz hareketlenelim.\n"
-"\n"
-"{move} ile ekranda hareket et.\n"
-"\n"
-"{click} ile tıkla, dosyaları açmak için çift tıklamayı unutma.\n"
-"\n"
-"Ayrıca dosyalara {drag} ile basılı tutarak sürükleyip bırakabilirsin."
+msgstr "Öncelikle, hadi biraz hareketlenelim.\n\n{move} ile ekranda hareket et.\n\n{click} ile tıkla, dosyaları açmak için çift tıklamayı unutma.\n\nAyrıca dosyalara {drag} ile basılı tutarak sürükleyip bırakabilirsin."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
-msgstr ""
-"Başlamak için bir {class} ve {difficulty} seç.\n"
-"\n"
-"Şimdilik {default} imleci seçelim, oynadıkça daha fazlasının kilidi "
-"açılacak.\n"
-"\n"
-"Sonrasında {difficulty} için Protokol I'den III'e kadar birini seç.\n"
-"\n"
-"Bir Protokolü tamamlamak sana fazladan meydan okumalar kazandıracak "
-"{policies} kısmını açacak.\n"
-"\n"
-"Hadi, şimdi devam et ve bir {class} ve {difficulty} seç!"
+msgstr "Başlamak için bir {class} ve {difficulty} seç.\n\nŞimdilik {default} imleci seçelim, oynadıkça daha fazlasının kilidi açılacak.\n\nSonrasında {difficulty} için Protokol I'den III'e kadar birini seç.\n\nBir Protokolü tamamlamak sana fazladan meydan okumalar kazandıracak {policies} kısmını açacak.\n\nHadi, şimdi devam et ve bir {class} ve {difficulty} seç!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
-msgstr ""
-"Başlayabilmek için bir tane Başlangıç Silahı seçebilirsin.\n"
-"\n"
-"Dizilimine daha fazla silah eklemek için oturum boyunca ilerle ve seviye "
-"atla.\n"
-"\n"
-"Seviye atladığında, kendini geliştirmek için silah ve oyuncu yükseltmeleri "
-"arasında seçim yapabilirsin.\n"
-"\n"
-"Silahın belirli seviyelere ulaştığında, kendine has yükseltmeler sunan "
-"{drivers} özelliği açılır."
+msgstr "Başlayabilmek için bir tane Başlangıç Silahı seçebilirsin.\n\nDizilimine daha fazla silah eklemek için oturum boyunca ilerle ve seviye atla.\n\nSeviye atladığında, kendini geliştirmek için silah ve oyuncu yükseltmeleri arasında seçim yapabilirsin.\n\nSilahın belirli seviyelere ulaştığında, kendine has yükseltmeler sunan {drivers} özelliği açılır."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr ""
-"Ana amaç hayatta kalmak.\n"
-"\n"
-"5'er dakikalık 5 tur var. İlerlemek için her turun sonunda {safe} "
-"neredeyse oraya git."
+msgstr "Ana amaç hayatta kalmak.\n\n5'er dakikalık 5 tur var. İlerlemek için her turun sonunda {safe} neredeyse oraya git."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
-msgstr ""
-"Hayatta kalmak için:\n"
-"Düşmanlardan kaç, TP ve Jeton topla, yükseltmeler al ve dosyaları aç.\n"
-"\n"
-"Bazı dosyalar risklidir, bazıları için anahtar gerekir, bazılarıysa "
-"doğrudan garanti ödüller verir.\n"
-"\n"
-"Ayrıca sağ üst köşede, her tur bonus kazandıran bir Yan Görev bulunur."
+msgstr "Hayatta kalmak için:\nDüşmanlardan kaç, TP ve Jeton topla, yükseltmeler al ve dosyaları aç.\n\nBazı dosyalar risklidir, bazıları için anahtar gerekir, bazılarıysa doğrudan garanti ödüller verir.\n\nAyrıca sağ üst köşede, her tur bonus kazandıran bir Yan Görev bulunur."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
-msgstr ""
-"Düşmanları temizleyerek ve {safe} konumuna vaktinde ulaşarak Beanz kazan.\n"
-"\n"
-"Görevleri tamamlayarak fazladan Beanz elde et.\n"
-"\n"
-"Yeni İmleç Sınıfları, Silahlar, Yükseltmeler, Eklentiler, Dosyalar, "
-"{vapor} eşyaları ve çok daha fazlası için Beanz harca!"
+msgstr "Düşmanları temizleyerek ve {safe} konumuna vaktinde ulaşarak Beanz kazan.\n\nGörevleri tamamlayarak fazladan Beanz elde et.\n\nYeni İmleç Sınıfları, Silahlar, Yükseltmeler, Eklentiler, Dosyalar, {vapor} eşyaları ve çok daha fazlası için Beanz harca!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
-msgstr ""
-"Şimdilik bu kadar!\n"
-"\n"
-"İlk silahını seç, oyna, hayatta kal ve eğlen :)"
+msgstr "Şimdilik bu kadar!\n\nİlk silahını seç, oyna, hayatta kal ve eğlen :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3729,7 +3510,7 @@ msgstr "%s temizlendi, %s düştü."
 #. source: %d %s
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.notif_elites_named"
-msgstr "%d %s"
+msgstr ""
 
 #. Multi Plus! toast when types are mixed. %d is how many spawned together
 #. source: %d Plus! enemies
@@ -3781,7 +3562,7 @@ msgstr "%d/%d .%s dosyası aç"
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
 msgid "UI.vapidshare_title_pro"
-msgstr "Vapidshare Pro"
+msgstr ""
 
 #. Vapidshare window parts progress
 #. source: Parts %d / %d
@@ -3807,7 +3588,7 @@ msgstr "Tamamlandı"
 #. Vapidshare list hoster column
 #. source: vapidshare.com
 msgid "UI.vapidshare_hoster"
-msgstr "vapidshare.com"
+msgstr ""
 
 #. Vapidshare list Hoster header
 #. source: Hoster
@@ -3898,32 +3679,7 @@ msgstr "Kazandın!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr ""
-"Bir sorun algılandı ve bilgisayarınızın zarar görmesini önlemek için "
-"sistem kapatıldı.\n"
-"\n"
-"CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
-"\n"
-"Bu durdur hatası ekranını ilk kez görüyorsanız, bilgisayarınızı yeniden "
-"başlatın.\n"
-"Bu ekran yeniden karşınıza çıkarsa, dahili modüller zarar görmüş "
-"olabilir.\n"
-"\n"
-"Lütfen yüklü bileşenlerinizin bütünlüğünü doğrulayın. Beklenmeyen "
-"davranışlar bozuk\n"
-"bellek, geçersiz paket enjeksiyonu veya yetkisiz betik yürütmesine işaret "
-"ediyor olabilir.\n"
-"\n"
-"Sorun devam ederse, güvenli modda yeniden başlatın veya sistem "
-"yöneticinize başvurun.\n"
-"\n"
-"Teknik bilgiler:\n"
-"STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
-"\n"
-"Zorla kapatma işlemi başlatılıyor…\n"
-"Önbellek temizlendi.\n"
-"\n"
-"Devam etmek için: {click} | İstatistikler: {tab}"
+msgstr "Bir sorun algılandı ve bilgisayarınızın zarar görmesini önlemek için sistem kapatıldı.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nBu durdur hatası ekranını ilk kez görüyorsanız, bilgisayarınızı yeniden başlatın.\nBu ekran yeniden karşınıza çıkarsa, dahili modüller zarar görmüş olabilir.\n\nLütfen yüklü bileşenlerinizin bütünlüğünü doğrulayın. Beklenmeyen davranışlar bozuk\nbellek, geçersiz paket enjeksiyonu veya yetkisiz betik yürütmesine işaret ediyor olabilir.\n\nSorun devam ederse, güvenli modda yeniden başlatın veya sistem yöneticinize başvurun.\n\nTeknik bilgiler:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nZorla kapatma işlemi başlatılıyor…\nÖnbellek temizlendi.\n\nDevam etmek için: {click} | İstatistikler: {tab}"
 
 #. Browser address-bar caption
 #. source: Address
@@ -3964,7 +3720,7 @@ msgstr "Clearzone - Eklentini Seç"
 #. source: %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_progress"
-msgstr "%d / %d"
+msgstr ""
 
 #. Clearzone archive clears label
 #. source: Clears
@@ -3985,7 +3741,7 @@ msgstr "Süre"
 #. source: %d KB
 #. Keep placeholders unchanged: %d
 msgid "UI.rar_size_kb"
-msgstr "%d KB"
+msgstr ""
 
 #. Torrent window title
 #. source: BigWave 2003 Edition
@@ -4005,8 +3761,7 @@ msgstr "İndir"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr ""
-"Başka bir part zaten indiriliyor. Eşzamanlı indirme için Vapidshare Pro al."
+msgstr "Başka bir part zaten indiriliyor. Eşzamanlı indirme için Vapidshare Pro al."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4018,7 +3773,7 @@ msgstr "Değiştir: %.2f Jeton"
 #. source: Beanz: %d
 #. Keep placeholders unchanged: %d
 msgid "UI.beanz"
-msgstr "Beanz: %d"
+msgstr ""
 
 #. HUD - Coin label
 #. source: Coin: %.2f
@@ -4264,7 +4019,7 @@ msgstr "{amount} defa öl"
 #. Hidden 5th weapon slot label
 #. source: Bonus
 msgid "UI.weapon_slot_bonus"
-msgstr "Bonus"
+msgstr ""
 
 #. Unlock requirement - open N LemWire files
 #. source: Open {amount} LemWire files
@@ -4380,7 +4135,7 @@ msgstr "Güvenli Klasörlerde Jeton karşılığında Anahtar al ve sat."
 #. UI (script-driven)
 #. source: KeyBuy
 msgid "UI.unlock_file_keybuy_reward"
-msgstr "KeyBuy"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Heal now, or upgrade Health Check files for later battles.
@@ -4410,18 +4165,17 @@ msgstr "Zaten yüklü olan rastgele bir eklentiyi kopyalamak için Jeton harca."
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
 msgid "UI.unlock_file_ethanol_reward"
-msgstr "Ethanol 130%"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Download multi-part archives that drop Cracked Installers.
 msgid "UI.unlock_file_vapidshare_desc"
-msgstr ""
-"Çok partlı arşiv dosyaları indirerek crack'li kurulum sihirbazları oluştur."
+msgstr "Çok partlı arşiv dosyaları indirerek crack'li kurulum sihirbazları oluştur."
 
 #. UI (script-driven)
 #. source: Vapidshare
 msgid "UI.unlock_file_vapidshare_reward"
-msgstr "Vapidshare"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install plugins without spending a Key.
@@ -4436,13 +4190,12 @@ msgstr "Crack'li Kurulum Sihirbazı"
 #. UI (script-driven)
 #. source: Clear a zone of enemies to choose from three plugins.
 msgid "UI.unlock_file_killzone_desc"
-msgstr ""
-"Üç eklentiden birini seçmek için bir bölgeyi düşmanlardan temizleyin."
+msgstr "Üç eklentiden birini seçmek için bir bölgeyi düşmanlardan temizleyin."
 
 #. UI (script-driven)
 #. source: Clearzone
 msgid "UI.unlock_file_killzone_reward"
-msgstr "Clearzone"
+msgstr ""
 
 #. UI (script-driven)
 #. source: Install 3 legendary plugins
@@ -4467,14 +4220,12 @@ msgstr "Bir Plus! düşmanını 10 saniyede yenin"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr ""
-"Zorluğu yükseltmek ve daha fazla Plus! düşmanı çıkarmak için Morgan "
-"Antivirüsü yükle."
+msgstr "Zorluğu yükseltmek ve daha fazla Plus! düşmanı çıkarmak için Morgan Antivirüsü yükle."
 
 #. UI (script-driven)
 #. source: Bonus Beanz
 msgid "UI.unlock_general_reward"
-msgstr "Bonus Beanz"
+msgstr ""
 
 #. Lifetime clears milestone description
 #. source: Lifetime enemy clears milestone.
@@ -4591,9 +4342,7 @@ msgstr "Etkinleştirme Gerekli"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr ""
-"Keygen dosyaları oluşmaz. Eklentilere crack'li kurulum sihirbazları ile "
-"veya ürün anahtarı dükkânından anahtar satın alarak sahip ol."
+msgstr "Keygen dosyaları oluşmaz. Eklentilere crack'li kurulum sihirbazları ile veya ürün anahtarı dükkânından anahtar satın alarak sahip ol."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4668,7 +4417,7 @@ msgstr "Turlarda dosya oluşmaz."
 #. Optional extra difficulty policy - name (open_relay)
 #. source: Open Relay
 msgid "POLICY.open_relay.name"
-msgstr "Open Relay"
+msgstr ""
 
 #. Optional extra difficulty policy - description (open_relay)
 #. source: Every battle file includes spam.
@@ -4683,11 +4432,7 @@ msgstr "Varsayılan Etki Alanı İlkesi"
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr ""
-"Tüm standart İlkeler geçerlidir. Düşmanlar daha hızlı, daha dayanıklı ve "
-"daha kalabalıktır. Her Savaş Klasöründe mevcut Can yarıya iner. Ek silah, "
-"Keygen veya Değiştir hakkı yoktur. Boşluk etkisi 2 katına çıkar. Kaçış "
-"süresi yarıya iner."
+msgstr "Tüm standart İlkeler geçerlidir. Düşmanlar daha hızlı, daha dayanıklı ve daha kalabalıktır. Her Savaş Klasöründe mevcut Can yarıya iner. Ek silah, Keygen veya Değiştir hakkı yoktur. Boşluk etkisi 2 katına çıkar. Kaçış süresi yarıya iner."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4716,7 +4461,7 @@ msgstr "{policy} etkinken Protokol V'i tamamla."
 #. KeyBuy window and desktop icon title
 #. source: keyBuy
 msgid "UI.keybuy_title"
-msgstr "keyBuy"
+msgstr ""
 
 #. KeyBuy buy button
 #. source: Buy a Key
@@ -4749,9 +4494,7 @@ msgstr "1 Anahtar karşılığı {cost} Jeton harca."
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
-msgstr ""
-"{cost} Jeton karşılığı 1 Anahtar sat.\n"
-"Pazaryeri komisyonu {fee} Jetondur."
+msgstr "{cost} Jeton karşılığı 1 Anahtar sat.\nPazaryeri komisyonu {fee} Jetondur."
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4786,9 +4529,7 @@ msgstr "Yükseltilenler"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr ""
-"Bu oturum için bir sonraki savaşlarda Can Kontrolü dosyaları daha fazla kalp "
-"verir."
+msgstr "Bu oturum için bir sonraki savaşlarda Can Kontrolü dosyaları daha fazla kalp verir."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4813,9 +4554,7 @@ msgstr "Şipşak Tamir"
 #. Health Check Pro file-upgrade explanation
 #. source: Upgrading makes Health Check files in battle drop more hearts.
 msgid "UI.health_check_pro_file_blurb"
-msgstr ""
-"Yükseltmeler savaştaki Can Kontrolü dosyalarının daha fazla kalp "
-"bırakmasını sağlar."
+msgstr "Yükseltmeler savaştaki Can Kontrolü dosyalarının daha fazla kalp bırakmasını sağlar."
 
 #. Health Check Pro current heart range
 #. source: Now: {min}–{max} HP
@@ -4960,9 +4699,7 @@ msgstr "Mevcut yatırımını Jetona çevir."
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr ""
-"Hâlihazırda yüklü olan rastgele bir eklentinin bir kopyasını almak için "
-"Jeton ödeyin."
+msgstr "Hâlihazırda yüklü olan rastgele bir eklentinin bir kopyasını almak için Jeton ödeyin."
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -5062,6 +4799,11 @@ msgid "CLICKABLE.double_click_play"
 msgstr "Oynamak için Çift Tıkla"
 
 #. Desktop icon tooltip
+#. source: Double-Click to skip track
+msgid "CLICKABLE.double_click_shuffle"
+msgstr ""
+
+#. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
 msgstr "Dükkanı açmak için Çift Tıkla"
@@ -5102,6 +4844,11 @@ msgstr "Bağlantıyı açmak için Çift Tıkla"
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
 msgstr "Dil değiştirmek için Çift Tıkla"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
+msgid "CLICKABLE.github_translations"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5240,21 +4987,22 @@ msgstr "AZAMİ KADEME"
 msgid "META.cost_beanz"
 msgstr "Bedel: %d Beanz"
 
+#. Zip window titlebar when SHZip License is equipped
+#. source: SHZip v2.03
+msgid "ZIP.title_licensed"
+msgstr ""
+
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
-msgstr ""
-"Dosya çıkartılıyor: \n"
-"/.??? konumundan %s"
+msgstr "Dosya çıkartılıyor: \n/.??? konumundan %s"
 
 #. Zip extractor window
 #. source: Estimated time left: {m}m {s}s ({cur} KB of {max} KB) \nProcessing rate: {rate} KB/Sec
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
-msgstr ""
-"Tahmini kalan süre: {m}dk {s}sn ({cur} KB / {max} KB)\n"
-"İşlem hızı: {rate} KB/sn"
+msgstr "Tahmini kalan süre: {m}dk {s}sn ({cur} KB / {max} KB)\nİşlem hızı: {rate} KB/sn"
 
 #. Zip extractor window
 #. source: %s extracted successfully.
@@ -5271,12 +5019,12 @@ msgstr "Eksik dinamik bağlantı kitaplığı %s bulundu."
 #. Desktop icon tooltip
 #. source: BigWave.exe
 msgid "CLICKABLE.filename.torrent"
-msgstr "BigWave.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: LemWire.exe
 msgid "CLICKABLE.filename.lemwire"
-msgstr "LemWire.exe"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: Installer.pgi
@@ -5296,7 +5044,7 @@ msgstr "EFSANEVI_SETUP.exe"
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr "MorganAV.pgi"
+msgstr ""
 
 #. Run stats panel row
 #. source: Difficulty
@@ -5376,9 +5124,7 @@ msgstr "Puan"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr ""
-"Temizlik, seviye, güvenli klasör ve bitirme bonuslarından kazanılan oturum "
-"puanı."
+msgstr "Temizlik, seviye, güvenli klasör ve bitirme bonuslarından kazanılan oturum puanı."
 
 #. Run stats panel row
 #. source: Class
@@ -5466,14 +5212,12 @@ msgstr "Son Savaş Klasöründe toplanan anahtarlar."
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr ""
-"Son Savaş Klasöründe kazanılan Beanz miktarı, Güvenli Klasör ödülleri "
-"dahil."
+msgstr "Son Savaş Klasöründe kazanılan Beanz miktarı, Güvenli Klasör ödülleri dahil."
 
 #. Run and last-round DPS label
 #. source: DPS
 msgid "RUNSTAT.dps"
-msgstr "DPS"
+msgstr ""
 
 #. Run DPS tooltip
 #. source: Damage per second this run, during Battle Folders only.
@@ -5562,7 +5306,7 @@ msgstr "RAM indirme tamamlandı."
 
 #. keygen
 msgid "keygen.exe"
-msgstr "keygen.exe"
+msgstr ""
 
 #. vapor
 msgid "vapor.exe"
@@ -5574,23 +5318,27 @@ msgstr "curcuna.exe"
 
 #. Vapidshare
 msgid "Vapidshare.exe"
-msgstr "Vapidshare.exe"
+msgstr ""
 
 #. Scene label
 msgid "Feedback"
 msgstr "Geri Bildirim"
 
 #. Scene label
-msgid "Wishlist"
-msgstr "İstek Listesi"
+msgid "Steam"
+msgstr ""
 
 #. Scene label
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
+
+#. Scene label
+msgid "Translations GitHub"
+msgstr ""
 
 #. avs03
 msgid "avs03.com"
-msgstr "avs03.com"
+msgstr ""
 
 #. Scene label
 msgid "Level 8"
@@ -5621,9 +5369,7 @@ msgstr "Hız Aşırtılmış"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr ""
-"Hasarı 1.6 katına çıkar.\n"
-"Yenilemeyi -%15 azalt."
+msgstr "Hasarı 1.6 katına çıkar.\nYenilemeyi -%15 azalt."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5633,21 +5379,17 @@ msgstr "Hyper-Threading Destekli"
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.hyperthreaded.description"
-msgstr ""
-"Miktara +2 ekle.\n"
-"Hasarı -%20 azalt."
+msgstr "Miktara +2 ekle.\nHasarı -%20 azalt."
 
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
 msgid "DRIVER.turbo_clock.name"
-msgstr "Turbo Clock"
+msgstr ""
 
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
 msgid "DRIVER.turbo_clock.description"
-msgstr ""
-"Hızı +%50 artır.\n"
-"Gücü -%15 azalt."
+msgstr "Hızı +%50 artır.\nGücü -%15 azalt."
 
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
@@ -5667,8 +5409,7 @@ msgstr "Genişletilmiş Tablo"
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
 msgid "DRIVER.extended_table.description"
-msgstr ""
-"Saldırı Hızı artık bu silahın süresinin daha erken dolmasına neden olmuyor."
+msgstr "Saldırı Hızı artık bu silahın süresinin daha erken dolmasına neden olmuyor."
 
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
@@ -5688,9 +5429,7 @@ msgstr "Parçalanmış"
 #. Weapon driver / overclock card - description (avd_fragmented)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.avd_fragmented.description"
-msgstr ""
-"Duvardan sektiğinde: yarı boyutunda iki parçaya bölünür.\n"
-"Kopyalar bir defa bölünebilir."
+msgstr "Duvardan sektiğinde: yarı boyutunda iki parçaya bölünür.\nKopyalar bir defa bölünebilir."
 
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
@@ -5700,9 +5439,7 @@ msgstr "Uzakta Mesajı"
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
 msgid "DRIVER.avn_away.description"
-msgstr ""
-"Miktara +1 ekle. Hızı +%20 artır.\n"
-"Boyutu +%15 artır."
+msgstr "Miktara +1 ekle. Hızı +%20 artır.\nBoyutu +%15 artır."
 
 #. Weapon driver / overclock card - name (avn_buddy)
 #. source: Buddy List
@@ -5712,9 +5449,7 @@ msgstr "Arkadaş Listesi"
 #. Weapon driver / overclock card - description (avn_buddy)
 #. source: Add +2 Amount.\nIncrease Power +15%.
 msgid "DRIVER.avn_buddy.description"
-msgstr ""
-"Miktara +2 ekle.\n"
-"Gücü +%15 artır."
+msgstr "Miktara +2 ekle.\nGücü +%15 artır."
 
 #. Weapon driver / overclock card - name (blatand_pair)
 #. source: Paired Devices
@@ -5724,9 +5459,7 @@ msgstr "Eşleştirilmiş Cihazlar"
 #. Weapon driver / overclock card - description (blatand_pair)
 #. source: Add +1 Amount. Increase Power +25%.\nIncrease Speed +20%.
 msgid "DRIVER.blatand_pair.description"
-msgstr ""
-"Miktara +1 ekle. Gücü +%25 artır.\n"
-"Hızı +%20 artır."
+msgstr "Miktara +1 ekle. Gücü +%25 artır.\nHızı +%20 artır."
 
 #. Weapon driver / overclock card - name (bubbles_soap)
 #. source: Soap
@@ -5736,9 +5469,7 @@ msgstr "Sabun"
 #. Weapon driver / overclock card - description (bubbles_soap)
 #. source: Add +1 Amount.\nIncrease Size +40%.
 msgid "DRIVER.bubbles_soap.description"
-msgstr ""
-"Miktara +1 ekle.\n"
-"Boyutu +%40 artır."
+msgstr "Miktara +1 ekle.\nBoyutu +%40 artır."
 
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
@@ -5748,9 +5479,7 @@ msgstr "Köpük"
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
 msgid "DRIVER.bubbles_suds.description"
-msgstr ""
-"Duvardan sektiğinde: yarı boyutunda iki parçaya bölünür.\n"
-"Kopyalar bir defa bölünebilir."
+msgstr "Duvardan sektiğinde: yarı boyutunda iki parçaya bölünür.\nKopyalar bir defa bölünebilir."
 
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
@@ -5760,9 +5489,7 @@ msgstr "Ara"
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
 msgid "DRIVER.cdrive_seek.description"
-msgstr ""
-"Geri Püskürtmeyi, Gecikmeye dönüştürür.\n"
-"Hızı %60 artır."
+msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür.\nHızı %60 artır."
 
 #. Weapon driver / overclock card - name (cdrive_cleanup)
 #. source: Disk Cleanup
@@ -5782,9 +5509,7 @@ msgstr "Dolambaçlı Yol"
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
 msgid "DRIVER.cone_detour.description"
-msgstr ""
-"Harareti, Gecikmeye dönüştürür. Boyutu +%35 artır.\n"
-"Hasarı +%15 artır."
+msgstr "Harareti, Gecikmeye dönüştürür. Boyutu +%35 artır.\nHasarı +%15 artır."
 
 #. Weapon driver / overclock card - name (cone_workzone)
 #. source: Work Zone
@@ -5794,9 +5519,7 @@ msgstr "Çalışma Alanı"
 #. Weapon driver / overclock card - description (cone_workzone)
 #. source: Add +1 Amount.\nIncrease Power +30%.
 msgid "DRIVER.cone_workzone.description"
-msgstr ""
-"Miktara +1 ekle.\n"
-"Gücü +%30 artır."
+msgstr "Miktara +1 ekle.\nGücü +%30 artır."
 
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
@@ -5806,9 +5529,7 @@ msgstr "Tarayıcı Korsanlığı"
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
 msgid "DRIVER.cruiser_multitab.description"
-msgstr ""
-"Gecikmeyi, Enfeksiyona dönüştürür. Miktara +1 ekle.\n"
-"Gücü +%25 artır."
+msgstr "Gecikmeyi, Enfeksiyona dönüştürür. Miktara +1 ekle.\nGücü +%25 artır."
 
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
@@ -5828,9 +5549,7 @@ msgstr "Böl"
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
 msgid "DRIVER.cut_cleave.description"
-msgstr ""
-"Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu +%80 artır.\n"
-"Miktara -0.5 ekle."
+msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu +%80 artır.\nMiktara -0.5 ekle."
 
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
@@ -5840,9 +5559,7 @@ msgstr "Kâğıt Kesiği"
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
 msgid "DRIVER.cut_papercut.description"
-msgstr ""
-"Miktara +2 ekle.\n"
-"Hızı +%25 artır."
+msgstr "Miktara +2 ekle.\nHızı +%25 artır."
 
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
@@ -5852,9 +5569,7 @@ msgstr "Hararetli Posta"
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
 msgid "DRIVER.email_cc.description"
-msgstr ""
-"Enfeksiyonu, Hararete dönüştürür. Miktara +1 ekle.\n"
-"Hızı +%35 artır."
+msgstr "Enfeksiyonu, Hararete dönüştürür. Miktara +1 ekle.\nHızı +%35 artır."
 
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
@@ -5894,21 +5609,17 @@ msgstr "Cüretkâr"
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
 msgid "DRIVER.fontart_bold.description"
-msgstr ""
-"Boyutu +%60 artır. Gücü +%60 artır.\n"
-"Miktarı -%25 azalt."
+msgstr "Boyutu +%60 artır. Gücü +%60 artır.\nMiktarı -%25 azalt."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: WordArt
 msgid "DRIVER.fontart_wordart.name"
-msgstr "WordArt"
+msgstr ""
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
 msgid "DRIVER.fontart_wordart.description"
-msgstr ""
-"Boyutu +%40 artır.\n"
-"Miktara +1 ekle."
+msgstr "Boyutu +%40 artır.\nMiktara +1 ekle."
 
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
@@ -5918,21 +5629,17 @@ msgstr "Performans Testi"
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
 msgid "DRIVER.fraps_benchmark.description"
-msgstr ""
-"Geri Püskürtmeyi, Hararete dönüştürür. Hasarı +%25 artır.\n"
-"Hızı +%20 artır."
+msgstr "Geri Püskürtmeyi, Hararete dönüştürür. Hasarı +%25 artır.\nHızı +%20 artır."
 
 #. Weapon driver / overclock card - name (fraps_vsync)
 #. source: VSync
 msgid "DRIVER.fraps_vsync.name"
-msgstr "VSync"
+msgstr ""
 
 #. Weapon driver / overclock card - description (fraps_vsync)
 #. source: FPS numbers bounce off walls.\nIncrease Size +20%.
 msgid "DRIVER.fraps_vsync.description"
-msgstr ""
-"FPS sayıları duvarlardan seker.\n"
-"Boyutu +%20 artır."
+msgstr "FPS sayıları duvarlardan seker.\nBoyutu +%20 artır."
 
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
@@ -5942,9 +5649,7 @@ msgstr "Kelle Avcısı"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr ""
-"İnfaz şansını artırır. Geri Püskürtmeyi, Hararete dönüştürür.\n"
-"Hasarı -%15 azaltır."
+msgstr "İnfaz şansını artırır. Geri Püskürtmeyi, Hararete dönüştürür.\nHasarı -%15 azaltır."
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5964,9 +5669,7 @@ msgstr "Kundakla"
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
 msgid "DRIVER.minesweeper_flag.description"
-msgstr ""
-"Geri Püskürtmeyi, Hararete dönüştürür. Miktara +1 ekle.\n"
-"Gücü +%20 artır."
+msgstr "Geri Püskürtmeyi, Hararete dönüştürür. Miktara +1 ekle.\nGücü +%20 artır."
 
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
@@ -5986,9 +5689,7 @@ msgstr "Çevirmeli Bağlantı Tıkanıklığı"
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
 msgid "DRIVER.modem_handshake.description"
-msgstr ""
-"Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +1 ekle.\n"
-"Boyutu +%25 artır."
+msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +1 ekle.\nBoyutu +%25 artır."
 
 #. Weapon driver / overclock card - name (modem_broadband)
 #. source: Broadband
@@ -5998,9 +5699,7 @@ msgstr "Geniş Bant"
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
 msgid "DRIVER.modem_broadband.description"
-msgstr ""
-"Hızı +%50 artır.\n"
-"Hasarı +%20 artır."
+msgstr "Hızı +%50 artır.\nHasarı +%20 artır."
 
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
@@ -6010,9 +5709,7 @@ msgstr "Sekme Aşırı Yüklemesi"
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
 msgid "DRIVER.orchestra_fortissimo.description"
-msgstr ""
-"Enfeksiyonu, Hararete dönüştürür. Hasarı +%35 artır.\n"
-"Gücü +%35 artır."
+msgstr "Enfeksiyonu, Hararete dönüştürür. Hasarı +%35 artır.\nGücü +%35 artır."
 
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
@@ -6032,9 +5729,7 @@ msgstr "Saçıl"
 #. Weapon driver / overclock card - description (paint_spill)
 #. source: Increase Size +100%.\nReduce Damage -20%.
 msgid "DRIVER.paint_spill.description"
-msgstr ""
-"Boyutu +%100 artır.\n"
-"Hasarı -%20 azalt."
+msgstr "Boyutu +%100 artır.\nHasarı -%20 azalt."
 
 #. Weapon driver / overclock card - name (paint_fill)
 #. source: Fill Bucket
@@ -6044,9 +5739,7 @@ msgstr "Boya Kovası"
 #. Weapon driver / overclock card - description (paint_fill)
 #. source: Add +1 Amount.\nIncrease Power +40%.
 msgid "DRIVER.paint_fill.description"
-msgstr ""
-"Miktara +1 ekle.\n"
-"Gücü +%40 artır."
+msgstr "Miktara +1 ekle.\nGücü +%40 artır."
 
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
@@ -6056,9 +5749,7 @@ msgstr "Tilt Oldu"
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
 msgid "DRIVER.pinball_tilted.description"
-msgstr ""
-"Duvardan sektiğinde: Boyutu artır. İki defaya kadar.\n"
-"Boyutu -%30 azalt."
+msgstr "Duvardan sektiğinde: Boyutu artır. İki defaya kadar.\nBoyutu -%30 azalt."
 
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
@@ -6068,9 +5759,7 @@ msgstr "Katı"
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
 msgid "DRIVER.quarantine_strict.description"
-msgstr ""
-"Geri Püskürtmeyi, Enfeksiyona dönüştürür.\n"
-"Gücü +%70 artır."
+msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür.\nGücü +%70 artır."
 
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
@@ -6080,9 +5769,7 @@ msgstr "Sezgisel"
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
 msgid "DRIVER.quarantine_heuristic.description"
-msgstr ""
-"Hasarı +%40 artır.\n"
-"Hızı +%20 artır."
+msgstr "Hasarı +%40 artır.\nHızı +%20 artır."
 
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
@@ -6092,9 +5779,7 @@ msgstr "Mikrodalga Çanağı"
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
 msgid "DRIVER.satellite_dish.description"
-msgstr ""
-"Gecikmeyi, Hararete dönüştürür. Boyutu +%30 artır.\n"
-"Hızı +%15 artır."
+msgstr "Gecikmeyi, Hararete dönüştürür. Boyutu +%30 artır.\nHızı +%15 artır."
 
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
@@ -6114,9 +5799,7 @@ msgstr "Silah Zehri"
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
 msgid "DRIVER.scimitar_dragon.description"
-msgstr ""
-"Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu +%50 artır.\n"
-"Miktara +1 ekle."
+msgstr "Geri Püskürtmeyi, Enfeksiyona dönüştürür. Boyutu +%50 artır.\nMiktara +1 ekle."
 
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
@@ -6136,9 +5819,7 @@ msgstr "Derin Arama"
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
 msgid "DRIVER.search_deep.description"
-msgstr ""
-"Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +2 ekle.\n"
-"Hasarı -%20 azalt."
+msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +2 ekle.\nHasarı -%20 azalt."
 
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
@@ -6148,9 +5829,7 @@ msgstr "Sonrakini Bul"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr ""
-"Hızı +%30 artır.\n"
-"Yenilemeyi +%20 artır."
+msgstr "Hızı +%30 artır.\nYenilemeyi +%20 artır."
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -6160,9 +5839,7 @@ msgstr "Yüksek Kalibre"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr ""
-"Hasarı 1.5 katına çıkar. Gücü +%30 artır.\n"
-"Yenilemeyi +%25 artır."
+msgstr "Hasarı 1.5 katına çıkar. Gücü +%30 artır.\nYenilemeyi +%25 artır."
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -6172,9 +5849,7 @@ msgstr "Tek At"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr ""
-"İnfaz şansına +%7 ekle.\n"
-"Hasarı +%25 artır."
+msgstr "İnfaz şansına +%7 ekle.\nHasarı +%25 artır."
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
@@ -6184,9 +5859,7 @@ msgstr "Hile Yap"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr ""
-"Hasarı +%50 artır. Miktara +1 ekle.\n"
-"Yenilemeyi -%15 azalt."
+msgstr "Hasarı +%50 artır. Miktara +1 ekle.\nYenilemeyi -%15 azalt."
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6266,7 +5939,7 @@ msgstr "LemWire 4.7 - İndirmeni Seç"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "LemWire 4.7"
-msgstr "LemWire 4.7"
+msgstr ""
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6350,21 +6023,13 @@ msgstr "SHZip v2.03 (deneme sürümü)"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Extracting file:\n"
-"temp_file_649743.zip from /.???"
-msgstr ""
-"Dosya çıkartılıyor:\n"
-"/.??? konumundan temp_file_649743.zip"
+msgid "Extracting file:\ntemp_file_649743.zip from /.???"
+msgstr "Dosya çıkartılıyor:\n/.??? konumundan temp_file_649743.zip"
 
 #. Scene label
 #. screens: zip_window.tscn
-msgid ""
-"Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
-"Processing rate: 0.00 KB/Sec"
-msgstr ""
-"Tahmini kalan süre: 0dk 00sn (0.00 KB / 0.00 KB)\n"
-"İşlem hızı: 0.00 KB/sn"
+msgid "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\nProcessing rate: 0.00 KB/Sec"
+msgstr "Tahmini kalan süre: 0dk 00sn (0.00 KB / 0.00 KB)\nİşlem hızı: 0.00 KB/sn"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6399,7 +6064,7 @@ msgstr "Bazı ayarlara Çift Tıklayarak başlayalım."
 #. Scene label
 #. screens: starter_folder.tscn; window.tscn
 msgid "/"
-msgstr "/"
+msgstr ""
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6429,12 +6094,12 @@ msgstr "İstatistikYöneticisi V0.1b"
 #. Scene label
 #. screens: stat_list.tscn
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "B"
-msgstr "B"
+msgstr ""
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6449,7 +6114,7 @@ msgstr "Güvenlik Duvarı Boyutu"
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
 msgid "Antivirus Survivors 2003 Professional ©"
-msgstr "Antivirus Survivors 2003 Professional ©"
+msgstr ""
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6458,28 +6123,8 @@ msgstr "Zafer!"
 
 #. Scene label
 #. screens: end_screen.tscn
-msgid ""
-"You did it! I'm proud of you! I hope you had fun.\n"
-"\n"
-"However I am very sorry that this is such a boring and uninspired win "
-"screen. You deserve better and you will get better - in the full release.\n"
-"\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend "
-"those Beanz on some upgrades and try out some different builds.\n"
-"\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on "
-"Steam - there's so much more to come!"
-msgstr ""
-"Başardın! Seninle gurur duyuyorum! Umarım eğlenmişsindir.\n"
-"\n"
-"Ancak kazanma ekranı sıkıcı ve sönük olduğu için çok üzgünüm. Daha iyisini "
-"hak ediyorsun ve alacaksın da, tam sürümde.\n"
-"\n"
-"Bu sırada, sonraki zorlukları denemenin tadını çıkar ve “Bean”lerini "
-"harcayarak yükseltmeler yapıp farklı oynanış stillerini keşfet.\n"
-"\n"
-"Eğer bu demo eğlenceli geldiyse oyunu Steam'de istek listene eklemeyi veya "
-"takip etmeyi unutma, daha fazlası gelecek!"
+msgid "You did it! I'm proud of you! I hope you had fun.\n\nHowever I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n\nIn the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n\nIf you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+msgstr "Başardın! Seninle gurur duyuyorum! Umarım eğlenmişsindir.\n\nAncak kazanma ekranı sıkıcı ve sönük olduğu için çok üzgünüm. Daha iyisini hak ediyorsun ve alacaksın da, tam sürümde.\n\nBu sırada, sonraki zorlukları denemenin tadını çıkar ve “Bean”lerini harcayarak yükseltmeler yapıp farklı oynanış stillerini keşfet.\n\nEğer bu demo eğlenceli geldiyse oyunu Steam'de istek listene eklemeyi veya takip etmeyi unutma, daha fazlası gelecek!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6503,12 +6148,8 @@ msgstr "Yüklemeye hazırlanılıyor..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"PluginInstaller is preparing to find all appropriate plugins for this "
-"application."
-msgstr ""
-"EklentiKurulumu, bu uygulama için uygun tüm eklentileri bulmaya "
-"hazırlanıyor."
+msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
+msgstr "EklentiKurulumu, bu uygulama için uygun tüm eklentileri bulmaya hazırlanıyor."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6517,12 +6158,8 @@ msgstr "Eklenti Uyumluluk Katmanı kontrol ediliyor..."
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid ""
-"Add +10 Max HP.\n"
-"Heal 20% of Max HP when opening a Safe Folder."
-msgstr ""
-"Azami Cana +10 ekle.\n"
-"Güvenli Klasör açıldığında Azami Canın %20'sini iyileştir."
+msgid "Add +10 Max HP.\nHeal 20% of Max HP when opening a Safe Folder."
+msgstr "Azami Cana +10 ekle.\nGüvenli Klasör açıldığında Azami Canın %20'sini iyileştir."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6556,35 +6193,13 @@ msgstr "Ayarlar"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"coming soon\n"
-"- more weapons\n"
-"- more enemies\n"
-"- bosses\n"
-"- classes\n"
-"- wallpapers\n"
-"- weapon evos\n"
-"- and more"
-msgstr ""
-"çok yakında\n"
-"- daha fazla silah\n"
-"- daha fazla düşman\n"
-"- baş düşmanlar\n"
-"- sınıflar\n"
-"- duvar kağıtları\n"
-"- silah evrimleri\n"
-"- ve daha fazlası"
+msgid "coming soon\n- more weapons\n- more enemies\n- bosses\n- classes\n- wallpapers\n- weapon evos\n- and more"
+msgstr "çok yakında\n- daha fazla silah\n- daha fazla düşman\n- baş düşmanlar\n- sınıflar\n- duvar kağıtları\n- silah evrimleri\n- ve daha fazlası"
 
 #. Scene label
 #. screens: main_menu.tscn
-msgid ""
-"Thank you so much for playing. It means the world to me.\n"
-"enjoy and have a great day <3\n"
-"shaun"
-msgstr ""
-"Oynadığın için çok teşekkür ederim. Benim için anlamı büyük.\n"
-"keyfini çıkar ve harika bir gün geçir <3\n"
-"shaun"
+msgid "Thank you so much for playing. It means the world to me.\nenjoy and have a great day <3\nshaun"
+msgstr "Oynadığın için çok teşekkür ederim. Benim için anlamı büyük.\nkeyfini çıkar ve harika bir gün geçir <3\nshaun"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6628,17 +6243,13 @@ msgstr "Çıkış"
 
 #. Scene label
 #. screens: pause_menu.tscn
-msgid ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond Business Solutions Ltd"
-msgstr ""
-"Antivirus Survivors 2003 Professional\n"
-"Shaun Hammond İş Çözümleri Ltd. Şti."
+msgid "Antivirus Survivors 2003 Professional\nShaun Hammond Business Solutions Ltd"
+msgstr "Antivirus Survivors 2003 Professional\nShaun Hammond İş Çözümleri Ltd. Şti."
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Vsync:"
-msgstr "Vsync:"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6673,12 +6284,12 @@ msgstr "Ekran Yakınlaştırması:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6717,10 +6328,8 @@ msgstr "Arama Yenileme"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-msgid ""
-"Increases Refresh Rate for Search by 20%.\n"
-msgstr ""
-"Arama için Yenileme Hızını %20 artırır.\n"
+msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
+msgstr "Arama için Yenileme Hızını %20 artırır.\nAma işte ikinci bir satır daha."
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6784,4 +6393,4 @@ msgstr "Pencere"
 
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
-msgstr "Antivirus Survivors 2003 Professional"
+msgstr ""
