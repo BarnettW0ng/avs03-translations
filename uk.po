@@ -5055,7 +5055,7 @@ msgstr "Двічі клацніть, щоб грати"
 #, fuzzy
 #| msgid "CLICKABLE.double_click_shop"
 msgid "CLICKABLE.double_click_shuffle"
-msgstr "Двічі клацніть, щоб відкрити магазин"
+msgstr "Двічі клацніть, щоб пропустити трек"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
