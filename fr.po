@@ -1629,6 +1629,7 @@ msgstr "Orchestre"
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
 msgstr ""
+"Ouvre un onglet sur l'ennemi le plus proche. Inflit des attaques d'infection."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -1639,6 +1640,8 @@ msgstr "Wi-Fi"
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
 msgstr ""
+"Déploie un satellite qui attaque des ennemis proches avec des signaux de "
+"délai."
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1648,7 +1651,7 @@ msgstr "AVN"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr ""
+msgstr "Des bulles de messages qui infligent des attaques de délai."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1659,6 +1662,7 @@ msgstr "Cône géant"
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr ""
+"Des cônes collés au pointeur qui attaque des ennemis avec de la chaleur."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1669,6 +1673,7 @@ msgstr "Blåtand"
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
 msgstr ""
+"Connecte des ennemis avec des liens qui infligent des attaques d'infection."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1678,7 +1683,7 @@ msgstr "Périphérique de sortie"
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts concentric handshake rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr ""
+msgstr "Tire des cercles de connection à partir du pointeur."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -2705,42 +2710,54 @@ msgstr ""
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr ""
+msgstr "Complète une tâche d'arme pour l'acheter dans Ajout/Suppr. de contenu."
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
+"Pour déverouiller une classe de pointeur, complète une tâche et achète-la "
+"dans Ajout/Suppr. de contenu."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
 msgstr ""
+"Des nouveaux pilotes à installer. En complètant une tâche, ils peuvent être "
+"achetés dans Ajout/Suppr. de contenu."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
 msgstr ""
+"Des nouveaux pilotes d'armes à déverouiller. Sélectionne-les quand une arme "
+"atteint niveau 8, 16 et 24."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
 msgstr ""
+"Des fichiers et programmes additionnaux qui peuvent êtres achetés dans Ajout/"
+"Suppr. de contenu."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
 msgstr ""
+"Des thèmes pour changer l'apparence de l'ordinateur. Les thèmes déverouillés "
+"peuvent êtres appliqués dans le menu de personnalisation."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
 msgstr ""
+"Complète un protocole avec chaque stratégie, puis avec chaque stratégie de "
+"domaine. Protocole V est le plus difficile."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
 msgid "UI.task_virry_general"
-msgstr ""
+msgstr "Exploits généralistes qui donnent des Beanz."
 
 #. Virry blurb - claimable rewards waiting
 #. source: Nice work! Claim your Beanz rewards by clicking a blue row.
@@ -2752,7 +2769,7 @@ msgstr ""
 #. Virry blurb - leftover task sheet
 #. source: Odds and ends that don't sit on the other task sheets.
 msgid "UI.task_virry_other"
-msgstr ""
+msgstr "Autres exploits qui ne se laissent pas catégoriser."
 
 #. Profile stats - highest score
 #. source: Highest Score
@@ -2777,22 +2794,22 @@ msgstr "Temps total écoulé dans les dossiers de combat."
 #. Profile stats - enemies cleared
 #. source: Enemies Cleared
 msgid "UI.stat_kills"
-msgstr ""
+msgstr "Ennemis tués"
 
 #. Profile stats - enemies cleared tooltip
 #. source: Enemies cleared across all runs.
 msgid "UI.stat_kills_desc"
-msgstr ""
+msgstr "Nombre total d'ennemis tués."
 
 #. Profile stats - deaths
 #. source: Deaths
 msgid "UI.stat_deaths"
-msgstr ""
+msgstr "Bluescreens"
 
 #. Profile stats - deaths tooltip
 #. source: Times this profile has bluescreened.
 msgid "UI.stat_deaths_desc"
-msgstr ""
+msgstr "Nombre de bluescreens sur ce profil."
 
 #. Profile stats - runs finished
 #. source: Runs
@@ -2918,11 +2935,12 @@ msgstr "Attaques spam"
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
 msgstr ""
+"Nombre d'attaque spam de fichiers ZIP ou de téléchargements de RAM échoués."
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
 msgid "UI.stat_rars_desc"
-msgstr ""
+msgstr "Nombre d'archives RAR complétés."
 
 #. Profile stats - file extension row title
 #. source: .%s files opened
@@ -2980,60 +2998,60 @@ msgstr "Arme préférée"
 #. Profile stats - favourite weapon tooltip
 #. source: Weapon you've spent the most battle time using.
 msgid "UI.stat_favourite_weapon_desc"
-msgstr ""
+msgstr "L'arme utilisée la plus souvante."
 
 #. Profile stats - tasks completed
 #. source: Tasks Completed
 msgid "UI.stat_tasks"
-msgstr ""
+msgstr "Tâches complétés"
 
 #. Profile stats - tasks completed tooltip
 #. source: Unlock tasks completed on this profile.
 msgid "UI.stat_tasks_desc"
-msgstr ""
+msgstr "Tâches complétés sur ce profil."
 
 #. Profile stats - named clears row title
 #. source: %s clears
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_clears"
-msgstr ""
+msgstr "Ennemis tués avec %s"
 
 #. Profile stats - named enemy clears row title
 #. source: %s enemy clears
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_enemy_clears"
-msgstr ""
+msgstr "Ennemis %s tués"
 
 #. Profile stats - named completions row title
 #. source: %s completions
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_named_wins"
-msgstr ""
+msgstr "Sessions avec %s"
 
 #. Profile stats - weapon sheet row tooltip
 #. source: Enemies cleared with this weapon.
 msgid "UI.stat_weapon_row_desc"
-msgstr ""
+msgstr "Ennemis tués avec cet arme."
 
 #. Profile stats - class sheet row tooltip
 #. source: Runs completed with this Cursor Class.
 msgid "UI.stat_class_row_desc"
-msgstr ""
+msgstr "Sessions complétés avec succès avec ce pointeur."
 
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
 msgid "UI.stat_policy_row_desc"
-msgstr ""
+msgstr "Sessions complétés avec succès avec cette stratégie."
 
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
 msgid "UI.stat_enemy_row_desc"
-msgstr ""
+msgstr "Nombre de fois ou ce type d'ennemi a été tué."
 
 #. Profile stats - protocol completions row tooltip
 #. source: Runs completed on this Protocol.
 msgid "UI.stat_protocol_wins_desc"
-msgstr ""
+msgstr "Sessions complétés avec succès sur ce protocole."
 
 #. Profile stats - overall sheet tab
 #. source: Overall
@@ -3073,12 +3091,12 @@ msgstr "Stratégies"
 #. Profile stats - HaD: DoCK headshots
 #. source: Headshots
 msgid "UI.stat_headshots"
-msgstr ""
+msgstr "Headshots"
 
 #. Profile stats - headshots tooltip
 #. source: HaD: DoCK execute headshots landed.
 msgid "UI.stat_headshots_desc"
-msgstr ""
+msgstr "Nombre de tirs Headshot avec HaD:DoCK."
 
 #. Profile stats - installer skip or delete
 #. source: Plugins Skipped
@@ -3121,6 +3139,8 @@ msgstr "VAPOR"
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
 msgstr ""
+"Des fichiers spéciaux qui peuvent être activés avec {special} pendant une "
+"session."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3570,7 +3590,7 @@ msgstr "Guide"
 #. Tutorial next-page button
 #. source: Next
 msgid "UI.next"
-msgstr ""
+msgstr "Continuer"
 
 #. Tutorial window title
 #. source: Quick Start Guide
@@ -4945,10 +4965,8 @@ msgstr "Double-clic pour jouer"
 
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
-#, fuzzy
-#| msgid "CLICKABLE.double_click_shop"
 msgid "CLICKABLE.double_click_shuffle"
-msgstr "Double-clic pour ouvrir la boutique"
+msgstr "Double-clic pour passer à la musique suivante"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
@@ -5480,7 +5498,7 @@ msgstr "Retours"
 
 #. Scene label
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. Scene label
 msgid "Discord"
@@ -5488,7 +5506,7 @@ msgstr "Discord"
 
 #. Scene label
 msgid "Translations GitHub"
-msgstr ""
+msgstr "Traductions"
 
 #. avs03
 msgid "avs03.com"
@@ -5518,7 +5536,7 @@ msgstr "Erreur de validation sur {0} fichiers."
 #. Weapon driver / overclock card - name (overclocked)
 #. source: Overclocked
 msgid "DRIVER.overclocked.name"
-msgstr ""
+msgstr "Surchargé"
 
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
