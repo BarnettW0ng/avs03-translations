@@ -5405,12 +5405,12 @@ msgstr "Політика"
 #. Run stats panel row
 #. source: Extra difficulty policy enabled for this run.
 msgid "RUNSTAT.policy_desc"
-msgstr "В цьому забігу ввімкнена політика щодо складності."
+msgstr "Додаткова складність в цьому забігу."
 
 #. Run stats panel row
 #. source: None
 msgid "RUNSTAT.policy_none"
-msgstr "Нічого"
+msgstr "Немає"
 
 #. End-of-run stats - tasks completed header with count
 #. source: Tasks Completed - %d
@@ -5421,7 +5421,7 @@ msgstr "Завдань виконано - %d"
 #. UI (script-driven)
 #. source: No new tasks this run
 msgid "UI.win_tasks_empty"
-msgstr "В цьому забігу немає нових завдань"
+msgstr "Немає нових завдань"
 
 #. Safe Folder explorer - tree pane header
 #. source: Folders
