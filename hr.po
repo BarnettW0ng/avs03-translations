@@ -5030,6 +5030,11 @@ msgid "CLICKABLE.double_click_play"
 msgstr "Kliknite dvaput za Reprodukciju"
 
 #. Desktop icon tooltip
+#. source: Double-Click to skip track
+msgid "CLICKABLE.double_click_shuffle"
+msgstr "Kliknite dvaput za sljedeću pjesmu"
+
+#. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
 msgstr "Kliknite dvaput za otvaranje Dućana"
@@ -5070,6 +5075,13 @@ msgstr "Kliknite dvaput za otvaranje poveznicu"
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
 msgstr "Kliknite dvaput za promjenu jezika"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
+msgid "CLICKABLE.github_translations"
+msgstr ""
+"Kliknite dvaput za otvaranje poveznicu[br]Prijevode u igri velikodušno su "
+"omogućili drugi igrači."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5208,7 +5220,7 @@ msgstr "MAKS. RANG"
 msgid "META.cost_beanz"
 msgstr "Cijena: %d Beanz"
 
-#. Zip extractor window
+#. Zip window titlebar when SHZip License is equipped
 #. source: SHZip v2.03
 msgid "ZIP.title_licensed"
 msgstr "SHZip v2.03"
@@ -5554,12 +5566,16 @@ msgid "Feedback"
 msgstr "Povratne informacije"
 
 #. Scene label
-msgid "Wishlist"
-msgstr "Lista želja"
+msgid "Steam"
+msgstr "Steam"
 
 #. Scene label
 msgid "Discord"
 msgstr "Discord"
+
+#. Scene label
+msgid "Translations GitHub"
+msgstr "GitHub za prijevode"
 
 #. avs03
 msgid "avs03.com"
@@ -6758,6 +6774,9 @@ msgstr "Prozor"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Antivirusni Program Survivori 2003. Profesionalan"
+
+#~ msgid "Wishlist"
+#~ msgstr "Lista želja"
 
 #~ msgid "UI.login_demo_detail"
 #~ msgstr "%d Beanz, %d završetka"
