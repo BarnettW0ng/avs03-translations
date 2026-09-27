@@ -727,7 +727,8 @@ msgstr "Stała Klatka"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "Zwiększa Obrażenia Broni o +15% gdy się nie ruszasz."
+msgstr ""
+"Zwiększa Obrażenia Broni o +5% gdy się nie ruszasz i kumuluje się do 15%."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
