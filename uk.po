@@ -454,7 +454,7 @@ msgstr "5% шансу лікування, коли наносиш крит. уд
 #. Plugin - name (hp_boost)
 #. source: Max HP Boost
 msgid "PLUGIN.hp_boost.name"
-msgstr "Збільшення максимального здоров'я"
+msgstr "Збільшення здоров'я"
 
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
