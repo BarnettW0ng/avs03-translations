@@ -886,7 +886,7 @@ msgstr "Régénère 50% des PV maxi au lieu d'un Bluescreen en cas de mort."
 #. Plugin - name (power_user)
 #. source: Power User
 msgid "PLUGIN.power_user.name"
-msgstr ""
+msgstr "Utilisateur avancé"
 
 #. Plugin - description (power_user)
 #. source: Special File capacity scales with Weapon Power.
@@ -3322,12 +3322,12 @@ msgstr "Clic pour acheter pour %d Beanz"
 #. UI (script-driven)
 #. source: Click to disable spawning
 msgid "UI.store_tooltip_owned_toggle"
-msgstr ""
+msgstr "Clic pour désactiver"
 
 #. UI (script-driven)
 #. source: Click to enable spawning
 msgid "UI.store_tooltip_disabled"
-msgstr ""
+msgstr "Clic pour activer"
 
 #. Policies locked until the chosen protocol or higher is completed once
 #. source: Complete %s or higher once to enable Policies.
@@ -3373,7 +3373,7 @@ msgstr "Modes additionaux - %d/%d complété"
 #. UI (script-driven)
 #. source: Select a Folder Difficulty first.
 msgid "UI.policies_select_protocol"
-msgstr ""
+msgstr "Sélectionne un protocole."
 
 #. Policies menu / starter folder tree root
 #. source: Starter Folder
@@ -3424,6 +3424,8 @@ msgstr "Incomplet"
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
 msgstr ""
+"Contrôle le pointeur avec la souris.[br]Les dossiers de combat utilisent "
+"toujours WASD ou le stick gauche de la manette."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3451,7 +3453,7 @@ msgstr "Tâche complétée"
 #. source: %s Unlock
 #. Keep placeholders unchanged: %s
 msgid "UI.task_unlocks_category"
-msgstr ""
+msgstr "Déverouille un(e) %s"
 
 #. Task tooltip - category line with Beanz amount
 #. source: %s +%d Beanz
@@ -3569,7 +3571,7 @@ msgstr "La première de quatre armes pour cette session."
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
-msgstr ""
+msgstr "Les classes de pointeur modifient les statistiques de base."
 
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
@@ -3602,46 +3604,93 @@ msgstr "Premières étapes"
 #. Keep placeholders unchanged: {game}
 msgid "UI.tutorial_1_body"
 msgstr ""
+"Bienvenue dans {game}!\n"
+"\n"
+"Je suis Virry, et je vais t'expliquer quelques infos de base pour jouer."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
 msgstr ""
+"On commence avec le mouvement.\n"
+"\n"
+"Utilise {move} pour bouger ton pointeur.\n"
+"\n"
+"Clique avec {click} et ouvre des fichiers avec un double-clic.\n"
+"\n"
+"Appuie sur {drag} pour bouger des fichiers."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
 msgstr ""
+"Choisis une {class} et une {difficulty}.\n"
+"\n"
+"Pour l'instant, seulement le pointeur par défaut est déverouillé.\n"
+"\n"
+"Choisis Protocole I-III comme {difficulty}.\n"
+"\n"
+"En gagnant un protocole, tu peut ensuite accèder les {policies} pour une "
+"difficulté plus haute."
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
 msgstr ""
+"Au début de chaque session, tu peux choisir une arme.\n"
+"\n"
+"En atteignant des niveaux plus élevés, plus d'armes seront sélectionnables.\n"
+"\n"
+"Quand tu atteint un nouveau niveau, tu aura aussi le choix entre une "
+"amélioration d'arme ou du curseur.\n"
+"\n"
+"Quand une arme atteint un niveau spécifique, un {driver} donne des "
+"améliorations additionelles."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
 msgstr ""
+"L'objectif du jeu est la survie.\n"
+"\n"
+"Une session consiste de 5 dossiers de combat à 5 minutes. Trouve le {safe} à "
+"la fin de chaque dossier de combat pour continuer."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
 msgstr ""
+"Astuces pour la survie:\n"
+"Évite les ennemis, collectione de l'EXP et des pièces, gagne des "
+"améliorations et ouvre des fichiers.\n"
+"\n"
+"Certains fichiers ont besoin de clés, pendant que d'autres donnent des bonus "
+"garantis.\n"
+"\n"
+"Chaque dossier de combat inclut aussi une tâche secondaire pour encore plus "
+"de bonus."
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
 #. Keep placeholders unchanged: {safe}, {vapor}
 msgid "UI.tutorial_7_body"
 msgstr ""
+"Gagne des Beanz en atteignant le {safe} et en complètant des tâches.\n"
+"\n"
+"Achète des nouvelles classes de pointeur, des armes, des améliorations, des "
+"fichiers, des fichiers spéciaux de {vapor} et encore plus!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
 msgstr ""
+"C'est tout pour l'instant!\n"
+"\n"
+"Choisis ta première arme, joue, survis, et bonne chance :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3980,7 +4029,7 @@ msgstr "Perdu (%d)"
 #. source: Press {close} to reboot to main menu...
 #. Keep placeholders unchanged: {close}
 msgid "UI.end_screen_exit_prompt"
-msgstr ""
+msgstr "Appuie sur {close} pour redémarrer au menu principal..."
 
 #. HUD - health label
 #. source: HP: %d/%d
@@ -5546,7 +5595,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
 msgid "DRIVER.hyperthreaded.name"
-msgstr ""
+msgstr "Hyperthreading"
 
 #. Weapon driver / overclock card - description (hyperthreaded)
 #. source: Add +2 Amount.\nReduce Damage -20%.
@@ -5556,7 +5605,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
 msgid "DRIVER.turbo_clock.name"
-msgstr ""
+msgstr "Fréquence turbo"
 
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
@@ -5576,7 +5625,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (extended_table)
 #. source: Extended Table
 msgid "DRIVER.extended_table.name"
-msgstr ""
+msgstr "Table étendue"
 
 #. Weapon driver / overclock card - description (extended_table)
 #. source: Attack Speed no longer makes this weapon expire sooner.
@@ -5586,7 +5635,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
 msgid "DRIVER.bumper.name"
-msgstr ""
+msgstr "Bumper"
 
 #. Weapon driver / overclock card - description (bumper)
 #. source: On wall bounce: Increase Damage +50% and trigger a Blast.
@@ -5606,7 +5655,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
 msgid "DRIVER.avn_away.name"
-msgstr ""
+msgstr "Message d'absence"
 
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
@@ -5646,7 +5695,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
 msgid "DRIVER.bubbles_suds.name"
-msgstr ""
+msgstr "Mousse"
 
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
@@ -5656,7 +5705,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cdrive_seek)
 #. source: Seek
 msgid "DRIVER.cdrive_seek.name"
-msgstr ""
+msgstr "Recherche"
 
 #. Weapon driver / overclock card - description (cdrive_seek)
 #. source: Converts Repel to Lag.\nIncrease Speed +60%.
@@ -5676,7 +5725,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cone_detour)
 #. source: Detour
 msgid "DRIVER.cone_detour.name"
-msgstr ""
+msgstr "Détour"
 
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
@@ -5696,7 +5745,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cruiser_multitab)
 #. source: Browser Hijack
 msgid "DRIVER.cruiser_multitab.name"
-msgstr ""
+msgstr "Hijacking de navigateur"
 
 #. Weapon driver / overclock card - description (cruiser_multitab)
 #. source: Converts Lag to Infect. Add +1 Amount.\nIncrease Power +25%.
@@ -5706,7 +5755,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
 msgid "DRIVER.cruiser_popup.name"
-msgstr ""
+msgstr "Rafale de popups"
 
 #. Weapon driver / overclock card - description (cruiser_popup)
 #. source: Tabs chase enemies until the attack ends.
@@ -5716,7 +5765,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cut_cleave)
 #. source: Cleave
 msgid "DRIVER.cut_cleave.name"
-msgstr ""
+msgstr "Ciseaux de cuisine"
 
 #. Weapon driver / overclock card - description (cut_cleave)
 #. source: Converts Repel to Infect. Increase Size +80%.\nAdd -0.5 Amount.
@@ -5726,7 +5775,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cut_papercut)
 #. source: Paper Cut
 msgid "DRIVER.cut_papercut.name"
-msgstr ""
+msgstr "Coupure de papier"
 
 #. Weapon driver / overclock card - description (cut_papercut)
 #. source: Add +2 Amount.\nIncrease Speed +25%.
@@ -5736,7 +5785,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (email_cc)
 #. source: Flame Mail
 msgid "DRIVER.email_cc.name"
-msgstr ""
+msgstr "Courrier de feu"
 
 #. Weapon driver / overclock card - description (email_cc)
 #. source: Converts Infect to Heat. Add +1 Amount.\nIncrease Speed +35%.
@@ -5746,7 +5795,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (email_bounce)
 #. source: Undeliverable
 msgid "DRIVER.email_bounce.name"
-msgstr ""
+msgstr "Non délivré"
 
 #. Weapon driver / overclock card - description (email_bounce)
 #. source: When the last envelope bounces, start Refresh.
@@ -5756,7 +5805,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (firewall_deny)
 #. source: Deny
 msgid "DRIVER.firewall_deny.name"
-msgstr ""
+msgstr "Refuser"
 
 #. Weapon driver / overclock card - description (firewall_deny)
 #. source: Increase Power +50%. Add +1 Amount.
@@ -5766,7 +5815,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (firewall_stealth)
 #. source: Flameout
 msgid "DRIVER.firewall_stealth.name"
-msgstr ""
+msgstr "Timeout de flammes"
 
 #. Weapon driver / overclock card - description (firewall_stealth)
 #. source: When the last flame dies, start Refresh.
@@ -5776,7 +5825,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (fontart_bold)
 #. source: Bold
 msgid "DRIVER.fontart_bold.name"
-msgstr ""
+msgstr "Gras"
 
 #. Weapon driver / overclock card - description (fontart_bold)
 #. source: Increase Size +60%. Increase Power +60%.\nReduce Amount -25%.
@@ -5816,7 +5865,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (hitmarkers_headhunter)
 #. source: Headhunter
 msgid "DRIVER.hitmarkers_headhunter.name"
-msgstr ""
+msgstr "Chasse à tête"
 
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
@@ -5826,7 +5875,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
 msgid "DRIVER.hitmarkers_killstreak.name"
-msgstr ""
+msgstr "Série de morts"
 
 #. Weapon driver / overclock card - description (hitmarkers_killstreak)
 #. source: Cleared enemies increase attack Speed in the next attack.
@@ -5836,7 +5885,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
 msgid "DRIVER.minesweeper_flag.name"
-msgstr ""
+msgstr "Drapeau"
 
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
@@ -5846,7 +5895,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (minesweeper_chord)
 #. source: Chord
 msgid "DRIVER.minesweeper_chord.name"
-msgstr ""
+msgstr "Haute qualité"
 
 #. Weapon driver / overclock card - description (minesweeper_chord)
 #. source: Mines stay until triggered.
@@ -5856,7 +5905,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (modem_handshake)
 #. source: Dial-up Congestion
 msgid "DRIVER.modem_handshake.name"
-msgstr ""
+msgstr "Haut traffic"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5866,7 +5915,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (modem_broadband)
 #. source: Broadband
 msgid "DRIVER.modem_broadband.name"
-msgstr ""
+msgstr "Haut débit"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
@@ -5876,7 +5925,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
 msgid "DRIVER.orchestra_fortissimo.name"
-msgstr ""
+msgstr "Innondation d'onglets"
 
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
@@ -5886,7 +5935,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
 msgid "DRIVER.orchestra_taskkill.name"
-msgstr ""
+msgstr "Fin de tâche"
 
 #. Weapon driver / overclock card - description (orchestra_taskkill)
 #. source: Increase execute chance.
@@ -5916,7 +5965,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
 msgid "DRIVER.pinball_tilted.name"
-msgstr ""
+msgstr "Tilt"
 
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
@@ -5936,7 +5985,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
 msgid "DRIVER.quarantine_heuristic.name"
-msgstr ""
+msgstr "Rapide"
 
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
@@ -5946,7 +5995,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
 msgid "DRIVER.satellite_dish.name"
-msgstr ""
+msgstr "Satellite micro-ondes"
 
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
@@ -5956,7 +6005,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
 msgid "DRIVER.satellite_uplink.name"
-msgstr ""
+msgstr "Bonne réception"
 
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
@@ -5976,7 +6025,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (scimitar_dual)
 #. source: Dual Wield
 msgid "DRIVER.scimitar_dual.name"
-msgstr ""
+msgstr "Double couteau"
 
 #. Weapon driver / overclock card - description (scimitar_dual)
 #. source: Add +2 Amount.
@@ -5986,7 +6035,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (search_deep)
 #. source: Deep Search
 msgid "DRIVER.search_deep.name"
-msgstr ""
+msgstr "Recherche avancée"
 
 #. Weapon driver / overclock card - description (search_deep)
 #. source: Converts Repel to Lag. Add +2 Amount.\nReduce Damage -20%.
@@ -5996,7 +6045,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
 msgid "DRIVER.search_indexed.name"
-msgstr ""
+msgstr "Recherche indexée"
 
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
@@ -6006,7 +6055,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
 msgid "DRIVER.sniper_scope.name"
-msgstr ""
+msgstr "Dans le visier"
 
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
@@ -6016,7 +6065,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
 msgid "DRIVER.sniper_oneshot.name"
-msgstr ""
+msgstr "Un tir"
 
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
