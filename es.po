@@ -5137,8 +5137,7 @@ msgstr ""
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
 msgstr ""
-"Tiempo estimado: {m}m {s}s ({cur}\n"
-"KB de {max} KB) \n"
+"Tiempo estimado: {m}m {s}s ({cur} KB de {max} KB) \n"
 "Tasa de procesado: {rate} KB/S"
 
 #. Zip extractor window
