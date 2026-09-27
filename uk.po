@@ -3764,7 +3764,7 @@ msgstr "Пропускає встановлення плаґіну та пове
 #. source: Open %d/%d .%s files
 #. Keep placeholders unchanged: %d, %s
 msgid "UI.side_objective_open"
-msgstr "Відкрити %d/%d файлів .%s"
+msgstr "Відкрити %d/%d .%s файлів"
 
 #. Vapidshare window title when Vapidshare Pro plugin is equipped
 #. source: Vapidshare Pro
@@ -4094,7 +4094,7 @@ msgstr "Відкрити {amount} файлів"
 #. source: Open {amount} {file} files
 #. Keep placeholders unchanged: {amount}, {file}
 msgid "UI.unlock_open_file_type"
-msgstr "Відкрити {amount} файлів типу {file}"
+msgstr "Відкрити {amount} {file} файлів"
 
 #. Unlock requirement - Download More RAM N times
 #. source: Download More RAM {amount} times
@@ -4477,7 +4477,7 @@ msgstr "Віха за кількість відкритих файлів за в
 #. source: {file} files opened across all runs.
 #. Keep placeholders unchanged: {file}
 msgid "UI.unlock_general_file_type_desc"
-msgstr "Кількість відкритих файлів {file} за всі забіги."
+msgstr "Кількість відкритих {file} файлів за всі забіги."
 
 #. Lifetime Download More RAM milestone description
 #. source: Download More RAM completed across all runs.
