@@ -511,7 +511,7 @@ msgid "PLUGIN.regen_boost.description"
 msgstr "Tambah +5 Regenerasi Nyawa."
 
 #. Plugin - name (shop_discount_10)
-#. source: Works Suite
+#. source: Coupon Code
 msgid "PLUGIN.shop_discount_10.name"
 msgstr ""
 
@@ -1949,6 +1949,11 @@ msgid "SETTINGS.admin_cursor"
 msgstr ""
 
 #. Settings menu
+#. source: Controller Vibration
+msgid "SETTINGS.controller_vibration"
+msgstr ""
+
+#. Settings menu
 #. source: Switch between windowed and fullscreen.
 msgid "SETTINGS.window_mode_tip"
 msgstr ""
@@ -2011,6 +2016,11 @@ msgstr ""
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
+msgstr ""
+
+#. Settings menu
+#. source: Vibrate the controller when taking damage.
+msgid "SETTINGS.controller_vibration_tip"
 msgstr ""
 
 #. Settings menu
@@ -2250,12 +2260,6 @@ msgstr ""
 msgid "UI.login_demo_name"
 msgstr ""
 
-#. Login screen - imported demo save entry subtitle
-#. source: %d Beanz, %d completions
-#. Keep placeholders unchanged: %d
-msgid "UI.login_demo_detail"
-msgstr ""
-
 #. Login screen - profile entry subtitle
 #. source: %d Beanz
 #. Keep placeholders unchanged: %d
@@ -2308,7 +2312,7 @@ msgid "UI.personalise_tab_profile"
 msgstr ""
 
 #. Personalise window - locked avatar hint
-#. source: Open .jpeg files in a run to unlock more pictures.
+#. source: Open .png files in a run to unlock more pictures.
 msgid "UI.personalise_locked_avatar"
 msgstr ""
 
@@ -2417,6 +2421,31 @@ msgstr ""
 #. Cosmetic unlock - gold theme name
 #. source: Gold Theme
 msgid "UI.cosmetic_theme_gold"
+msgstr ""
+
+#. Cosmetic unlock - olive theme name
+#. source: Olive Theme
+msgid "UI.cosmetic_theme_olive"
+msgstr ""
+
+#. Cosmetic unlock - silver theme name
+#. source: Silver Theme
+msgid "UI.cosmetic_theme_silver"
+msgstr ""
+
+#. Cosmetic unlock - dark theme name
+#. source: Dark Theme
+msgid "UI.cosmetic_theme_dark"
+msgstr ""
+
+#. Cosmetic unlock - media theme name
+#. source: Media Theme
+msgid "UI.cosmetic_theme_media"
+msgstr ""
+
+#. Cosmetic unlock - pink theme name
+#. source: Pink Theme
+msgid "UI.cosmetic_theme_pink"
 msgstr ""
 
 #. Personalise - avatar name
@@ -3273,11 +3302,6 @@ msgid "UI.admin_mouse_tooltip"
 msgstr ""
 
 #. UI (script-driven)
-#. source: Complete a run to unlock Administrator rights.
-msgid "UI.admin_mouse_tooltip_locked"
-msgstr ""
-
-#. UI (script-driven)
 #. source: Reroll Locked
 msgid "UI.reroll_disabled"
 msgstr ""
@@ -3432,6 +3456,67 @@ msgstr ""
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
+msgstr ""
+
+#. Starter folder button that reopens the tutorial guide
+#. source: Guide
+msgid "UI.refresher"
+msgstr ""
+
+#. Tutorial next-page button
+#. source: Next
+msgid "UI.next"
+msgstr ""
+
+#. Tutorial window title
+#. source: Quick Start Guide
+msgid "UI.tutorial_title"
+msgstr ""
+
+#. Tutorial page 1 - {game}
+#. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
+#. Keep placeholders unchanged: {game}
+msgid "UI.tutorial_1_body"
+msgstr ""
+
+#. Tutorial page 2 - {move} {click} {drag} become input icons
+#. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
+#. Keep placeholders unchanged: {move}, {click}, {drag}
+msgid "UI.tutorial_2_body"
+msgstr ""
+
+#. Tutorial page 3 - class, protocol, policies
+#. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
+#. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
+msgid "UI.tutorial_3_body"
+msgstr ""
+
+#. Tutorial page 4 - {drivers}
+#. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
+#. Keep placeholders unchanged: {drivers}
+msgid "UI.tutorial_4_body"
+msgstr ""
+
+#. Tutorial page 5 - {safe}
+#. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
+#. Keep placeholders unchanged: {safe}
+msgid "UI.tutorial_5_body"
+msgstr ""
+
+#. Tutorial page 6
+#. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
+msgid "UI.tutorial_6_body"
+msgstr ""
+
+#. Tutorial page 7 - {safe} {vapor}
+#. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
+#. Keep placeholders unchanged: {safe}, {vapor}
+msgid "UI.tutorial_7_body"
+msgstr ""
+
+#. Tutorial page 8
+#. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
+msgid "UI.tutorial_8_body"
 msgstr ""
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
@@ -4016,7 +4101,8 @@ msgid "UI.unlock_round_protocol"
 msgstr ""
 
 #. UI (script-driven)
-#. source: Heal 500 HP total
+#. source: Heal {amount} HP total
+#. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_plugin_big_hp_regen_boost"
 msgstr ""
 
@@ -4026,7 +4112,8 @@ msgid "UI.unlock_class_null"
 msgstr ""
 
 #. UI (script-driven)
-#. source: Collect 800 Coin in a single run
+#. source: Collect {amount} Coin in a single run
+#. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_widget_nos"
 msgstr ""
 
@@ -4460,7 +4547,7 @@ msgid "UI.health_check_pro_boost_bought"
 msgstr ""
 
 #. Health Check Pro upgrade-files tooltip
-#. source: Health Check files in the next battles drop more hearts this run.\nOnce per Safe Folder.
+#. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
 msgstr ""
 
@@ -4732,6 +4819,11 @@ msgid "CLICKABLE.double_click_play"
 msgstr "Klik 2x untuk bermain"
 
 #. Desktop icon tooltip
+#. source: Double-Click to skip track
+msgid "CLICKABLE.double_click_shuffle"
+msgstr ""
+
+#. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
 msgstr "Klik 2x untuk buka Toko"
@@ -4772,6 +4864,11 @@ msgstr "Klik 2x untuk buka Link"
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
 msgstr "Klik Dua Kali untuk Ubah Bahasa"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
+msgid "CLICKABLE.github_translations"
+msgstr ""
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -4909,6 +5006,11 @@ msgstr "RANK TERTINGGI"
 #. Keep placeholders unchanged: %d
 msgid "META.cost_beanz"
 msgstr "Biaya: %d Beanz"
+
+#. Zip window titlebar when SHZip License is equipped
+#. source: SHZip v2.03
+msgid "ZIP.title_licensed"
+msgstr ""
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
@@ -5243,11 +5345,15 @@ msgid "Feedback"
 msgstr "Masukan"
 
 #. Scene label
-msgid "Wishlist"
+msgid "Steam"
 msgstr ""
 
 #. Scene label
 msgid "Discord"
+msgstr ""
+
+#. Scene label
+msgid "Translations GitHub"
 msgstr ""
 
 #. avs03

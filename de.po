@@ -3347,7 +3347,7 @@ msgstr "Gewinne eine %s-Runde (oder höher) um Richtlinien zu aktivieren."
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
 msgstr ""
-"Gewinne eine %s-Runde (oder höher) mit drei verschiedenen Richtlinien, um "
+"Gewinne eine %s-Runde (oder höher) mit 3 verschiedenen Richtlinien, um "
 "Gruppenrichtlinien zu aktivieren."
 
 #. UI (script-driven)
@@ -5051,6 +5051,11 @@ msgid "CLICKABLE.double_click_play"
 msgstr "Doppelklick zum Spielen"
 
 #. Desktop icon tooltip
+#. source: Double-Click to skip track
+msgid "CLICKABLE.double_click_shuffle"
+msgstr "Doppelklick um den Song zu ändern"
+
+#. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
 msgstr "Doppelklick um den Shop zu öffnen"
@@ -5091,6 +5096,13 @@ msgstr "Doppelklick um den Link zu öffnen"
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
 msgstr "Doppelklick um die Sprache zu wechseln"
+
+#. Desktop icon tooltip
+#. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
+msgid "CLICKABLE.github_translations"
+msgstr ""
+"Doppelklick um den Link zu öffnen[br]Übersetzungen für das Spiel wurden dank "
+"der Community hinzugefügt."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5228,6 +5240,11 @@ msgstr "MAX.-RANG"
 #. Keep placeholders unchanged: %d
 msgid "META.cost_beanz"
 msgstr "Preis: %d Beanz"
+
+#. Zip window titlebar when SHZip License is equipped
+#. source: SHZip v2.03
+msgid "ZIP.title_licensed"
+msgstr "SHZip v2.03"
 
 #. Zip extractor window
 #. source: Extracting file: \n%s from /.???
@@ -5568,12 +5585,16 @@ msgid "Feedback"
 msgstr "Feedback"
 
 #. Scene label
-msgid "Wishlist"
-msgstr "Steam-Seite"
+msgid "Steam"
+msgstr "Steam"
 
 #. Scene label
 msgid "Discord"
 msgstr "Discord"
+
+#. Scene label
+msgid "Translations GitHub"
+msgstr "Übersetzungen"
 
 #. avs03
 msgid "avs03.com"
@@ -6768,3 +6789,6 @@ msgstr "Fenster"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Antivirus Survivors 2003 Professional"
+
+#~ msgid "Wishlist"
+#~ msgstr "Steam-Seite"
