@@ -4366,7 +4366,7 @@ msgstr "Plavi Ekran Blizak"
 #. Optional extra difficulty policy - description (blue_screen_imminent)
 #. source: The post-round escape timer is halved.
 msgid "POLICY.blue_screen_imminent.description"
-msgstr "Brojač za  nakon"
+msgstr "Vrijeme dostupno za dolazak u sigurnu mapu prepolovljeno je."
 
 #. Optional extra difficulty policy - name (trial_version)
 #. source: Trial Version
