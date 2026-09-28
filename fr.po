@@ -364,7 +364,7 @@ msgstr "Options performance"
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
 msgid "PLUGIN.damage_speed_crit.description"
-msgstr "Incrémente la force d'attaque des armes par +10%.\nRéduit le temps d'attente d'attaque par +10%.\nIncrémente la chance d'une attaque critique par +5%.\nIncrémente la force d'attaque critique par +15%."
+msgstr "Dégâts des armes +10 %\nVitesse de recharge +10 %\nChances de coup critique +5 %\nDégâts critiques +15 %"
 
 #. Plugin - name (defrag_on_safe_folder)
 #. source: Startup Folder
@@ -659,12 +659,12 @@ msgstr "Incrémente la vitesse d'extraction de fichiers ZIP par +50%."
 #. Plugin - name (refresh_overclock)
 #. source: Refresh Overclock
 msgid "PLUGIN.refresh_overclock.name"
-msgstr "Surcharge de temps d'attente"
+msgstr "Recharge accélérée"
 
 #. Plugin - description (refresh_overclock)
 #. source: Increase Refresh Speed +50%.\nReduce Cursor Speed -15%.
 msgid "PLUGIN.refresh_overclock.description"
-msgstr "Réduit le temps d'attente des armes par +50%.\nRéduit la vitesse du pointeur par -15%."
+msgstr "Vitesse de recharge +50 %\nVitesse du pointeur -15 %"
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -784,7 +784,7 @@ msgstr "Gestionnaire des tâches"
 #. Plugin - description (task_manager)
 #. source: Multiply Weapon Refresh 2.0x.\nMultiply Weapon Size 0.75x.
 msgid "PLUGIN.task_manager.description"
-msgstr "Réduit le temps d'attente des armes par 2.0x.\nMultiplie la taille des armes par 0.75x."
+msgstr "Vitesse de recharge des armes ×2\nTaille des armes ×0,75"
 
 #. Plugin - name (raid_0)
 #. source: RAID 0
@@ -1025,12 +1025,12 @@ msgstr "Multiplie la vitesse d'ouverture pour tous les fichiers, par exemple .zi
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
 msgid "STAT.upgrade_player_refresh_multi.name"
-msgstr "Temps d'attente d'attaque"
+msgstr "Vitesse de recharge des armes"
 
 #. Stat display - description (upgrade_player_refresh_multi)
 #. source: Multiplies the speed that all weapons cooldown. (Exponential)
 msgid "STAT.upgrade_player_refresh_multi.description"
-msgstr "Réduit la vitesse d'attente pour qu'une arme réapparaisse. (Exponentiel)"
+msgstr "Augmente la vitesse de recharge de toutes les armes (effet exponentiel)"
 
 #. Stat display - name (upgrade_player_speed)
 #. source: Cursor Speed
@@ -1100,13 +1100,13 @@ msgstr "Incrémente la vitesse d'attaque de {weapon} par +{percent}%."
 #. source: {weapon} Refresh
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.refresh.name"
-msgstr "Temps d'attente de {weapon}"
+msgstr "Vitesse de recharge de {weapon}"
 
 #. Weapon upgrade card - refresh/cooldown stat description
 #. source: Increases {weapon} refresh speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.refresh.description"
-msgstr "Réduit le temps d'attente de {weapon} par +{percent}%."
+msgstr "Augmente de {percent} % la vitesse de recharge de {weapon}"
 
 #. Weapon upgrade card - size stat title
 #. source: {weapon} Size
@@ -1304,7 +1304,7 @@ msgstr "Incrémente la vitesse d'ouverture de fichiers par +{percent}%."
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr "Incrémente le multiplicateur de réduction de temps d'attente d'armes par +{percent}%."
+msgstr "Augmente de {percent} % la vitesse de recharge des armes"
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
@@ -2116,7 +2116,7 @@ msgstr "Spécial"
 #. Settings menu
 #. source: Show Stats
 msgid "SETTINGS.action_tab"
-msgstr "Stats"
+msgstr "Records"
 
 #. Settings menu
 #. source: Pause
@@ -2557,7 +2557,7 @@ msgstr "Profile.xls - Antivirus Survivors"
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
-msgstr "Tâches et statistiques"
+msgstr "Tâches et records"
 
 #. Credits window - title, also the desktop icon name
 #. source: Credits
@@ -2602,7 +2602,7 @@ msgstr "Merci à toutes et à tous de m’avoir aidé à réaliser ce rêve. Je 
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
-msgstr "Stats"
+msgstr "Records"
 
 #. Profile stats window - tasks tab label
 #. source: Tasks
@@ -2622,7 +2622,7 @@ msgstr "Catégories"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "Retrouve ici tes statistiques de session. Passe à l’onglet Tâches pour voir les éléments à déverrouiller"
+msgstr "Retrouve ici tes records de session. Passe à l’onglet Tâches pour voir les éléments à déverrouiller"
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -2747,7 +2747,7 @@ msgstr "Nombre total d'attaques critiques"
 #. Profile stats - total damage dealt
 #. source: Damage Dealt
 msgid "UI.stat_damage_dealt"
-msgstr "Dégats infligés"
+msgstr "Dégats soumis"
 
 #. Profile stats - total damage dealt tooltip
 #. source: Total damage dealt to enemies across all runs.
@@ -2767,12 +2767,12 @@ msgstr "Total des dégâts subis"
 #. Profile stats - biggest single hit
 #. source: Biggest Hit
 msgid "UI.stat_highest_hit"
-msgstr "Record de dégâts"
+msgstr "Record d'attaque"
 
 #. Profile stats - biggest single hit tooltip
 #. source: Largest amount of damage dealt in a single hit.
 msgid "UI.stat_highest_hit_desc"
-msgstr "Record de dégâts en une attaque"
+msgstr "Nombre maximum de dégâts en une attaque"
 
 #. Profile stats - files opened
 #. source: Files Opened
@@ -2782,7 +2782,7 @@ msgstr "Fichiers ouverts"
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
 msgid "UI.stat_files_opened_desc"
-msgstr "Total de fichiers ouverts"
+msgstr "Fichiers ouverts au total"
 
 #. Profile stats - safe folders
 #. source: Safe Folders
@@ -3719,7 +3719,7 @@ msgstr "Victoire!"
 #. source: A fatal exception has occurred and the system has been terminated to prevent corruption.\n\nCODE_HALTED: SYSTEM_COHERENCE_FAILURE\n\nIf this is the first time you've seen this termination screen, restart your system.\nIf this screen appears again, internal modules may have been compromised.\n\nPlease verify the integrity of your installed components. Unexpected behavior may\nindicate corrupted memory, invalid packet injection, or unauthorized script execution.\n\nIf the issue persists, perform a secure reboot or contact your system's internal administrator.\n\nTechnical Dump:\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nBeginning forced shutdown...\nMemory cache flushed.\n\nPress {click} to continue. {tab} for stats
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
-msgstr "Un problème a été détecté et le système a été attêté afin de prévenir tout dommage sur votre ordinateur.\n\nCODE_ERREUR:\nSYSTEM_COHERENCE_FAILURE\n\nSi vous voyez cet écran d'arrêt pour la première fois, redémarrez votre ordinateur.\nSi cet écran apparaît encore, suivez ces étapes :\n\nAssurez-vous que tout matériel et logiciels sont installés correctement.\nSi les problèmes persistent, effectuez un redémarrage en mode sans échec ou contactez votre administrateur.\n\nInformation techniques :\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nVidage de la mémoire terminé.\n\n{click}pour continuer. {tab} pour afficher les statistiques"
+msgstr "Un problème a été détecté et le système a été attêté afin de prévenir tout dommage sur votre ordinateur.\n\nCODE_ERREUR:\nSYSTEM_COHERENCE_FAILURE\n\nSi vous voyez cet écran d'arrêt pour la première fois, redémarrez votre ordinateur.\nSi cet écran apparaît encore, suivez ces étapes :\n\nAssurez-vous que tout matériel et logiciels sont installés correctement.\nSi les problèmes persistent, effectuez un redémarrage en mode sans échec ou contactez votre administrateur.\n\nInformation techniques :\nSTOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n\nVidage de la mémoire terminé.\n\n{click}pour continuer. {tab} pour afficher les records"
 
 #. Browser address-bar caption
 #. source: Address
@@ -4949,7 +4949,7 @@ msgstr "Vitesse: %.2fs"
 #. source: Refresh: %.2fs
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.refresh"
-msgstr "Recharge : %.2fs"
+msgstr "Temps de recharge : %.2f s"
 
 #. Stat tooltip
 #. source: Size: %.2fx
@@ -5409,7 +5409,7 @@ msgstr "Overclocké"
 #. Weapon driver / overclock card - description (overclocked)
 #. source: Multiply Damage 1.6x.\nReduce Refresh -15%.
 msgid "DRIVER.overclocked.description"
-msgstr "Dégâts ×1,6\nRecharge -15 %"
+msgstr "Dégâts ×1,6\nVitesse de recharge -15 %"
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
@@ -5869,7 +5869,7 @@ msgstr "Recherche indexée"
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
 msgid "DRIVER.search_indexed.description"
-msgstr "Vitesse +30 %\nRecharge +20 %"
+msgstr "Vitesse +30 %\nVitesse de recharge +20 %"
 
 #. Weapon driver / overclock card - name (sniper_scope)
 #. source: High Caliber
@@ -5879,7 +5879,7 @@ msgstr "Lunette de visée"
 #. Weapon driver / overclock card - description (sniper_scope)
 #. source: Multiply Damage 1.5x. Increase Power +30%.\nIncrease Refresh +25%.
 msgid "DRIVER.sniper_scope.description"
-msgstr "Dégâts ×1,5. Puissance +30 %\nRecharge +25 %"
+msgstr "Dégâts ×1,5. Puissance +30 %\nVitesse de recharge +25 %"
 
 #. Weapon driver / overclock card - name (sniper_oneshot)
 #. source: One Shot
@@ -5899,7 +5899,7 @@ msgstr "Triche"
 #. Weapon driver / overclock card - description (solitaire_cheat)
 #. source: Increase Damage +50%. Add +1 Amount.\nReduce Refresh -15%.
 msgid "DRIVER.solitaire_cheat.description"
-msgstr "Dégâts +50 %. Quantité +1\nRecharge -15 %"
+msgstr "Dégâts +50 %. Quantité +1\nVitesse de recharge -15 %"
 
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
@@ -6219,7 +6219,7 @@ msgstr "Améliorations"
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Statistics"
-msgstr "Statistiques"
+msgstr "Records"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6364,12 +6364,12 @@ msgstr "Bouton son"
 #. Scene label
 #. screens: upgrade_button.tscn
 msgid "Search Refresh"
-msgstr "Recharge de la recherche"
+msgstr "Temps de recharge de Search"
 
 #. Scene label
 #. screens: upgrade_button.tscn
 msgid "Increases Refresh Rate for Search by 20%.\nBut here's a second line also."
-msgstr "Augmente de 20 % la fréquence de recharge de la recherche\nEt voici une deuxième ligne"
+msgstr "Augmente de 20 % la vitesse de recharge de Search\nEt voici une deuxième ligne"
 
 #. Scene label
 #. screens: torrent_window.tscn
