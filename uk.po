@@ -3649,7 +3649,7 @@ msgstr "Посібник"
 #. Tutorial next-page button
 #. source: Next
 msgid "UI.next"
-msgstr "Наступна"
+msgstr "Далі"
 
 #. Tutorial window title
 #. source: Quick Start Guide
