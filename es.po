@@ -2642,7 +2642,7 @@ msgstr "Desarrollo, Arte, Música... etc"
 #. Credits window - role title
 #. source: Producer
 msgid "CREDITS.producer"
-msgstr "Productor"
+msgstr "Producción"
 
 #. Credits window - role title. Keep the name Virry.
 #. source: Animator (Virry)
