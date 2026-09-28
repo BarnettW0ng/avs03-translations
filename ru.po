@@ -6826,7 +6826,7 @@ msgstr "Особые благодарности"
 #. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
 msgid "CREDITS.special_thanks_note"
 msgstr ""
-"Спасибо вам всем большое за помощь в достижении этой мечты. Люблю вас всех! "
+"Большое вам всем спасибо за помощь в достижении моей мечты. Люблю вас всех! "
 "-Shaun"
 
 #~ msgid "Wishlist"
