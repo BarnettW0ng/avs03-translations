@@ -2151,7 +2151,7 @@ msgstr "Commun"
 #. Rarity label
 #. source: Uncommon
 msgid "RARITY.uncommon"
-msgstr "Incommun"
+msgstr "Peu commun"
 
 #. Rarity label
 #. source: Rare
