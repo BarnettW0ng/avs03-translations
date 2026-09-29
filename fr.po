@@ -254,7 +254,7 @@ msgstr "Rush Hour"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Incrémente la force d'attaque des armes par +10% en ouvrant une BigWave."
+msgstr "Augmente la force d'attaque des armes par +10% en ouvrant une BigWave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -294,7 +294,7 @@ msgstr "Dossiers partagés"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "Incrémente la chance d'apparition de pièces par +20%."
+msgstr "Augmente la chance d'apparition de pièces par +20%."
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -324,7 +324,7 @@ msgstr "Niveau de batterie critique"
 #. Plugin - description (cursor_speed_damage)
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
-msgstr "Incrémente la vitesse du pointeur par +10%.\nIncrémente la vitesse du pointeur par +30% en cas de perte de PV (pendant 10s)."
+msgstr "Augmente la vitesse du pointeur par +10%.\nAugmente la vitesse du pointeur par +30% en cas de perte de PV (pendant 10s)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -344,7 +344,7 @@ msgstr "Choix de carrière"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr "Incrémente la force d'attaque par +3% pour chaque niveau.\nRéduit les PV par -1 pour chaque niveau."
+msgstr "Augmente la force d'attaque par +3% pour chaque niveau.\nRéduit les PV par -1 pour chaque niveau."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -354,7 +354,7 @@ msgstr "Surcompensation"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "Incrémente la force d'attaque des armes par +1% pour 1% de PV manquant."
+msgstr "Augmente la force d'attaque des armes par +1% pour 1% de PV manquant."
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -444,7 +444,7 @@ msgstr "Pause chanceuse"
 #. Plugin - description (luck_reroll)
 #. source: Increase Luck +12%.\nIncrease Luck +25% on Rerolls (Lasts 10s).
 msgid "PLUGIN.luck_reroll.description"
-msgstr "Incrémente la chance par +12%.\nIncrémente la chance par +25% en cas de nouv. sélection (pendant 10s)."
+msgstr "Augmente la chance par +12%.\nAugmente la chance par +25% en cas de nouv. sélection (pendant 10s)."
 
 #. Plugin - name (luck_zip_boost)
 #. source: Compressed Folders
@@ -454,7 +454,7 @@ msgstr "Dossiers compressés"
 #. Plugin - description (luck_zip_boost)
 #. source: Increase Luck +3% when successfully opening a Zip File.
 msgid "PLUGIN.luck_zip_boost.description"
-msgstr "Incrémente la chance par +3% après extraction d'un dossier compressé."
+msgstr "Augmente la chance par +3% après extraction d'un dossier compressé."
 
 #. Plugin - name (lucky_when_hurt)
 #. source: Lucky When Hurt
@@ -564,7 +564,7 @@ msgstr "Rapport d'erreur"
 #. Plugin - description (xp_drop_boost)
 #. source: Increase enemy EXP Drop Chance +20%.
 msgid "PLUGIN.xp_drop_boost.description"
-msgstr "Incrémente la chance d'EXP des ennemis par +20%."
+msgstr "Augmente la chance d'EXP des ennemis par +20%."
 
 #. Plugin - name (xp_file_open)
 #. source: Knowledge Base
@@ -594,7 +594,7 @@ msgstr "Lisez-moi"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr "Incrémente le gain d'EXP par +10%.\n+4 EXP en cas d'attaque ennemie."
+msgstr "Augmente le gain d'EXP par +10%.\n+4 EXP en cas d'attaque ennemie."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -644,7 +644,7 @@ msgstr "Pas bouge!"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "Incrémente la force d'attaque par +5% pour chaque seconde sans mouvement, pour un maximum de +15%."
+msgstr "Augmente la force d'attaque par +5% pour chaque seconde sans mouvement, pour un maximum de +15%."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -654,7 +654,7 @@ msgstr "Licence SHZip"
 #. Plugin - description (shzip_license)
 #. source: Increase Zip Processing Speed +50%.
 msgid "PLUGIN.shzip_license.description"
-msgstr "Incrémente la vitesse d'extraction de fichiers ZIP par +50%."
+msgstr "Augmente la vitesse d'extraction de fichiers ZIP par +50%."
 
 #. Plugin - name (refresh_overclock)
 #. source: Refresh Overclock
@@ -674,7 +674,7 @@ msgstr "Attaque monétaire"
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
 msgid "PLUGIN.wallet_damage.description"
-msgstr "Incrémente la force d'attaque par +1% pour chaque 10 pièces."
+msgstr "Augmente la force d'attaque par +1% pour chaque 10 pièces."
 
 #. Plugin - name (first_strike)
 #. source: First Strike
@@ -684,7 +684,7 @@ msgstr "Première attaque"
 #. Plugin - description (first_strike)
 #. source: Increase Damage +25% against enemies above 90% HP.
 msgid "PLUGIN.first_strike.description"
-msgstr "Incrémente la force d'attaque par +25% pour les ennemis avec plus de 90% de leur PV."
+msgstr "Augmente la force d'attaque par +25% pour les ennemis avec plus de 90% de leur PV."
 
 #. Plugin - name (crit_blast)
 #. source: Crit Blast
@@ -724,7 +724,7 @@ msgstr "Mégacritique"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr "Incrémente la chance d'attaque critique par +40%.\nEn cas de chance de plus de 100%, une attaque mégacritique double les dégâts."
+msgstr "Augmente la chance d'attaque critique par +40%.\nEn cas de chance de plus de 100%, une attaque mégacritique double les dégâts."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -744,7 +744,7 @@ msgstr "Coeur de fer"
 #. Plugin - description (tank_core)
 #. source: Increase Weapon Damage +20% per 100 Max HP.
 msgid "PLUGIN.tank_core.description"
-msgstr "Incrémente la force d'attaque par 20% pour chaque 100 PV."
+msgstr "Augmente la force d'attaque par 20% pour chaque 100 PV."
 
 #. Plugin - name (service_pack)
 #. source: Service Pack
@@ -814,7 +814,7 @@ msgstr "Utilisateur avancé"
 #. Plugin - description (power_user)
 #. source: Special File capacity scales with Weapon Power.
 msgid "PLUGIN.power_user.description"
-msgstr "Capacité des fichiers spéciaux incrémentes avec la force d'armes."
+msgstr "Capacité des fichiers spéciaux augmentés avec la force d'armes."
 
 #. Plugin - name (extra_shop_offer)
 #. source: Software Catalog
@@ -1000,7 +1000,7 @@ msgstr "PV maxi"
 #. Stat display - description (upgrade_player_max_health)
 #. source: Additional Max HP.
 msgid "STAT.upgrade_player_max_health.description"
-msgstr "Incrémente le nombre de PV maximum."
+msgstr "Augmente le nombre de PV maximum."
 
 #. Stat display - name (upgrade_player_power_multi)
 #. source: Weapon Power
@@ -1010,7 +1010,7 @@ msgstr "Force d'attaque"
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
 msgid "STAT.upgrade_player_power_multi.description"
-msgstr "Incrémente la force de répulsion, chaleur, infection et délai pour toutes les armes."
+msgstr "Augmente la force de répulsion, chaleur, infection et délai pour toutes les armes."
 
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
@@ -1082,7 +1082,7 @@ msgstr "Attaque de {weapon}"
 #. source: Increases {weapon} damage by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.damage.description"
-msgstr "Incrémente la force d'attaque de {weapon} par +{percent}%."
+msgstr "Augmente la force d'attaque de {weapon} par +{percent}%."
 
 #. Weapon upgrade card - attack speed stat title
 #. source: {weapon} Speed
@@ -1094,7 +1094,7 @@ msgstr "Vitesse de {weapon}"
 #. source: Increases {weapon} attack speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.speed.description"
-msgstr "Incrémente la vitesse d'attaque de {weapon} par +{percent}%."
+msgstr "Augmente la vitesse d'attaque de {weapon} par +{percent}%."
 
 #. Weapon upgrade card - refresh/cooldown stat title
 #. source: {weapon} Refresh
@@ -1118,7 +1118,7 @@ msgstr "Taille de {weapon}"
 #. source: Increases {weapon} size by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.size.description"
-msgstr "Incrémente la taille de {weapon} par +{percent}%."
+msgstr "Augmente la taille de {weapon} par +{percent}%."
 
 #. Weapon upgrade card - spawn amount stat title
 #. source: {weapon} Amount
@@ -1142,25 +1142,25 @@ msgstr "Force de {weapon}"
 #. source: Increases {weapon} Repel effect by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.repel.description"
-msgstr "Incrémente la force de l'effet de répulsion de {weapon} par +{percent}%."
+msgstr "Augmente la force de l'effet de répulsion de {weapon} par +{percent}%."
 
 #. Weapon upgrade card - heat stacks power description
 #. source: Increases {weapon} Heat Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.heat.description"
-msgstr "Incrémente la force de l'effet de chaleur de {weapon} par +{percent}%."
+msgstr "Augmente la force de l'effet de chaleur de {weapon} par +{percent}%."
 
 #. Weapon upgrade card - lag stacks power description
 #. source: Increases {weapon} Lag Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.lag.description"
-msgstr "Incrémente la force de l'effet de délai de {weapon} par +{percent}%."
+msgstr "Augmente la force de l'effet de délai de {weapon} par +{percent}%."
 
 #. Weapon upgrade card - infect stacks power description
 #. source: Increases {weapon} Infect Stacks by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.power.infect.description"
-msgstr "Incrémente la force de l'effet d'infection de {weapon} par +{percent}%."
+msgstr "Augmente la force de l'effet d'infection de {weapon} par +{percent}%."
 
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
@@ -1226,79 +1226,79 @@ msgstr "carte"
 #. source: Increases damage resistance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_armor.description"
-msgstr "Incrémente la résistence contre les dégats par +{percent}%."
+msgstr "Augmente la résistence contre les dégats par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_coin_gain)
 #. source: Increases coin gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_coin_gain.description"
-msgstr "Incrémente le gain de pièces par +{percent}%."
+msgstr "Augmente le gain de pièces par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_crit_chance)
 #. source: Increases crit hit chance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_chance.description"
-msgstr "Incrémente la chance d'attaque critique par +{percent}%."
+msgstr "Augmente la chance d'attaque critique par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_crit_damage_multi)
 #. source: Increases crit hit damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
-msgstr "Incrémente la force d'attaque critique par +{percent}%."
+msgstr "Augmente la force d'attaque critique par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_damage_multi)
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "Incrémente le multiplicateur de la force d'attaque d'armes par +{percent}%."
+msgstr "Augmente le multiplicateur de la force d'attaque d'armes par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "Incrémente la chance d'évasion de dégats par +{percent}%."
+msgstr "Augmente la chance d'évasion de dégats par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_exp_gain.description"
-msgstr "Incrémente le gain d'EXP par +{percent}%."
+msgstr "Augmente le gain d'EXP par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_health_regen)
 #. source: Increases Health Regen by +{percent} every 20s.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_health_regen.description"
-msgstr "Incrémente la régénération de PV par +{percent}%."
+msgstr "Augmente la régénération de PV par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_luck)
 #. source: Increases luck by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_luck.description"
-msgstr "Incrémente le taux de chance par +{percent}%."
+msgstr "Augmente le taux de chance par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_magnetism_multi)
 #. source: Increases player magnetism by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_magnetism_multi.description"
-msgstr "Incrémente le magnétisme par +{percent}%."
+msgstr "Augmente le magnétisme par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_max_health)
 #. source: Increases Max HP by +{percent}.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_max_health.description"
-msgstr "Incrémente le nombre maximum de PV par +{percent}%."
+msgstr "Augmente le nombre maximum de PV par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "Incrémente la force de répulsion, chaleur, infection et délai pour toutes les armes par +{percent}%."
+msgstr "Augmente la force de répulsion, chaleur, infection et délai pour toutes les armes par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_proc_speed.description"
-msgstr "Incrémente la vitesse d'ouverture de fichiers par +{percent}%."
+msgstr "Augmente la vitesse d'ouverture de fichiers par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_refresh_multi)
 #. source: Increases weapon refresh multiplier by +{percent}%.
@@ -1310,7 +1310,7 @@ msgstr "Augmente de {percent} % la vitesse de recharge des armes"
 #. source: Increases movement speed by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_speed.description"
-msgstr "Incrémente la vitesse du pointeur par +{percent}%."
+msgstr "Augmente la vitesse du pointeur par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_weap_amount)
 #. source: Adds +{percent}% chance of additional weapon spawns.
@@ -1322,13 +1322,13 @@ msgstr "Ajoute +{percent}% à la chance d'apparition d'armes additionelles."
 #. source: Increases weapon size multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_size.description"
-msgstr "Incrémente le multiplicateur de taille d'armes par +{percent}%."
+msgstr "Augmente le multiplicateur de taille d'armes par +{percent}%."
 
 #. Upgrade card - description (upgrade_player_weap_speed)
 #. source: Increases weapon attack speed multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_speed.description"
-msgstr "Incrémente le multiplicateur de vitesse d'attaque d'armes par +{percent}%."
+msgstr "Augmente le multiplicateur de vitesse d'attaque d'armes par +{percent}%."
 
 #. Upgrade card - name (weapon_avd)
 #. source: AVD Logo
@@ -1428,7 +1428,7 @@ msgstr "Quarantaine"
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
 msgid "UPGRADE.weapon_quarantine.description"
-msgstr "Inflits des dégats aux ennemis qui se situe dans le scanneur."
+msgstr "Inglige des dégats aux ennemis qui se situe dans le scanneur."
 
 #. Upgrade card - name (weapon_search)
 #. source: Search
@@ -1458,7 +1458,7 @@ msgstr "Frames"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr "Tires des indicateurs d'images par seconde. Le nombre affiché est égal au nombre de dégats inflits aux ennemis."
+msgstr "Tires des indicateurs d'images par seconde. Le nombre affiché est égal au nombre de dégats Inglige aux ennemis."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -1508,7 +1508,7 @@ msgstr "Baladeur Internet"
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr "Ouvre un onglet permanent sur l'écran qui inflit un grand nombre de dégat de délai."
+msgstr "Ouvre un onglet permanent sur l'écran qui inglige un grand nombre de dégat de délai."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1518,7 +1518,7 @@ msgstr "Orchestre"
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr "Ouvre un onglet sur l'ennemi le plus proche. Inflit des attaques d'infection."
+msgstr "Ouvre un onglet sur l'ennemi le plus proche. Inglige des attaques d'infection."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -2116,7 +2116,7 @@ msgstr "Spécial"
 #. Settings menu
 #. source: Show Stats
 msgid "SETTINGS.action_tab"
-msgstr "Records"
+msgstr "Stats"
 
 #. Settings menu
 #. source: Pause
@@ -2557,7 +2557,7 @@ msgstr "Profile.xls - Antivirus Survivors"
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
-msgstr "Tâches et records"
+msgstr "Tâches et Statistiques"
 
 #. Credits window - title, also the desktop icon name
 #. source: Credits
@@ -2602,7 +2602,7 @@ msgstr "Merci à toutes et à tous de m’avoir aidé à réaliser ce rêve. Je 
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
-msgstr "Records"
+msgstr "Stats"
 
 #. Profile stats window - tasks tab label
 #. source: Tasks
@@ -2622,7 +2622,7 @@ msgstr "Catégories"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "Retrouve ici tes records de session. Passe à l’onglet Tâches pour voir les éléments à déverrouiller"
+msgstr "Retrouve ici tes statistiques de session. Passe à l’onglet Tâches pour voir les éléments à déverrouiller"
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -6219,7 +6219,7 @@ msgstr "Améliorations"
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Statistics"
-msgstr "Records"
+msgstr "Statistiques"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6434,3 +6434,150 @@ msgstr "Fenêtre"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Antivirus Survivors 2003 Professionnel"
+
+#~ msgid "Wishlist"
+#~ msgstr "Liste de souhaits"
+
+#~ msgid "UI.login_demo_detail"
+#~ msgstr "%d Beanz, %d sessions complétés"
+
+#~ msgid "META.coin_gain.name"
+#~ msgstr "Plus de pièces"
+
+#~ msgid "META.crit_damage.name"
+#~ msgstr "Attaque critique"
+
+#~ msgid "META.exp_gain.name"
+#~ msgstr "Gain d'EXP"
+
+#, fuzzy
+#~ msgid "META.health_regen.name"
+#~ msgstr "Regéneration"
+
+# PV pour points de vie?
+#, fuzzy
+#~ msgid "META.max_health.name"
+#~ msgstr "PV maxi"
+
+#~ msgid "META.proc_speed.name"
+#~ msgstr "Vitesse du processeur"
+
+#~ msgid "META.weap_damage.name"
+#~ msgstr "Attaque d'armes"
+
+#~ msgid "META.weap_speed.name"
+#~ msgstr "Vitesse d'attaque"
+
+#~ msgid "UI.max"
+#~ msgstr "Maxi"
+
+#~ msgid "LemWire.exe"
+#~ msgstr "LemWire.exe"
+
+#~ msgid ""
+#~ "Internet\n"
+#~ "Cruiser"
+#~ msgstr ""
+#~ "Navigateur\n"
+#~ "Internet"
+
+#~ msgid "Paint"
+#~ msgstr "Paint"
+
+#~ msgid "Skips installing plugin and removes it from selection pool."
+#~ msgstr ""
+#~ "Ignore l'installation du pilote et le supprime de la liste des pilotes "
+#~ "sélectionnables."
+
+#~ msgid "Skips installing plugin and refunds Key."
+#~ msgstr "Ignore l'installation du pilote et rembourse la clé."
+
+#~ msgid "File"
+#~ msgstr "Fichier"
+
+#~ msgid "Action"
+#~ msgstr "Action"
+
+#~ msgid "View"
+#~ msgstr "Affichage"
+
+#~ msgid "Help"
+#~ msgstr "Aide"
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Download"
+#~ msgstr "Télécharger"
+
+#~ msgid "Validating cache files..."
+#~ msgstr "Validation des fichiers du cache..."
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Not Enough Keys :("
+#~ msgstr "Pas assez de clés :("
+
+#~ msgid "Movement -"
+#~ msgstr "Mouvement -"
+
+#~ msgid "Click and Drag -"
+#~ msgstr "Déplacer -"
+
+#~ msgid "Menu Shortcut -"
+#~ msgstr "Ouvrir le menu -"
+
+#~ msgid "Show Stats -"
+#~ msgstr "Afficher statistique -"
+
+#~ msgid "Close -"
+#~ msgstr "Fermer -"
+
+#~ msgid "Pause -"
+#~ msgstr "Pause -"
+
+#~ msgid "Cursor Class"
+#~ msgstr "Pointeurs"
+
+#~ msgid "Edit"
+#~ msgstr "Édition"
+
+#~ msgid "Get to the Safe Folder!"
+#~ msgstr "Trouve le dossier sécurisé!"
+
+#~ msgid "Plugin Suite Installation"
+#~ msgstr "Installateur de pilotes"
+
+#~ msgid "Please wait..."
+#~ msgstr "Veuillez patienter..."
+
+#~ msgid "Remove"
+#~ msgstr "Supprimer"
+
+#~ msgid "Skip"
+#~ msgstr "Ignorer"
+
+#~ msgid "Install"
+#~ msgstr "Installer"
+
+#~ msgid "Music Volume"
+#~ msgstr "Volume musique"
+
+#~ msgid "Window Mode"
+#~ msgstr "Mode fenêtre"
+
+#~ msgid "Pause menu"
+#~ msgstr "Menu pause"
+
+#~ msgid "Stats"
+#~ msgstr "Statistique"
+
+#~ msgid "Control Panel"
+#~ msgstr "Panneau de configuration"
+
+#~ msgid "BigWave 2003 Edition"
+#~ msgstr "BigWave Édition 2003"
+
+#~ msgid "Show Stats"
+#~ msgstr "Statistiques"
