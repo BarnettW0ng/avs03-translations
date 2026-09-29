@@ -14,7 +14,7 @@ msgstr "Brique"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr "+40 PV.\n+12 protection.\n0.8x vitesse curseur.\n0.85x force d'attaque.\n1.1x force d'attaque en cas d'attaque ennemi (pendant 8s, max. 3x)"
+msgstr "+40 PV.\n+12 protection.\n0.8x vitesse curseur.\n0.85x dégats.\n1.1x dégats en cas d'attaque ennemi (pendant 8s, max. 3x)"
 
 #. Class select - name (default)
 #. source: Default
@@ -34,7 +34,7 @@ msgstr "Null"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr "-25 PV.\n+8 perte de paquets.\n1.5x chance.\n0.9x force d'attaque."
+msgstr "-25 PV.\n+8 perte de paquets.\n1.5x chance.\n0.9x dégats."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -44,7 +44,7 @@ msgstr "Vecteur"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr "1.25x vitesse curseur.\n+15 perte de paquets.\n-25 PV.\n0.9x force d'attaque.\nEn cas de perte de paquets, 1.25x vitesse curseur et 1.2x réduction temps d'attente d'attaque (pendant 4s)."
+msgstr "1.25x vitesse curseur.\n+15 perte de paquets.\n-25 PV.\n0.9x dégats.\nEn cas de perte de paquets, 1.25x vitesse curseur et 1.2x réduction temps d'attente d'attaque (pendant 4s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -54,7 +54,7 @@ msgstr "Pointe"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr "+12% chance d'att. critique.\n1.25x force d'attaque critique.\n-15 PV.\n0.9x vitesse curseur.\n0.92x force d'attaque."
+msgstr "+12% chance d'att. critique.\n1.25x dégats critique.\n-15 PV.\n0.9x vitesse curseur.\n0.92x dégats."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -64,7 +64,7 @@ msgstr "Air"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr "1.3x vitesse processeur.\n1.12x réduction temps d'attente d'attaque.\n1.08x gain d'EXP.\n0.85x force d'attaque."
+msgstr "1.3x vitesse processeur.\n1.12x réduction temps d'attente d'attaque.\n1.08x gain d'EXP.\n0.85x dégats."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -74,7 +74,7 @@ msgstr "Admin"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr "+1 clé.\n1.3x gain de pièces.\n1.3x magnétisme.\n+10% réduction dans la boutique.\n0.9x PV.\n0.85x force d'attaque."
+msgstr "+1 clé.\n1.3x gain de pièces.\n1.3x magnétisme.\n+10% réduction dans la boutique.\n0.9x PV.\n0.85x dégats."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -254,7 +254,7 @@ msgstr "Rush Hour"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Augmente la force d'attaque des armes de +10% en ouvrant une BigWave."
+msgstr "Augmente les dégats des armes de +10% en ouvrant une BigWave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -274,7 +274,7 @@ msgstr "Nettoyage de disque"
 #. Plugin - description (chance_defrag)
 #. source: 10% Chance to perform a Defrag every 30s.
 msgid "PLUGIN.chance_defrag.description"
-msgstr "10% chance de défragmentation toutes les 30s."
+msgstr "10% de chance de défragmentation toutes les 30s."
 
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
@@ -294,7 +294,7 @@ msgstr "Dossiers partagés"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "Augmente la chance d'apparition de pièces de +20%."
+msgstr "Augmente la probabilité d'apparition de pièces de +20%."
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -304,7 +304,7 @@ msgstr "Boost de chance d'attaque crit."
 #. Plugin - description (crit_chance_boost)
 #. source: Multiply Crit Chance 1.1x.
 msgid "PLUGIN.crit_chance_boost.description"
-msgstr "Multiplie la chance d'une attaque critique de 1.1x."
+msgstr "Multiplie les probabilités d'une attaque critique de 1.1x."
 
 #. Plugin - name (cursor_speed_boost)
 #. source: Cursor Speed Boost
@@ -334,7 +334,7 @@ msgstr "Boost d'attaque"
 #. Plugin - description (damage_boost)
 #. source: Multiply Weapon Damage 1.1x.
 msgid "PLUGIN.damage_boost.description"
-msgstr "Multiplie la force d'attaque des armes de 1.1x."
+msgstr "Multiplie les dégats des armes de 1.1x."
 
 #. Plugin - name (damage_level_scaling)
 #. source: Career Path
@@ -344,7 +344,7 @@ msgstr "Choix de carrière"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr "Augmente la force d'attaque de +3% pour chaque niveau.\nRéduit les PV de -1 pour chaque niveau."
+msgstr "Augmente les dégats de +3% pour chaque niveau.\nRéduit les PV de -1 pour chaque niveau."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -354,7 +354,7 @@ msgstr "Surcompensation"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "Augmente la force d'attaque des armes de +1% pour 1% de PV manquant."
+msgstr "Augmente les dégats des armes de +1% pour 1% de PV manquant."
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -534,7 +534,7 @@ msgstr "Lent mais fort"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr "Multiplie la force d'attaque de 1.25x.\nRéduit la vitesse du curseur de -10%."
+msgstr "Multiplie les dégats de 1.25x.\nRéduit la vitesse du curseur de -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -644,7 +644,7 @@ msgstr "Pas bouge!"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "Augmente la force d'attaque de +5% pour chaque seconde sans mouvement, pour un maximum de +15%."
+msgstr "Augmente les dégats de +5% pour chaque seconde sans mouvement, pour un maximum de +15%."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -674,7 +674,7 @@ msgstr "Attaque monétaire"
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
 msgid "PLUGIN.wallet_damage.description"
-msgstr "Augmente la force d'attaque de +1% pour chaque 10 pièces."
+msgstr "Augmente les dégats de +1% pour chaque 10 pièces."
 
 #. Plugin - name (first_strike)
 #. source: First Strike
@@ -684,7 +684,7 @@ msgstr "Première attaque"
 #. Plugin - description (first_strike)
 #. source: Increase Damage +25% against enemies above 90% HP.
 msgid "PLUGIN.first_strike.description"
-msgstr "Augmente la force d'attaque de +25% pour les ennemis avec plus de 90% de leur PV."
+msgstr "Augmente les dégats de +25% pour les ennemis avec plus de 90% de leur PV."
 
 #. Plugin - name (crit_blast)
 #. source: Crit Blast
@@ -694,7 +694,7 @@ msgstr "Boom!"
 #. Plugin - description (crit_blast)
 #. source: 10% Chance for Crits to Blast for 50% Damage.
 msgid "PLUGIN.crit_blast.description"
-msgstr "Chance de 10% pour q'une attaque critique cause une explosion pour 50% de dégâts."
+msgstr "Chance de 10% pour qu'une attaque critique cause une explosion avec 50% de dégâts."
 
 #. Plugin - name (zip_recover)
 #. source: Zip Recover
@@ -724,7 +724,7 @@ msgstr "Mégacritique"
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
-msgstr "Augmente la chance d'attaque critique de +40%.\nEn cas de chance de plus de 100%, une attaque mégacritique double les dégâts."
+msgstr "Augmente les probabilités d'attaque critique de +40%.\nEn cas de chance de plus de 100%, une attaque mégacritique double les dégâts."
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -734,7 +734,7 @@ msgstr "Hyperthreading"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr "Multiplie le nombre d'armes de 1.5x.\nMultiplie la force d'attaque de 0.75x."
+msgstr "Multiplie le nombre d'armes de 1.5x.\nMultiplie les dégats de 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -744,7 +744,7 @@ msgstr "Coeur de fer"
 #. Plugin - description (tank_core)
 #. source: Increase Weapon Damage +20% per 100 Max HP.
 msgid "PLUGIN.tank_core.description"
-msgstr "Augmente la force d'attaque de 20% pour chaque 100 PV."
+msgstr "Augmente les dégats de 20% pour chaque 100 PV."
 
 #. Plugin - name (service_pack)
 #. source: Service Pack
@@ -814,7 +814,7 @@ msgstr "Utilisateur avancé"
 #. Plugin - description (power_user)
 #. source: Special File capacity scales with Weapon Power.
 msgid "PLUGIN.power_user.description"
-msgstr "Capacité des fichiers spéciaux augmentés avec la force d'armes."
+msgstr "Capacité des fichiers spéciaux augmentés avec les dégats d'armes."
 
 #. Plugin - name (extra_shop_offer)
 #. source: Software Catalog
@@ -909,17 +909,17 @@ msgstr "Multiplie le nombre de pièces."
 #. Stat display - name (upgrade_player_crit_chance)
 #. source: Crit Chance
 msgid "STAT.upgrade_player_crit_chance.name"
-msgstr "Chance d'attaque critique"
+msgstr "Probabilité d'attaque critique"
 
 #. Stat display - description (upgrade_player_crit_chance)
 #. source: Chance to cause Crit Hit.
 msgid "STAT.upgrade_player_crit_chance.description"
-msgstr "La chance d'une attaque critique."
+msgstr "Probabilité d'une attaque critique."
 
 #. Stat display - name (upgrade_player_crit_damage_multi)
 #. source: Crit Damage
 msgid "STAT.upgrade_player_crit_damage_multi.name"
-msgstr "Force d'attaque critique"
+msgstr "Dégâts d'attaque critique"
 
 #. Stat display - description (upgrade_player_crit_damage_multi)
 #. source: Multiplies Damage on Crit Hit.
@@ -929,12 +929,12 @@ msgstr "Multiplie les dégâts de l'attaque critique."
 #. Stat display - name (upgrade_player_damage_multi)
 #. source: Weapon Damage
 msgid "STAT.upgrade_player_damage_multi.name"
-msgstr "Force d'attaque"
+msgstr "Dégâts d'attaque des armes"
 
 #. Stat display - description (upgrade_player_damage_multi)
 #. source: Multiplies all Damage output.
 msgid "STAT.upgrade_player_damage_multi.description"
-msgstr "Multiplie les dégâts des attaques."
+msgstr "Multiplie tous les dégâts des attaques."
 
 #. Stat display - name (upgrade_player_dodge)
 #. source: Packet Loss
@@ -944,7 +944,7 @@ msgstr "Perte de paquets"
 #. Stat display - description (upgrade_player_dodge)
 #. source: Chance to dogde all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
-msgstr "Chance d'éviter toute attaque ennemie. (Exponentiel)"
+msgstr "Probabilité d'éviter toute attaque ennemie. (Exponentiel)"
 
 #. Stat display - name (upgrade_player_exp_gain)
 #. source: EXP Gain
@@ -995,7 +995,7 @@ msgstr "Multiplie la force d'attraction pour l'EXP et autres objets."
 #. Stat display - name (upgrade_player_max_health)
 #. source: Max HP
 msgid "STAT.upgrade_player_max_health.name"
-msgstr "PV maxi"
+msgstr "PVs max"
 
 #. Stat display - description (upgrade_player_max_health)
 #. source: Additional Max HP.
@@ -1005,7 +1005,7 @@ msgstr "Augmente le nombre de PV maximum."
 #. Stat display - name (upgrade_player_power_multi)
 #. source: Weapon Power
 msgid "STAT.upgrade_player_power_multi.name"
-msgstr "Force d'attaque"
+msgstr "Dégats d'attaque"
 
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
@@ -1076,13 +1076,13 @@ msgstr "Multiplie la vitesse d'attaque de toutes les armes. (Exponentiel)"
 #. source: {weapon} Damage
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.damage.name"
-msgstr "Attaque de {weapon}"
+msgstr "Dégâts de {weapon}"
 
 #. Weapon upgrade card - damage stat description
 #. source: Increases {weapon} damage by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.damage.description"
-msgstr "Augmente la force d'attaque de {weapon} de +{percent}%."
+msgstr "Augmente les dégats de {weapon} de +{percent}%."
 
 #. Weapon upgrade card - attack speed stat title
 #. source: {weapon} Speed
@@ -1130,13 +1130,13 @@ msgstr "Nombre de {weapon}"
 #. source: Adds +{percent}% chance of additional {spawn_noun}.
 #. Keep placeholders unchanged: {percent}, {spawn_noun}
 msgid "WEAPON_UPGRADE.amount.description"
-msgstr "Ajoute +{percent}% à la chance d'un(e) {spawn_noun} additionnel(le)."
+msgstr "Ajoute +{percent}% à la probabilité d'un(e) {spawn_noun} additionnel(le)."
 
 #. Weapon upgrade card - power stat title
 #. source: {weapon} Power
 #. Keep placeholders unchanged: {weapon}
 msgid "WEAPON_UPGRADE.power.name"
-msgstr "Force de {weapon}"
+msgstr "Dégâts de {weapon}"
 
 #. Weapon upgrade card - repel power description
 #. source: Increases {weapon} Repel effect by +{percent}%.
@@ -1238,25 +1238,25 @@ msgstr "Augmente le gain de pièces de +{percent}%."
 #. source: Increases crit hit chance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_chance.description"
-msgstr "Augmente la chance d'attaque critique de +{percent}%."
+msgstr "Augmente la probabilité d'attaque critique de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_crit_damage_multi)
 #. source: Increases crit hit damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
-msgstr "Augmente la force d'attaque critique de +{percent}%."
+msgstr "Augmente les dégats critique de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_damage_multi)
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "Augmente le multiplicateur de la force d'attaque d'armes de +{percent}%."
+msgstr "Augmente le multiplicateur de la dégats d'armes de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "Augmente la chance d'évasion de dégats de +{percent}%."
+msgstr "Augmente les probabilités d'évasion de dégats de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
@@ -1274,7 +1274,7 @@ msgstr "Augmente la régénération de PV de +{percent}%."
 #. source: Increases luck by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_luck.description"
-msgstr "Augmente le taux de chance de +{percent}%."
+msgstr "Augmente la chance de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_magnetism_multi)
 #. source: Increases player magnetism by +{percent}%.
@@ -1316,7 +1316,7 @@ msgstr "Augmente la vitesse du pointeur de +{percent}%."
 #. source: Adds +{percent}% chance of additional weapon spawns.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_weap_amount.description"
-msgstr "Ajoute +{percent}% à la chance d'apparition d'armes additionelles."
+msgstr "Ajoute +{percent}% aux probabilités d'apparition d'armes additionelles."
 
 #. Upgrade card - description (upgrade_player_weap_size)
 #. source: Increases weapon size multiplier by +{percent}%.
@@ -1398,7 +1398,7 @@ msgstr "HaD: DoCK"
 #. Upgrade card - description (weapon_hitmarkers)
 #. source: Shots land on the nearest enemy. 3% chance of a headshot.
 msgid "UPGRADE.weapon_hitmarkers.description"
-msgstr "Des tirs qui sont visés vers l'ennemi le plus proches. Chance de 3% d'un Headshot."
+msgstr "Des tirs qui sont visés vers l'ennemi le plus proches. Probabilité de 3% d'un Headshot."
 
 #. Upgrade card - name (weapon_paint)
 #. source: Paint
@@ -2747,7 +2747,7 @@ msgstr "Nombre total d'attaques critiques"
 #. Profile stats - total damage dealt
 #. source: Damage Dealt
 msgid "UI.stat_damage_dealt"
-msgstr "Dégats soumis"
+msgstr "Dégats infligés"
 
 #. Profile stats - total damage dealt tooltip
 #. source: Total damage dealt to enemies across all runs.
@@ -5689,7 +5689,7 @@ msgstr "Chasseur de têtes"
 #. Weapon driver / overclock card - description (hitmarkers_headhunter)
 #. source: Increase execute chance. Converts Repel to Heat.\nReduce Damage -15%.
 msgid "DRIVER.hitmarkers_headhunter.description"
-msgstr "Augmente les chances d’exécution. Convertit la répulsion en chaleur\nDégâts -15 %"
+msgstr "Augmente les probabilités d’exécution. Convertit la répulsion en chaleur\nDégâts -15 %"
 
 #. Weapon driver / overclock card - name (hitmarkers_killstreak)
 #. source: Killstreak
@@ -5759,7 +5759,7 @@ msgstr "Fin de tâche"
 #. Weapon driver / overclock card - description (orchestra_taskkill)
 #. source: Increase execute chance.
 msgid "DRIVER.orchestra_taskkill.description"
-msgstr "Augmente les chances d’exécution"
+msgstr "Augmente les probabilités d’exécution"
 
 #. Weapon driver / overclock card - name (paint_spill)
 #. source: Spill
@@ -5889,7 +5889,7 @@ msgstr "Un tir"
 #. Weapon driver / overclock card - description (sniper_oneshot)
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
-msgstr "Chances d’exécution +7 %\nDégâts +25 %"
+msgstr "Probabilités d’exécution +7 %\nDégâts +25 %"
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
 #. source: Cheat
