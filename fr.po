@@ -6544,7 +6544,7 @@ msgstr "Antivirus Survivors 2003 Professionnel"
 #~ msgstr "Édition"
 
 #~ msgid "Get to the Safe Folder!"
-#~ msgstr "Dirige-toi le dossier sécurisé!"
+#~ msgstr "Allez vers le dossier sécurisé!"
 
 #~ msgid "Plugin Suite Installation"
 #~ msgstr "Installateur de pilotes"
