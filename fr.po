@@ -14,7 +14,7 @@ msgstr "Brique"
 #. Class select - description (brick)
 #. source: Add +40 Max HP.\nAdd +12 Armo(u)r.\nMultiply Cursor Speed 0.8x.\nMultiply Weapon Damage 0.85x.\nMultiply Weapon Damage 1.1x when taking Damage (Lasts 8s, stacks up to 3).
 msgid "CLASS.brick.description"
-msgstr "+40 PV.\n+12 protection.\n0.8x vitesse curseur.\n0.85x dégats.\n1.1x dégats en cas d'attaque ennemi (pendant 8s, max. 3x)"
+msgstr "+40 PV.\n+12 protection.\n0.8x vitesse curseur.\n0.85x dégâts.\n1.1x dégâts lors de dégâts subis (pendant 8s, max. 3x)"
 
 #. Class select - name (default)
 #. source: Default
@@ -34,7 +34,7 @@ msgstr "Null"
 #. Class select - description (null)
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
-msgstr "-25 PV.\n+8 perte de paquets.\n1.5x chance.\n0.9x dégats."
+msgstr "-25 PV.\n+8 perte de paquets.\n1.5x chance.\n0.9x dégâts."
 
 #. Class select - name (vector)
 #. source: Vector
@@ -44,7 +44,7 @@ msgstr "Vecteur"
 #. Class select - description (vector)
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
-msgstr "1.25x vitesse curseur.\n+15 perte de paquets.\n-25 PV.\n0.9x dégats.\nEn cas de perte de paquets, 1.25x vitesse curseur et 1.2x réduction temps d'attente d'attaque (pendant 4s)."
+msgstr "1.25x vitesse curseur.\n+15 perte de paquets.\n-25 PV.\n0.9x dégâts.\nEn cas de perte de paquets, 1.25x vitesse curseur et 1.2x réduction temps d'attente d'attaque (pendant 4s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -54,7 +54,7 @@ msgstr "Pointe"
 #. Class select - description (breakpoint)
 #. source: Increase Crit Chance +12%.\nMultiply Crit Damage 1.25x.\nReduce Max HP -15.\nMultiply Cursor Speed 0.9x.\nMultiply Weapon Damage 0.92x.
 msgid "CLASS.breakpoint.description"
-msgstr "+12% chance d'att. critique.\n1.25x dégats critique.\n-15 PV.\n0.9x vitesse curseur.\n0.92x dégats."
+msgstr "+12% chance d'att. critique.\n1.25x dégâts critique.\n-15 PV.\n0.9x vitesse curseur.\n0.92x dégâts."
 
 #. Class select - name (thread)
 #. source: Thread
@@ -64,7 +64,7 @@ msgstr "Air"
 #. Class select - description (thread)
 #. source: Multiply Processing Speed 1.3x.\nMultiply Refresh Speed 1.12x.\nMultiply EXP Gain 1.08x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.thread.description"
-msgstr "1.3x vitesse processeur.\n1.12x réduction temps d'attente d'attaque.\n1.08x gain d'EXP.\n0.85x dégats."
+msgstr "1.3x vitesse processeur.\n1.12x réduction temps d'attente d'attaque.\n1.08x gain d'EXP.\n0.85x dégâts."
 
 #. Class select - name (admin)
 #. source: Admin
@@ -74,7 +74,7 @@ msgstr "Admin"
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
 msgid "CLASS.admin.description"
-msgstr "+1 clé.\n1.3x gain de pièces.\n1.3x magnétisme.\n+10% réduction dans la boutique.\n0.9x PV.\n0.85x dégats."
+msgstr "+1 clé.\n1.3x gain de pièces.\n1.3x magnétisme.\n+10% réduction dans la boutique.\n0.9x PV.\n0.85x dégâts."
 
 #. Folder evolution mode - name (chaos)
 #. source: Chaos
@@ -224,7 +224,7 @@ msgstr "IRQ Hardware"
 #. Plugin - description (armor_damage_trigger)
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
-msgstr "Ajoute +5 protection.\nAjoute +25 perte de paquets en cas d'attaque ennemi (pendant 10s)."
+msgstr "Ajoute +5 protection.\nAjoute +25 perte de paquets lors de dégâts subis (pendant 10s)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -254,7 +254,7 @@ msgstr "Rush Hour"
 #. Plugin - description (big_wave_damage)
 #. source: Increase Weapon Damage Multiplier +10% when opening a Big Wave.
 msgid "PLUGIN.big_wave_damage.description"
-msgstr "Augmente les dégats des armes de +10% en ouvrant une BigWave."
+msgstr "Augmente les dégâts des armes de +10% en ouvrant une BigWave."
 
 #. Plugin - name (blast_on_file_open)
 #. source: AutoPlay
@@ -334,7 +334,7 @@ msgstr "Boost d'attaque"
 #. Plugin - description (damage_boost)
 #. source: Multiply Weapon Damage 1.1x.
 msgid "PLUGIN.damage_boost.description"
-msgstr "Multiplie les dégats des armes de 1.1x."
+msgstr "Multiplie les dégâts des armes de 1.1x."
 
 #. Plugin - name (damage_level_scaling)
 #. source: Career Path
@@ -344,7 +344,7 @@ msgstr "Choix de carrière"
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
-msgstr "Augmente les dégats de +3% pour chaque niveau.\nRéduit les PV de -1 pour chaque niveau."
+msgstr "Augmente les dégâts de +3% par niveau.\nRéduit les PV de -1 par niveau."
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
@@ -354,7 +354,7 @@ msgstr "Surcompensation"
 #. Plugin - description (damage_missing_hp)
 #. source: Increase Weapon Damage +1% per 1% missing HP.
 msgid "PLUGIN.damage_missing_hp.description"
-msgstr "Augmente les dégats des armes de +1% pour 1% de PV manquant."
+msgstr "Augmente les dégâts des armes de +1% pour 1% de PV manquant."
 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
@@ -394,7 +394,7 @@ msgstr "Régénération critique"
 #. Plugin - description (heal_on_crit)
 #. source: 5% Chance to Heal when landing a Crit.
 msgid "PLUGIN.heal_on_crit.description"
-msgstr "Chance de 5% de regéneration en cas d'attaque critique."
+msgstr "Chance de 5% de regéneration lors de dégâts subis."
 
 #. Plugin - name (hp_boost)
 #. source: Max HP Boost
@@ -424,7 +424,7 @@ msgstr "Aidez moi!"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
-msgstr "Cause une explosion en cas d'attaque ennemie (20s temps d'attente)."
+msgstr "Cause une explosion lors de dégâts subis (20s temps d'attente)."
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -464,7 +464,7 @@ msgstr "Malchanceux"
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr "Multiplie la chance de 2.0x en cas d'attaque ennemie (pendant 6s)."
+msgstr "Multiplie la chance de 2.0x lors de dégâts subis (pendant 6s)."
 
 #. Plugin - name (magnetism_boost)
 #. source: Magnetism Boost
@@ -534,7 +534,7 @@ msgstr "Lent mais fort"
 #. Plugin - description (slow_but_strong)
 #. source: Multiply Weapon Damage 1.25x.\nReduce Cursor Speed -10%.
 msgid "PLUGIN.slow_but_strong.description"
-msgstr "Multiplie les dégats de 1.25x.\nRéduit la vitesse du curseur de -10%."
+msgstr "Multiplie les dégâts de 1.25x.\nRéduit la vitesse du curseur de -10%."
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -594,7 +594,7 @@ msgstr "Lisez-moi"
 #. Plugin - description (xp_gain_on_damage)
 #. source: Increase EXP Gain +10%.\nGain +4 EXP when taking damage.
 msgid "PLUGIN.xp_gain_on_damage.description"
-msgstr "Augmente le gain d'EXP de +10%.\n+4 EXP en cas d'attaque ennemie."
+msgstr "Augmente le gain d'EXP de +10%.\n+4 EXP lors de dégâts subis."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -644,7 +644,7 @@ msgstr "Pas bouge!"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "Augmente les dégats de +5% pour chaque seconde sans mouvement, pour un maximum de +15%."
+msgstr "Augmente les dégâts de +5% chaque seconde sans mouvement, pour un maximum de +15%."
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -674,7 +674,7 @@ msgstr "Attaque monétaire"
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
 msgid "PLUGIN.wallet_damage.description"
-msgstr "Augmente les dégats de +1% pour chaque 10 pièces."
+msgstr "Augmente les dégâts de +1% par tranche de 10 pièces possédées."
 
 #. Plugin - name (first_strike)
 #. source: First Strike
@@ -684,7 +684,7 @@ msgstr "Première attaque"
 #. Plugin - description (first_strike)
 #. source: Increase Damage +25% against enemies above 90% HP.
 msgid "PLUGIN.first_strike.description"
-msgstr "Augmente les dégats de +25% pour les ennemis avec plus de 90% de leur PV."
+msgstr "Augmente les dégâts de +25% pour les ennemis avec plus de 90% de leur PV."
 
 #. Plugin - name (crit_blast)
 #. source: Crit Blast
@@ -694,7 +694,7 @@ msgstr "Boom!"
 #. Plugin - description (crit_blast)
 #. source: 10% Chance for Crits to Blast for 50% Damage.
 msgid "PLUGIN.crit_blast.description"
-msgstr "Chance de 10% pour qu'une attaque critique cause une explosion avec 50% de dégâts."
+msgstr "Probabilité de 10% pour qu'une attaque critique cause une explosion avec 50% de dégâts."
 
 #. Plugin - name (zip_recover)
 #. source: Zip Recover
@@ -734,7 +734,7 @@ msgstr "Hyperthreading"
 #. Plugin - description (hyperthread)
 #. source: Multiply Weapon Amount 1.5x.\nMultiply Weapon Damage 0.75x.
 msgid "PLUGIN.hyperthread.description"
-msgstr "Multiplie le nombre d'armes de 1.5x.\nMultiplie les dégats de 0.75x."
+msgstr "Multiplie le nombre d'armes de 1.5x.\nMultiplie les dégâts de 0.75x."
 
 #. Plugin - name (tank_core)
 #. source: Tank Core
@@ -744,7 +744,7 @@ msgstr "Coeur de fer"
 #. Plugin - description (tank_core)
 #. source: Increase Weapon Damage +20% per 100 Max HP.
 msgid "PLUGIN.tank_core.description"
-msgstr "Augmente les dégats de 20% pour chaque 100 PV."
+msgstr "Augmente les dégâts de 20% par tranche de 100 PV."
 
 #. Plugin - name (service_pack)
 #. source: Service Pack
@@ -814,7 +814,7 @@ msgstr "Utilisateur avancé"
 #. Plugin - description (power_user)
 #. source: Special File capacity scales with Weapon Power.
 msgid "PLUGIN.power_user.description"
-msgstr "Capacité des fichiers spéciaux augmentés avec les dégats d'armes."
+msgstr "Capacité des fichiers spéciaux augmentés avec les dégâts d'armes."
 
 #. Plugin - name (extra_shop_offer)
 #. source: Software Catalog
@@ -1005,7 +1005,7 @@ msgstr "Augmente le nombre de PV maximum."
 #. Stat display - name (upgrade_player_power_multi)
 #. source: Weapon Power
 msgid "STAT.upgrade_player_power_multi.name"
-msgstr "Dégats d'attaque"
+msgstr "dégâts d'attaque"
 
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
@@ -1082,7 +1082,7 @@ msgstr "Dégâts de {weapon}"
 #. source: Increases {weapon} damage by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.damage.description"
-msgstr "Augmente les dégats de {weapon} de +{percent}%."
+msgstr "Augmente les dégâts de {weapon} de +{percent}%."
 
 #. Weapon upgrade card - attack speed stat title
 #. source: {weapon} Speed
@@ -1244,19 +1244,19 @@ msgstr "Augmente la probabilité d'attaque critique de +{percent}%."
 #. source: Increases crit hit damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_crit_damage_multi.description"
-msgstr "Augmente les dégats critique de +{percent}%."
+msgstr "Augmente les dégâts critique de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_damage_multi)
 #. source: Increases weapon damage multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_damage_multi.description"
-msgstr "Augmente le multiplicateur de la dégats d'armes de +{percent}%."
+msgstr "Augmente le multiplicateur des dégâts d'armes de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_dodge)
 #. source: Increases chance of dodging damage by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_dodge.description"
-msgstr "Augmente les probabilités d'évasion de dégats de +{percent}%."
+msgstr "Augmente les probabilités d'évasion de dégâts de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_exp_gain)
 #. source: Increases EXP gain by +{percent}%.
@@ -1408,7 +1408,7 @@ msgstr "Paint"
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr "Peint des cercles autour du pointeur qui infligent des dégats de Lag au fil du temps."
+msgstr "Peint des cercles autour du pointeur qui infligent des dégâts de Lag au fil du temps."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1428,7 +1428,7 @@ msgstr "Quarantaine"
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
 msgid "UPGRADE.weapon_quarantine.description"
-msgstr "Inglige des dégats aux ennemis qui se situe dans le scanneur."
+msgstr "Inglige des dégâts aux ennemis qui se situe dans le scanneur."
 
 #. Upgrade card - name (weapon_search)
 #. source: Search
@@ -1458,7 +1458,7 @@ msgstr "Frames"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr "Tires des indicateurs d'images par seconde. Le nombre affiché est égal au nombre de dégats Inglige aux ennemis."
+msgstr "Tires des indicateurs d'images par seconde. Le nombre affiché est égal au nombre de dégâts Inglige aux ennemis."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -2008,7 +2008,7 @@ msgstr "Contrôle le pointeur avec la souris dans les dossiers sécurisés. Les 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
 msgid "SETTINGS.controller_vibration_tip"
-msgstr "Faire vibrer la manette en cas d'attaque ennemie."
+msgstr "Faire vibrer la manette lors de dégâts subis."
 
 #. Settings menu
 #. source: OK
@@ -2747,7 +2747,7 @@ msgstr "Nombre total d'attaques critiques"
 #. Profile stats - total damage dealt
 #. source: Damage Dealt
 msgid "UI.stat_damage_dealt"
-msgstr "Dégats infligés"
+msgstr "dégâts infligés"
 
 #. Profile stats - total damage dealt tooltip
 #. source: Total damage dealt to enemies across all runs.
@@ -2757,7 +2757,7 @@ msgstr "Total des dégâts infligés aux ennemis"
 #. Profile stats - total damage taken
 #. source: Damage Taken
 msgid "UI.stat_damage_taken"
-msgstr "Dégats subits"
+msgstr "dégâts subits"
 
 #. Profile stats - total damage taken tooltip
 #. source: Total damage taken across all runs.
@@ -3576,7 +3576,7 @@ msgstr "Pilote piraté"
 #. Legendary installer window title
 #. source: PluginInstaller LEGENDARY
 msgid "UI.installer_title_legendary"
-msgstr "PiloteInstallateur LÉGENDAIRE"
+msgstr "PluginInstaller LÉGENDAIRE"
 
 #. Morgan AV installer window title
 #. source: Morgan Antivirus Setup
@@ -6179,7 +6179,7 @@ msgstr "Retour au menu"
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller v2.03 r2"
-msgstr "PiloteInstallateur v2.03 r2"
+msgstr "PluginInstaller v2.03 r2"
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6189,7 +6189,7 @@ msgstr "Préparation de l'installation..."
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
-msgstr "PiloteInstallateur recherche tous les pilotes compatibles avec cet ordinateur."
+msgstr "PluginInstaller recherche tous les pilotes compatibles avec cet ordinateur."
 
 #. Scene label
 #. screens: installer_window.tscn
