@@ -844,7 +844,7 @@ msgstr "Protocole I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr "La difficulté pour débutants. 16 Beanz pour chaque dossier sécurisé ouvert."
+msgstr "Difficulté pour débutants. 16 Beanz pour chaque dossier sécurisé ouvert."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -854,7 +854,7 @@ msgstr "Protocole II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr "La difficulté secondaire. 24 Beanz pour chaque dossier sécurisé ouvert."
+msgstr "Difficulté intermédiaire. Donne 24 Beanz pour chaque dossier sécurisé ouvert."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -864,7 +864,7 @@ msgstr "Protocole III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr "La difficulté tertiaire. 32 Beanz pour chaque dossier sécurisé ouvert."
+msgstr "Difficulté avancée. Donne 32 Beanz pour chaque dossier sécurisé ouvert."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -874,7 +874,7 @@ msgstr "Protocole IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr "La difficulté pour joueurs avancés. 48 Beanz pour chaque dossier sécurisé ouvert."
+msgstr "Difficile. Donne 48 Beanz pour chaque dossier sécurisé ouvert."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -884,7 +884,7 @@ msgstr "Protocole V"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr "Très difficile, mais donne 64 Beanz pour chaque dossier sécurisé ouvert."
+msgstr "Très difficile. Donne 64 Beanz pour chaque dossier sécurisé ouvert."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -980,7 +980,7 @@ msgstr "Chance"
 #. Stat display - description (upgrade_player_luck)
 #. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "Taux de chance plus haut pour recevoir des pilotes plus rares."
+msgstr "Augmente les probabilités d'obtenir des pilotes plus rares."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -990,7 +990,7 @@ msgstr "Magnétisme"
 #. Stat display - description (upgrade_player_magnetism_multi)
 #. source: Multiplies the radius that pulls in EXP and other pickup items.
 msgid "STAT.upgrade_player_magnetism_multi.description"
-msgstr "Multiplie la force d'attraction pour l'EXP et autres objets."
+msgstr "Augumente la force d'attraction de l'EXP et des objets."
 
 #. Stat display - name (upgrade_player_max_health)
 #. source: Max HP
@@ -1180,7 +1180,7 @@ msgstr "disque"
 #. Weapon amount upgrade - phrase after "additional" for Cut
 #. source: scissors spawning
 msgid "WEAPON.cut.spawn_noun"
-msgstr "ciseau"
+msgstr "ciseaux"
 
 #. Weapon amount upgrade - phrase after "additional" for Firewall
 #. source: fire rings spawning
@@ -1226,7 +1226,7 @@ msgstr "carte"
 #. source: Increases damage resistance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_armor.description"
-msgstr "Augmente la résistence contre les dégats de +{percent}%."
+msgstr "Augmente la résistance de +{percent}%."
 
 #. Upgrade card - description (upgrade_player_coin_gain)
 #. source: Increases coin gain by +{percent}%.
@@ -1408,7 +1408,7 @@ msgstr "Paint"
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr "Peint des cercles autour du pointeur qui infligent des attaques de délai."
+msgstr "Peint des cercles autour du pointeur qui infligent des dégats de Lag au fil du temps."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1508,7 +1508,7 @@ msgstr "Baladeur Internet"
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr "Ouvre un onglet permanent sur l'écran qui inglige un grand nombre de dégat de délai."
+msgstr "Ouvre un onglet permanent sur l'écran qui inglige un grand nombre de dégat de Lag."
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
@@ -1528,7 +1528,7 @@ msgstr "Wi-Fi"
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
-msgstr "Déploie un satellite qui attaque des ennemis proches avec des signaux de délai."
+msgstr "Déploie un satellite qui attaque des ennemis proches avec des signaux de lag."
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1538,7 +1538,7 @@ msgstr "AVN"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr "Des bulles de messages qui infligent des attaques de délai."
+msgstr "Des bulles de messages qui infligent des attaques de Lag."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1548,7 +1548,7 @@ msgstr "Cône géant"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "Des cônes collés au pointeur qui attaque des ennemis avec de la chaleur."
+msgstr "Des cônes autour du pointeur qui attaquent les ennemis avec de la chaleur."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1558,7 +1558,7 @@ msgstr "Blåtand"
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr "Connecte des ennemis avec des liens qui infligent des attaques d'infection."
+msgstr "Connecte des ennemis avec des liens qui infligent des dégâts d'infection."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1568,7 +1568,7 @@ msgstr "Périphérique de sortie"
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts concentric handshake rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "Tire des cercles de connection à partir du pointeur."
+msgstr "Tire des cercles à partir du pointeur."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1578,7 +1578,7 @@ msgstr "compteur FPS"
 #. Weapon metadata
 #. source: slash
 msgid "WEAPON.scimitar.spawn_noun"
-msgstr "coupe"
+msgstr "couper"
 
 #. Weapon metadata
 #. source: shot
@@ -3504,7 +3504,7 @@ msgstr "Bienvenue dans {game} !\n\nJe suis Virry et je vais t’expliquer les ba
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
-msgstr "Commençons par les déplacements\n\nUtilise {move} pour te déplacer à l’écran\n\nClique avec {click} et double-clique pour ouvrir les fichiers\n\nMaintiens {drag} pour déplacer les fichiers dans le dossier"
+msgstr "Commençons par les déplacements\n\nUtilise {move} pour te déplacer à l’écran\n\nClique avec {click} et Double-clic pour ouvrir les fichiers\n\nMaintiens {drag} pour déplacer les fichiers dans le dossier"
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
@@ -4816,12 +4816,12 @@ msgstr "Double-Clic pour combattre"
 #. Desktop icon tooltip
 #. source: Double-Click to collect all coins
 msgid "CLICKABLE.double_click_collect_coins"
-msgstr "Double-clique pour ramasser toutes les pièces"
+msgstr "Double-clic pour ramasser toutes les pièces"
 
 #. Desktop icon tooltip
 #. source: Double-Click to collect all data
 msgid "CLICKABLE.double_click_collect_data"
-msgstr "Double-clique pour ramasser toutes les données"
+msgstr "Double-clic pour ramasser toutes les données"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Install Plugin
@@ -4888,7 +4888,7 @@ msgstr "Double-clic pour changer la langue"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr "Double-clique pour ouvrir le lien[br]Les traductions sont possibles grâce aux contributions de la communauté"
+msgstr "Double-clic pour ouvrir le lien[br]Les traductions sont possibles grâce aux contributions de la communauté"
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
