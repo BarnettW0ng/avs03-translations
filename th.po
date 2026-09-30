@@ -447,7 +447,7 @@ msgstr "มีโอกาส 5% ที่จะฟื้นฟูพลัง�
 #. Plugin - name (hp_boost)
 #. source: Max HP Boost
 msgid "PLUGIN.hp_boost.name"
-msgstr "แม็กส์ เอชพี บูสท์"
+msgstr "แม็กซ์ เอชพี บูสท์"
 
 #. Plugin - description (hp_boost)
 #. source: Add +15 Max HP.
@@ -1457,7 +1457,7 @@ msgstr "ไฟร์วอลล์"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr "สร้างวงล้อไฟรอบๆเคอร์เซอร์ที่จะสร้างความเสียหายฮีททับซ้อนใส่ศัตรู"
+msgstr "สร้างวงล้อไฟรอบๆเคอร์เซอร์ สร้างความเสียหายฮีททับซ้อนใส่ศัตรู"
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -1489,7 +1489,7 @@ msgstr "เพ้นท์"
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr "วาดวงกลมใกล้ๆเคอร์เซอร์ สร้างความเสียหายแล็กทับซ้อนใส่ศัตรูอย่างต่อเนื่อง"
+msgstr "วาดวงกลมรอบเคอร์เซอร์ สร้างความเสียหายแล็กทับซ้อนใส่ศัตรูอย่างต่อเนื่อง"
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1509,7 +1509,7 @@ msgstr "ควอรันทีน"
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
 msgid "UPGRADE.weapon_quarantine.description"
-msgstr "สแกนพื้นที่และทำดาเมจใส่ศัตรูบริเวณรอบๆเคอร์เซอร์"
+msgstr "สแกนพื้นที่และทำดาเมจใส่ศัตรูบริเวณโดยรอบเคอร์เซอร์"
 
 #. Upgrade card - name (weapon_search)
 #. source: Search
@@ -1529,7 +1529,7 @@ msgstr "โซลิแทร์"
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
 msgid "UPGRADE.weapon_solitaire.description"
-msgstr "ยิงการ์ดสะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนใส่ศัตรู"
+msgstr "ยิงไพ่สะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนใส่ศัตรู"
 
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
@@ -1539,7 +1539,7 @@ msgstr "เฟรมส์"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr "ยิงตัวเลข FPS กระพริบ ทำดาเมจตามตัวเลขที่แสดงผล"
+msgstr "ยิงตัวเลข FPS กระพริบ โดยทำดาเมจตามตัวเลขที่แสดง"
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -1559,7 +1559,7 @@ msgstr "สไนเปอร์ 1.6"
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr "ยิงกระสุนหนึ่งนัดใส่ศัตรูที่แข็งแกร่งที่สุด แสดงภาพคิลฟีดเมื่อจัดการศัตรูสำเร็จ"
+msgstr "ยิงกระสุนหนึ่งนัดใส่ศัตรูที่แข็งแกร่งที่สุด แสดงคิลฟีดเมื่อจัดการศัตรูสำเร็จ"
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1570,7 +1570,7 @@ msgstr "ไมน์ส"
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
 msgstr ""
-"โยนกับดับระเบิดบริเวณรอบๆที่จะทำการระเบิดตัวเอง\n"
+"โยนกับระเบิดรอบตัวและทำการระเบิดตัวเอง\n"
 "เมื่อถูกศัตรูสัมผัส"
 
 #. Upgrade card - name (weapon_email)
@@ -1637,7 +1637,7 @@ msgstr "กรวยยักษ์"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "กรวยจราจรสีส้มที่ติดอยู่กับเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรูที่สัมผัสกับมัน"
+msgstr "กรวยจราจรสีส้มที่ติดอยู่กับเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรูที่สัมผัสมัน"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1702,7 +1702,7 @@ msgstr "วางจานส่งสัญญาณ"
 #. Weapon metadata
 #. source: chat bubble
 msgid "WEAPON.avn.spawn_noun"
-msgstr "เรียกฟองข้อความ"
+msgstr "เรียกกล่องข้อความ"
 
 #. Weapon metadata
 #. source: cone
@@ -4524,7 +4524,7 @@ msgstr "แบด เซกเตอร์"
 #. Optional extra difficulty policy - description (bad_sector)
 #. source: Halve current HP each Battle Folder.
 msgid "POLICY.bad_sector.description"
-msgstr "ลดพลังชีวิตลงครึ่งหนึ่งทุกๆครั้งที่เข้าโฟลเดอร์ต่อสู้"
+msgstr "ลดพลังชีวิตลงครึ่งหนึ่งทุกครั้งที่เข้าโฟลเดอร์ต่อสู้"
 
 #. Optional extra difficulty policy - name (low_memory)
 #. source: Low Memory
@@ -5960,7 +5960,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
 msgid "DRIVER.orchestra_fortissimo.name"
-msgstr "แท้บ โอวเอร์โหลด"
+msgstr "แท็บ โอวเอร์โหลด"
 
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
@@ -6146,7 +6146,7 @@ msgstr ""
 #. Scene label
 #. screens: spam_ad.tscn; trailer_ad.tscn
 msgid "(1) Alert!!! CRITICAL"
-msgstr "(1) คำเตือน!! พบความเสียหายร้ายแรง"
+msgstr "(1) คำเตือน!! ตรวจพบปัญหาร้ายแรง"
 
 #. Scene label
 #. screens: headshot_text.tscn
@@ -6540,7 +6540,7 @@ msgstr ""
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
 msgid "UpgradeManager 2003 rc2"
-msgstr "โปรแกรมจัดการอัพเกรด  2003 rc2"
+msgstr "อัพเกรดเมเนเจอร์ 2003 rc2"
 
 #. Scene label
 #. screens: meta_upgrades_menu.tscn
@@ -6668,12 +6668,13 @@ msgstr "รีเฟรชเสิร์ช"
 
 #. Scene label
 #. screens: upgrade_button.tscn
+#, fuzzy
 msgid ""
 "Increases Refresh Rate for Search by 20%.\n"
 "But here's a second line also."
 msgstr ""
 "ความเร็วรีเฟรช เสิร์ช +20%\n"
-"But here's a second line also."
+"พร้อมทั้งเพิ่มเส้นทางการโคจรเส้นที่สอง"
 
 #. Scene label
 #. screens: torrent_window.tscn
@@ -6713,7 +6714,7 @@ msgstr "ความเร็ว"
 #. Scene label
 #. screens: torrent_window.tscn
 msgid "Downloads complete, click to continue..."
-msgstr "ดาวน์โหลดสำเร็จ, คลิกเพื่อเล่นต่อ..."
+msgstr "ดาวน์โหลดสำเร็จ คลิกเพื่อเล่นต่อ..."
 
 #. Scene label
 #. screens: upgrade_screen.tscn
@@ -6723,7 +6724,7 @@ msgstr "อินเสิร์ท"
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Format"
-msgstr "ฟอร์แม็ท"
+msgstr "ฟอร์แมต"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
