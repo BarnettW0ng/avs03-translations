@@ -21,7 +21,7 @@ msgstr "บริค"
 msgid "CLASS.brick.description"
 msgstr ""
 "พลังชีวิตสูงสุด +40 HP\n"
-"อาเมอ(ร์) +12 \n"
+"อาเมอ(ร์) +12\n"
 "ความเร็วเคอร์เซอร์ x0.8\n"
 "ดาเมจอาวุธ x0.85\n"
 "ดาเมจอาวุธ x1.1 เมื่อได้รับดาเมจ (มีผล 8 วินาที ทับซ้อนได้ 3 ขั้น)"
@@ -47,8 +47,8 @@ msgstr "นูล"
 #. source: Reduce Max HP -25.\nAdd +8 Packet Loss.\nMultiply Luck 1.5x.\nMultiply Weapon Damage 0.9x.
 msgid "CLASS.null.description"
 msgstr ""
-"พลังชีวิตสูงสุด -25 HP \n"
-"ข้อมูลเล็ดลอด +8 \n"
+"พลังชีวิตสูงสุด -25 HP\n"
+"ข้อมูลเล็ดลอด +8\n"
 "โชค x1.5\n"
 "ดาเมจอาวุธ x0.9"
 
@@ -107,7 +107,7 @@ msgid "CLASS.admin.description"
 msgstr ""
 "ได้รับ 1 คีย์เมื่อเริ่มเกม\n"
 "เหรียญที่ได้รับ x1.3\n"
-"ระยะการเก็บ x1.3\n"
+"ระยะดึงดูด x1.3\n"
 "ลดราคาของในร้านค้า 10%\n"
 "พลังชีวิตสูงสุด x0.9\n"
 "ดาเมจอาวุธ x0.85"
@@ -462,7 +462,7 @@ msgstr "ออโต้ รีคัฟเวอร์"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "มีโอกาส 7% ที่จะได้รับพลังชีวิตสูงสุด +3 HP เมื่อทำการฟื้นฟูพลังชีวิต (คูลดาวน์ 5วินาที)"
+msgstr "มีโอกาส 7% ที่จะได้รับพลังชีวิตสูงสุด +3 HP เมื่อทำการฟื้นฟูพลังชีวิต (คูลดาวน์ 5 วินาที)"
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -2717,12 +2717,12 @@ msgstr "หมวดหมู่"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "บันทึกการเล่นเกมของคุณจะบันทึกลงในชีทนี้ เปลี่ยนไปหน้าทาสก์เพื่อปลดล็อคความสำเร็จ"
+msgstr "บันทึกการเล่นเกมของคุณจะบันทึกลงในหน้านี้ เปลี่ยนไปหน้าทาสก์เพื่อปลดล็อคความสำเร็จ"
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr "ทำภารกิจอาวุธให้สำเร็จ แล้วจะสามารถซื้อได้ที่เมนูเพิ่ม/ถอดของปลดล็อค"
+msgstr "ทำภารกิจอาวุธให้สำเร็จ แล้วซื้อจากเมนูเพิ่ม/ถอดของปลดล็อค"
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
@@ -3135,7 +3135,7 @@ msgstr "เวเปอร์"
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr "ไฟล์พิเศษที่เกิดขึ้นระหว่างต่อสู้ เมื่อพร้อมใช้งาน กด{special}ค้างเพื่อใช้งาน"
+msgstr "ไฟล์พิเศษที่เกิดขึ้นระหว่างต่อสู้ เมื่อพร้อมใช้งาน กด {special} ค้างเพื่อใช้งาน"
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -5213,7 +5213,7 @@ msgstr ""
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
 msgstr ""
-"เวลาที่เหลือ: {m}นาที {s}วินาที ({cur} KB จากทั้งหมด {max} KB) \n"
+"เวลาที่เหลือ: {m} นาที {s} วินาที ({cur} KB จากทั้งหมด {max} KB) \n"
 "ความเร็วประมวลผล: {rate} KB/วินาที"
 
 #. Zip extractor window
