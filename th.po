@@ -1305,7 +1305,7 @@ msgstr "ไพ่"
 #. source: Increases damage resistance by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_armor.description"
-msgstr "ความต้านทานดาเมจ +{percent}%"
+msgstr "การต้านทานดาเมจ +{percent}%"
 
 #. Upgrade card - description (upgrade_player_coin_gain)
 #. source: Increases coin gain by +{percent}%.
