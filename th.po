@@ -2752,7 +2752,7 @@ msgstr "ธีมสำหรับตกแต่งหน้าเดสก์
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr "จบโปรโตคอลด้วยนโยบายแต่ละอย่าง ต่อด้วยโดเมนนโยบาย โปรโตคอล 5 จะล็อคนโยบายตายตัว"
+msgstr "จบโปรโตคอลด้วยกฎเกณฑ์แต่ละอย่าง ต่อด้วยโดเมนกฎเกณฑ์ โปรโตคอล 5 จะล็อคกฎเกณฑ์ตายตัว"
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -3038,7 +3038,7 @@ msgstr "จำนวนรอบที่เล่นจบด้วยเคอ
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
 msgid "UI.stat_policy_row_desc"
-msgstr "จำนวนรอบที่เล่นจบด้วยนโยบายนี้"
+msgstr "จำนวนรอบที่เล่นจบด้วยกฎเกณฑ์นี้"
 
 #. Profile stats - enemy sheet row tooltip
 #. source: Times this enemy type has been cleared.
@@ -3083,7 +3083,7 @@ msgstr "เคอร์เซอร์"
 #. Profile stats - policy completions sheet tab
 #. source: Policies
 msgid "UI.stat_sheet_policies"
-msgstr "นโยบาย"
+msgstr "กฎเกณฑ์"
 
 #. Profile stats - HaD: DoCK headshots
 #. source: Headshots
@@ -3240,7 +3240,7 @@ msgstr "ธีม"
 #. Tasks screen - policy Beanz category
 #. source: Policies
 msgid "UI.task_group_policies"
-msgstr "นโยบาย"
+msgstr "กฎเกณฑ์"
 
 #. Tasks screen - general Beanz milestone category
 #. source: General
@@ -3328,13 +3328,13 @@ msgstr "คลิกเพื่อเปิดการใช้งาน"
 #. source: Complete %s or higher once to enable Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.policies_locked"
-msgstr "เล่นจบรอบด้วยระดับ % หรือสูงกว่าเพื่อปลดล็อคนโยบาย"
+msgstr "เล่นจบรอบด้วยระดับ % หรือสูงกว่าเพื่อปลดล็อคกฎเกณฑ์"
 
 #. Domain Policies locked until 3 distinct policies completed on the chosen protocol or higher
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr "เล่นจบรอบด้วยนโยบายที่ต่างกัน 3 ชนิดในระดับ %s หรือสูงกว่าเพื่อปลดล็อคโดเมนนโยบาย"
+msgstr "เล่นจบรอบด้วยกฎเกณฑ์ที่ต่างกัน 3 อย่างในระดับ %s หรือสูงกว่าเพื่อปลดล็อคโดเมนกฎเกณฑ์"
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3345,23 +3345,23 @@ msgstr "Beanz ที่ได้รับ: x%.2f"
 #. UI (script-driven)
 #. source: Policies
 msgid "UI.policies_icon"
-msgstr "นโยบาย"
+msgstr "กฎเกณฑ์"
 
 #. Domain Policies MMC tree and starter file name
 #. source: Domain Policies
 msgid "UI.domain_policies_icon"
-msgstr "โดเมนนโยบาย"
+msgstr "โดเมนกฎเกณฑ์"
 
 #. UI (script-driven)
 #. source: Extra Difficulty
 msgid "UI.policies_header"
-msgstr "ความยากพิเศษ"
+msgstr "ความท้าทายพิเศษ"
 
 #. UI (script-driven)
 #. source: Extra Difficulty - %d/%d Complete
 #. Keep placeholders unchanged: %d
 msgid "UI.policies_header_progress"
-msgstr "ความยากพิเศษ - สำเร็จ %d/%d อย่าง"
+msgstr "ความท้าทายพิเศษ - สำเร็จ %d/%d อย่าง"
 
 #. UI (script-driven)
 #. source: Select a Folder Difficulty first.
@@ -3376,7 +3376,7 @@ msgstr "โฟลเดอร์เริ่มต้น"
 #. Policies list column - policy name
 #. source: Policy
 msgid "UI.policies_col_policy"
-msgstr "นโยบาย"
+msgstr "กฎเกณฑ์"
 
 #. Policies list column - Beanz
 #. source: Beanz
@@ -4634,7 +4634,7 @@ msgstr "นาตาช่าส์ เรธ"
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr "เปิดใช้งานนโยบายทุกอย่าง ศัตรูเร็วขึ้น แข็งแกร่งขึ้น และเยอะขึ้น ลดพลังชีวิตลงครึ่งหนึ่งทุกครั้งที่เข้าโฟลเดอร์ต่อสู้ ไม่มีอาวุธเพิ่มเติม คีย์เจ็น หรือรีโรล พื้นที่มืด x2 เวลาหลบหนีลดลงครึ่งหนึ่ง"
+msgstr "เปิดใช้งานกฎเกณฑ์ทุกอย่าง ศัตรูเร็วขึ้น แข็งแกร่งขึ้น และเยอะขึ้น ลดพลังชีวิตลงครึ่งหนึ่งทุกครั้งที่เข้าโฟลเดอร์ต่อสู้ ไม่มีอาวุธเพิ่มเติม คีย์เจ็น หรือรีโรล พื้นที่มืด x2 เวลาหลบหนีลดลงครึ่งหนึ่ง"
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -5351,12 +5351,12 @@ msgstr "ชนิดเคอร์เซอร์ที่เลือกใน
 #. Run stats panel row
 #. source: Policy
 msgid "RUNSTAT.policy"
-msgstr "นโยบาย"
+msgstr "กฎเกณฑ์"
 
 #. Run stats panel row
 #. source: Extra difficulty policy enabled for this run.
 msgid "RUNSTAT.policy_desc"
-msgstr "นโยบายความยากพิเศษท่เปิดใช้งานในรอบนี้"
+msgstr "กฎเกณฑ์ที่เปิดใช้งานในรอบนี้"
 
 #. Run stats panel row
 #. source: None
@@ -6181,7 +6181,7 @@ msgstr "ทำการจัดเรียงข้อมูล"
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Estimated exp before defragmentation:"
-msgstr "ค่า EXP โดยประมาณก่อนการจัดเรียงข้อมูล"
+msgstr "คาดการณ์ปริมาณ EXP ก่อนดำเนินการจัดเรียงข้อมูล:"
 
 #. Scene label
 #. screens: dll_window.tscn
@@ -6301,7 +6301,7 @@ msgstr "Vapor.exe"
 #. Scene label
 #. screens: zip_window.tscn
 msgid "SHZip v2.03 (evaluation copy)"
-msgstr "SHZip v2.03 (สำเนาประเมินผล)"
+msgstr "SHZip v2.03 (รุ่นทดสอบ)"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6318,8 +6318,8 @@ msgid ""
 "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
 "Processing rate: 0.00 KB/Sec"
 msgstr ""
-"เวลาคาดการณ์ที่เหลือ: 0m 00s (0.00 KB of 0.00 KB)\n"
-"อัตราเร็วการประมวผล: 0.00 KB/Sec"
+"เวลาคาดการณ์ที่เหลือ: 0 นาที 00 วินาที (0.00 KB of 0.00 KB)\n"
+"อัตราการประมวผล: 0.00 KB/วินาที"
 
 #. Scene label
 #. screens: zip_window.tscn
@@ -6381,7 +6381,7 @@ msgstr "อาวุธที่ล็อคอยู่ - เร็วๆนี
 #. Scene label
 #. screens: stat_list.tscn
 msgid "StatsManager V0.1b"
-msgstr "โปรแกรมจัดการสถิติ V0.1b"
+msgstr "สแตทเมเนเจอร์ V0.1b"
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6634,7 +6634,7 @@ msgstr "+"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Animation Speed:"
-msgstr "ความเร็วอนิเมชั่น:"
+msgstr "ความเร็วแอนิเมชั่น:"
 
 #. Scene label
 #. screens: settings_menu.tscn
@@ -6723,7 +6723,7 @@ msgstr "อินเสิร์ท"
 #. Scene label
 #. screens: upgrade_screen.tscn
 msgid "Format"
-msgstr "ฟอร์แม็ต"
+msgstr "ฟอร์แม็ท"
 
 #. Scene label
 #. screens: upgrade_screen.tscn
