@@ -381,7 +381,7 @@ msgstr "ดาเมจอาวุธ x1.1"
 #. Plugin - name (damage_level_scaling)
 #. source: Career Path
 msgid "PLUGIN.damage_level_scaling.name"
-msgstr "คาเรียร์ พาธ"
+msgstr "แคเรียร์ พาธ"
 
 #. Plugin - description (damage_level_scaling)
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
@@ -1639,12 +1639,12 @@ msgstr "กรวยจราจรสีส้มที่ติดอยู่
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
 msgid "UPGRADE.weapon_blatand.name"
-msgstr "บลูทูธ"
+msgstr "บลูทู้ด"
 
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr "ยิงสัญญาณอินเฟ็คท์ลิ้งก์ใส่ศัตรูในระยะเป็นทอดๆ"
+msgstr "เชื่อมต่อสัญญาณอินเฟ็คท์ลิ้งก์ใส่ศัตรูในระยะแบบลูกโซ่"
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -3925,7 +3925,7 @@ msgstr "%d / %d"
 #. Clearzone archive clears label
 #. source: Clears
 msgid "UI.rar_clears"
-msgstr "ถูกจัดการ"
+msgstr "จัดการ"
 
 #. Clearzone menu - Actions
 #. source: Actions
@@ -5497,12 +5497,12 @@ msgstr "โฟลเดอร์ถัดไป"
 
 #. Scene label
 msgid "Coin Collector"
-msgstr "ตัวรวบรวมเหรียญ"
+msgstr "ไฟล์รวมเหรียญ"
 
 #. Scene label
 #. screens: defrag_window.tscn
 msgid "Defrag Collector"
-msgstr "ตัวรวบรวมข้อมูล"
+msgstr "ไฟล์รวมข้อมูล"
 
 #. Scene label
 msgid "Health Check"
