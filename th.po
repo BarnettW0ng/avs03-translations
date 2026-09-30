@@ -529,7 +529,7 @@ msgstr "ระยะดึงดูด x1.1"
 #. Plugin - name (packet_loss_boost)
 #. source: Packet Loss Boost
 msgid "PLUGIN.packet_loss_boost.name"
-msgstr "แพ็คเก็ต ลอสท์ บูสท์"
+msgstr "แพ็คเก็ต ลอสส์ บูสท์"
 
 #. Plugin - description (packet_loss_boost)
 #. source: Add +6 Packet Loss.
@@ -1096,10 +1096,7 @@ msgstr "ความเร็วประมวลผล"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr ""
-"เพิ่มความเร็วที่ใช้ในการประมวลผล\n"
-"รวมถึงการเปิดไฟล์ .zip .bat เลมไวร์\n"
-"และอื่นๆ (แบบก้าวกระโดด)"
+msgstr "เพิ่มความเร็วที่ใช้ในการประมวลผลรวมถึงการเปิดไฟล์ .zip .bat เลมไวร์ และอื่นๆ (แบบก้าวกระโดด)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1173,7 +1170,7 @@ msgstr "ความเร็ว {weapon}"
 #. source: Increases {weapon} attack speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.speed.description"
-msgstr "ความเร็วในการโจมตีของ {weapon} +{percent}%"
+msgstr "ความเร็วการโจมตีของ {weapon} +{percent}%"
 
 #. Weapon upgrade card - refresh/cooldown stat title
 #. source: {weapon} Refresh
@@ -1185,7 +1182,7 @@ msgstr "รีเฟรช {weapon}"
 #. source: Increases {weapon} refresh speed by +{percent}%.
 #. Keep placeholders unchanged: {weapon}, {percent}
 msgid "WEAPON_UPGRADE.refresh.description"
-msgstr "ความเร็วในการรีเฟรช {weapon} +{percent}%"
+msgstr "ความเร็วรีเฟรช {weapon} +{percent}%"
 
 #. Weapon upgrade card - size stat title
 #. source: {weapon} Size
@@ -1383,7 +1380,7 @@ msgstr "ความเร็วการเปิดไฟล์ +{percent}%"
 #. source: Increases weapon refresh multiplier by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_refresh_multi.description"
-msgstr "ความเร็วในการรีเฟรชอาวุธ +{percent}%"
+msgstr "ความเร็วรีเฟรชอาวุธ +{percent}%"
 
 #. Upgrade card - description (upgrade_player_speed)
 #. source: Increases movement speed by +{percent}%.
@@ -4350,7 +4347,9 @@ msgstr "เฮลท์ เช็ค พลัส"
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
 msgid "UI.unlock_file_stock_trader_desc"
-msgstr "นำเหรียญไปลงทุนระหว่างการต่อสู้แล้วถอนเหรียญออกทีหลัง"
+msgstr ""
+"นำเหรียญไปลงทุนระหว่างการต่อสู้แล้วถอนเหรียญ\n"
+"ออกทีหลัง"
 
 #. UI (script-driven)
 #. source: Finance Manager
@@ -4422,7 +4421,9 @@ msgstr "จัดการศัตรู พลัส! ภายใน 10 ว�
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr "ติดตั้งมอร์แกน แอนตี้ไวรัส เพื่อเพิ่มความยากและเพิ่มจำนวนศัตรู พลัส!"
+msgstr ""
+"ติดตั้งมอร์แกน แอนตี้ไวรัส\n"
+"เพิ่มความยากและเพิ่มจำนวนศัตรู พลัส!"
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -5213,7 +5214,7 @@ msgstr ""
 #. Keep placeholders unchanged: {m}, {s}, {cur}, {max}, {rate}
 msgid "ZIP.progress"
 msgstr ""
-"เวลาที่เหลือ: {m} นาที {s} วินาที ({cur} KB จากทั้งหมด {max} KB) \n"
+"เวลาที่เหลือ: {m} นาที {s} วินาที ({cur} KB จาก {max} KB) \n"
 "ความเร็วประมวลผล: {rate} KB/วินาที"
 
 #. Zip extractor window
@@ -6318,8 +6319,8 @@ msgid ""
 "Estimated time left: 0m 00s (0.00 KB of 0.00 KB)\n"
 "Processing rate: 0.00 KB/Sec"
 msgstr ""
-"เวลาคาดการณ์ที่เหลือ: 0 นาที 00 วินาที (0.00 KB of 0.00 KB)\n"
-"อัตราการประมวผล: 0.00 KB/วินาที"
+"เวลาที่เหลือ: 0 นาที 00 วินาที (0.00 KB จาก 0.00 KB)\n"
+"ความเร็วประมวลผล: 0.00 KB/วินาที"
 
 #. Scene label
 #. screens: zip_window.tscn
