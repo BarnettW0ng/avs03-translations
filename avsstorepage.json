@@ -332,7 +332,7 @@
       "app[content][sysreqs][mac][min][osversion]": "macOS 12",
       "app[content][sysreqs][mac][min][processor]": "Apple M1 หรือ 2.0 GHz Intel",
       "app[content][sysreqs][mac][min][graphics]": "512 MB VRAM",
-      "app[content][sysreqs][windows][min][osversion]": "วินโดว์ส 10",
+      "app[content][sysreqs][windows][min][osversion]": "วินโดวส์ 10",
       "app[content][sysreqs][windows][min][processor]": "2.0 GHz",
       "app[content][sysreqs][windows][min][graphics]": "512 MB VRAM",
       "app[content][sysreqs][linux][min][osversion]": "SteamOS หรือระบบปฏิบัติการที่สร้างจาก Linux",
