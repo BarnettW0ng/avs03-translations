@@ -1241,47 +1241,47 @@ msgstr "พลังอินเฟ็คท์ของ {weapon} +{percent}%"
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
 msgid "WEAPON.avd.spawn_noun"
-msgstr "โลโก้"
+msgstr "เรียกโลโก้"
 
 #. Weapon amount upgrade - phrase after "additional" for Bubbles
 #. source: bubbles spawning
 msgid "WEAPON.bubbles.spawn_noun"
-msgstr "ฟอง"
+msgstr "ปล่อยฟอง"
 
 #. Weapon amount upgrade - phrase after "additional" for C: Drive
 #. source: drives spawning
 msgid "WEAPON.cdrive.spawn_noun"
-msgstr "ไดร์เวอร์"
+msgstr "เรียกไดร์เวอร์"
 
 #. Weapon amount upgrade - phrase after "additional" for Cut
 #. source: scissors spawning
 msgid "WEAPON.cut.spawn_noun"
-msgstr "กรรไกร"
+msgstr "เรียกกรรไกร"
 
 #. Weapon amount upgrade - phrase after "additional" for Firewall
 #. source: fire rings spawning
 msgid "WEAPON.firewall.spawn_noun"
-msgstr "วงแหวนไฟ"
+msgstr "เรียกวงแหวนไฟ"
 
 #. Weapon amount upgrade - phrase after "additional" for FontArt
 #. source: letters spawning
 msgid "WEAPON.fontart.spawn_noun"
-msgstr "จดหมาย"
+msgstr "เรียกซองจดหมาย"
 
 #. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
 #. source: shots
 msgid "WEAPON.hitmarkers.spawn_noun"
-msgstr "กระสุน"
+msgstr "ยิงกระสุน"
 
 #. Weapon amount upgrade - phrase after "additional" for Paint
 #. source: circles spawning
 msgid "WEAPON.paint.spawn_noun"
-msgstr "วงแหวน"
+msgstr "วาดวงแหวน"
 
 #. Weapon amount upgrade - phrase after "additional" for Pinball
 #. source: pinballs spawning
 msgid "WEAPON.pinball.spawn_noun"
-msgstr "ลูกบอล"
+msgstr "ยิงลูกบอล"
 
 #. Weapon amount upgrade - phrase after "additional" for Quarantine
 #. source: scans
@@ -1291,12 +1291,12 @@ msgstr "สแกน"
 #. Weapon amount upgrade - phrase after "additional" for Search
 #. source: magnifying glasses
 msgid "WEAPON.search.spawn_noun"
-msgstr "แว่นขยาย"
+msgstr "เรียกแว่นขยาย"
 
 #. Weapon amount upgrade - phrase after "additional" for Solitaire
 #. source: cards spawning
 msgid "WEAPON.solitaire.spawn_noun"
-msgstr "ไพ่"
+msgstr "เรียกไพ่"
 
 #. Upgrade card - description (upgrade_player_armor)
 #. source: Increases damage resistance by +{percent}%.
@@ -3566,7 +3566,9 @@ msgstr "เคอร์เซอร์แต่ละชนิดจะมีส
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr "ระดับความยากโฟลเดอร์มีกฎการเล่นแต่ละรอบไม่เหมือนกัน ความยากของศัตรู รางวัล และสิ่งที่คุณปลดล็อคได้"
+msgstr ""
+"ระดับความยากโฟลเดอร์มีกฎการเล่นแต่ละรอบแตกแต่งกัน\n"
+"ตามความยากของศัตรู รางวัล และสิ่งที่ปลดล็อคได้"
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
@@ -3594,7 +3596,8 @@ msgstr "ไกด์เริ่มเล่นแบบรวดรัด"
 msgid "UI.tutorial_1_body"
 msgstr ""
 "ยินดีต้องรับเข้าสู่ {game}!\n"
-"ฉัน Virry และตอนนี้ฉันจะพาคุณมาทำความเข้าใจกับวิธีการเล่นเบื้องต้นกันนะ"
+"\n"
+"ฉันมีชื่อว่า Virry และตอนนี้ฉันจะพาคุณมาทำความเข้าใจกับวิธีการเล่นเบื้องต้น"
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
@@ -3603,26 +3606,26 @@ msgid "UI.tutorial_2_body"
 msgstr ""
 "อันดับแรก มาลองเคลื่อนเคอร์เซอร์กันดีกว่า\n"
 "\n"
-"กดปุ่ม {move} เพื่อเคลื่อนที่ไปรอบๆจอ\n"
+"กดปุ่ม {move} เพื่อเคลื่อนเคอร์เซอร์ไปรอบๆบนจอ\n"
 "\n"
-"กดปุ่ม {click} เพื่อคลิก และอย่างลืมว่าต้องกดดับเบิลคลิกเพื่อเปิดไฟล์นะs\n"
+"กดปุ่ม {click} เพื่อคลิก และอย่างลืมว่าต้องกดดับเบิลคลิกเพื่อเปิดไฟล์นะ\n"
 "\n"
-"คุณสมารถกด {drag} ค้างเพื่อลากไฟล์ไปมาในโฟลเดอร์ได้นะ"
+"คุณสามารถกด {drag} ค้างเพื่อลากไฟล์ไปมาในโฟลเดอร์ได้"
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
 msgstr ""
-"สำหรับการเตรียมพร้อมเล่น คุณสามารถเลือก {class} และ {difficulty} ได้\n"
+"สำหรับการเตรียมพร้อมเล่น คุณสามารถเลือก{class}และ{difficulty}ได้\n"
 "\n"
-"แต่สำหรับตอนนี้ เลือกเคอร์เซอร์ {default} ไปก่อนนะ เคอร์เซอร์อื่นๆจะทยอยปล่อยให้ปลดล็อคหลังจากเล่นไปซักพัก\n"
+"แต่สำหรับตอนนี้ เลือกเคอร์เซอร์{default}ไปก่อนนะ เคอร์เซอร์อื่นๆจะทยอยปล่อยให้ปลดล็อคหลังจากเล่นไปซักพัก\n"
 "\n"
 "เลือกระดับความยาก โปรโตคอล 1-3\n"
 "\n"
-"หากเล่นจบโปรโตคอล จะปลดล็อค {policies} ที่จะมอบความท้าทายเพิ่มเติมให้กับคุณ\n"
+"หากเล่นจบโปรโตคอล จะปลดล็อค{policies}ที่จะมอบความท้าทายเพิ่มเติมให้กับคุณ\n"
 "\n"
-"เอาล่ะ เลือก {class} และ {difficulty} ที่ต้องการเลย!"
+"เอาล่ะ เลือก{class}และ{difficulty}ที่ต้องการเลย!"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
@@ -3876,7 +3879,7 @@ msgstr ""
 "Beginning forced shutdown...\n"
 "Memory cache flushed\n"
 "\n"
-"กดปุ่ม {click} เพื่อดำเนินการต่อ กดปุ่ม {tab} เพื่อดูสถิติ"
+"คลิก {click} เพื่อดำเนินการต่อ กดปุ่ม {tab} เพื่อดูสถิติ"
 
 #. Browser address-bar caption
 #. source: Address
@@ -6669,7 +6672,6 @@ msgstr "รีเฟรชเสิร์ช"
 
 #. Scene label
 #. screens: upgrade_button.tscn
-#, fuzzy
 msgid ""
 "Increases Refresh Rate for Search by 20%.\n"
 "But here's a second line also."
