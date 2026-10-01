@@ -77,7 +77,7 @@ msgstr "เบรคพ้อยท์"
 msgid "CLASS.breakpoint.description"
 msgstr ""
 "โอกาสคริ +12%\n"
-"คริดาเมจ x1.25\n"
+"ดาเมจคริ x1.25\n"
 "พลังชีวิตสูงสุด -15 HP\n"
 "ความเร็วเคอร์เซอร์ x0.9\n"
 "ดาเมจอาวุธ x0.92"
@@ -1424,7 +1424,7 @@ msgstr "บับเบิล"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr "เรียกฟองขนาดใหญ่ลอยไปมา สร้างความเสียหายอินเฟ็คท์ให้กับศัตรู"
+msgstr "เรียกฟองขนาดใหญ่ลอยไปมา สร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1454,7 +1454,7 @@ msgstr "ไฟร์วอลล์"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr "สร้างวงล้อไฟรอบๆเคอร์เซอร์ สร้างความเสียหายฮีทให้กับศัตรู"
+msgstr "สร้างวงล้อไฟรอบๆเคอร์เซอร์ สร้างความเสียหายฮีททับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -1466,7 +1466,7 @@ msgstr "ฟอนท์อาร์ต"
 msgid "UPGRADE.weapon_fontart.description"
 msgstr ""
 "เรียกตัวอักษรตกลงใส่ศัตรูที่แข็งแกร่งที่สุด\n"
-"สร้างความเสียหายฮีทใส่ศัตรู"
+"สร้างความเสียหายฮีททับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
@@ -1526,7 +1526,7 @@ msgstr "โซลิแทร์"
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
 msgid "UPGRADE.weapon_solitaire.description"
-msgstr "ยิงไพ่สะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ให้กับศัตรู"
+msgstr "ยิงไพ่สะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
@@ -2407,7 +2407,7 @@ msgstr "จำนวนที่ปลดล็อค %d/%d"
 #. Personalise window - hide locked themes and wallpapers
 #. source: Hide Locked
 msgid "UI.personalise_hide_locked"
-msgstr "ซ่อนตัวที่ล็อคอยู่"
+msgstr "ซ่อนอันที่ล็อคอยู่"
 
 #. Personalise theme preview - active window title
 #. source: Active Window
@@ -3311,7 +3311,7 @@ msgstr "ความคืบหน้า: %d / %d"
 #. source: Click to purchase for %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "UI.store_tooltip_buy"
-msgstr "คลิกเพื่อซื้อโดยจ่าย %d Beanz"
+msgstr "คลิกเพื่อซื้อด้วย %d Beanz"
 
 #. UI (script-driven)
 #. source: Click to disable spawning
@@ -3836,7 +3836,7 @@ msgstr "ติดตั้งปลั๊กอิน"
 #. Finance Manager all-in button
 #. source: All In
 msgid "UI.stock_trader_all_in"
-msgstr "ลงทุนด้วยเหรียญทั้งหมด"
+msgstr "ลงทุนเหรียญทั้งหมด"
 
 #. Finance Manager withdraw button
 #. source: Withdraw
@@ -5041,7 +5041,7 @@ msgstr "ดับเบิลคลิกเพื่อใช้งาน"
 #. source: Double-Click to purchase for %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "CLICKABLE.double_click_buy"
-msgstr "ดับเบิลคลิกเพื่อซื้อโดยจ่าย %d Beanz"
+msgstr "ดับเบิลคลิกเพื่อซื้อด้วย %d Beanz"
 
 #. Desktop icon tooltip
 #. source: Need %d Beanz to purchase
