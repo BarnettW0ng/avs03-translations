@@ -2427,7 +2427,7 @@ msgstr "กล่องข้อความ"
 #. Personalise window - use Steam name and picture checkbox
 #. source: Use Steam profile
 msgid "UI.personalise_use_steam_profile"
-msgstr "รูปโปรไฟล์สตีม"
+msgstr "ใช้รูปโปรไฟล์สตีม"
 
 #. Personalise window - Steam overlay name prompt
 #. source: Enter a name
