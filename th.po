@@ -1449,7 +1449,7 @@ msgstr "เรียกกรรไกรตัดเฉือนศัตรู
 #. Upgrade card - name (weapon_firewall)
 #. source: Firewall
 msgid "UPGRADE.weapon_firewall.name"
-msgstr "ไฟร์วอลล์"
+msgstr "ไฟร์วอล"
 
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
@@ -4302,7 +4302,7 @@ msgstr "เก็บ {amount} เหรียญในหนึ่งรอบ�
 #. UI (script-driven)
 #. source: Temporarily boost cursor speed for a short burst.
 msgid "UI.unlock_widget_nos_desc"
-msgstr "เพิ่มความเร็วเคอร์เซอร์ในระยะเวลาหนึ่ง"
+msgstr "เร่งความเร็วเคอร์เซอร์ในช่วงระยะเวลาหนึ่ง"
 
 #. UI (script-driven)
 #. source: N2O
@@ -4312,7 +4312,7 @@ msgstr "N2O"
 #. UI (script-driven)
 #. source: Commit crimes for coin while dodging the heat.
 msgid "UI.unlock_widget_crime_desc"
-msgstr "ทำเรื่องผิดกฎหมายหาเงินพร้อมกับหลบการโจมตี"
+msgstr "ทำเรื่องผิดกฎหมายรับเหรียญพร้อมกับหลบหลีกการโจมตี"
 
 #. UI (script-driven)
 #. source: Criminal
@@ -4322,7 +4322,7 @@ msgstr "คริมินอล"
 #. UI (script-driven)
 #. source: Slow the world around you to clear enemies more easily.
 msgid "UI.unlock_widget_bullet_time_desc"
-msgstr "ร่นเวลารอบตัวเพื่อให้จัดการศัตรูได้ง่ายขึ้น"
+msgstr "ร่นเวลารอบตัวให้ช้าลงเพื่อให้จัดการศัตรูได้ง่ายขึ้น"
 
 #. UI (script-driven)
 #. source: Heaps of Pain
@@ -4505,7 +4505,7 @@ msgstr "ศัตรูเคลื่อนที่เร็วขึ้น 40
 #. Optional extra difficulty policy - name (bloatware)
 #. source: Bloatware
 msgid "POLICY.bloatware.name"
-msgstr "โบลท์แวร์"
+msgstr "โบลทแวร์"
 
 #. Optional extra difficulty policy - description (bloatware)
 #. source: 40% more enemies spawn, and enemies have 20% more health.
@@ -6257,7 +6257,7 @@ msgstr "บิตเรท"
 #. Scene label
 #. screens: spam_ad_2.tscn
 msgid "(3) \"hey x \"  HOT!!! Singles"
-msgstr "(3) \"เฮ้ พ่อหนุ่ม \"  สาวโสดสุดฮ็อต!!!"
+msgstr "(3) \"เฮ้ หวานใจ \"  สาวโสดสุดฮ็อต!!!"
 
 #. Scene label
 #. screens: spam_ad_3.tscn
@@ -6277,12 +6277,12 @@ msgstr "คุณคือผู้ชนะรางวัลยักษ์ใ
 #. Scene label
 #. screens: spam_ad_6.tscn
 msgid "CHEAP PRINTER ONE CLICK AWAY"
-msgstr "เครื่องปริ้นท์ราคาถูก แค่คลิกเดียว"
+msgstr "ซื้อเครื่องปริ้นท์ราคาถูก กดแค่คลิกเดียว"
 
 #. Scene label
 #. screens: spam_ad_7.tscn
 msgid "Before you go, did you kno.."
-msgstr "ก่อนที่คุณจะไป คุณรู้ไห.."
+msgstr "ก่อนที่คุณจะไป คุณรู้ไหมว่า.."
 
 #. Scene label
 #. screens: spam_ad_8.tscn
@@ -6382,12 +6382,12 @@ msgstr "โฟลเดอร์วิวัฒนาการ"
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Locked Weapons - Coming Soon"
-msgstr "อาวุธที่ล็อคอยู่ - เร็วๆนี้"
+msgstr "อาวุธที่ล็อคอยู่ - เปิดให้เล่นเร็วๆนี้"
 
 #. Scene label
 #. screens: stat_list.tscn
 msgid "StatsManager V0.1b"
-msgstr "สแตทเมเนเจอร์ V0.1b"
+msgstr "สแตทส์เมเนเจอร์ V0.1b"
 
 #. Scene label
 #. screens: stat_list.tscn
@@ -6407,7 +6407,7 @@ msgstr "ปลั๊กอินที่ติดตั้ง"
 #. Scene label
 #. screens: stat_upgrade_item.tscn
 msgid "Firewall Size"
-msgstr "ขนาดไฟร์วอลล์"
+msgstr "ขนาดไฟร์วอล"
 
 #. Scene label
 #. screens: basic_window.tscn; window.tscn
@@ -6417,7 +6417,7 @@ msgstr "แอนตี้ไวรัส เซอร์ไวเวอร์�
 #. Scene label
 #. screens: end_screen.tscn
 msgid "Victory!"
-msgstr "สำเร็จ!"
+msgstr "คุณชนะแล้ว!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6430,13 +6430,13 @@ msgid ""
 "\n"
 "If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
 msgstr ""
-"ยินดีด้วย คุณจบรอบจนได้! ผมขอชมเลย! ดีใจที่คุณสนุกกับเกมผมนะ\n"
+"ยินดีด้วย คุณเล่นจบรอบจนได้! ผมขอชมเลย! ดีใจที่คุณสนุกกับเกมผมนะ\n"
 "\n"
-"แต่ว่า ผมเสียใจที่หน้าจอแลองชัยชนะของคุณมันดูน่าเบื่อไปหน่อย คุณสมควรที่จะได้รับการแลองที่ดีกว่านี้ - ในตัวเกมเวอรืชั่นเต็มยังไงล่ะ\n"
+"แต่ว่า ผมเสียใจที่หน้าจอฉลองชัยชนะของคุณมันดูน่าเบื่อไปหน่อย คุณสมควรที่จะได้รับการฉลองที่ดีกว่านี้ - ในตัวเกมเวอรืชั่นเต็มยังไงล่ะครับ\n"
 "\n"
 "ระหว่างนี้ก็ลองเล่นในระดับความยากที่สูงขึ้นดู เอา Beanz ที่ได้มาไปซื้ออัปเกรดแล้วลองเล่นใหม่อีกรอบดู\n"
 "\n"
-"ถ้าคุณสนุกกับตัวเกมเดโม่แล้วล่ะก็ อย่าลืมบันทึกเกมผมลงรายการสิ่งที่อยากได้และกดติดตามบนสตีมด้วยล่ะ - หลังจากนี้จะมีอัปเดตให้ลองอีกเพียบเลยล่ะ!"
+"ถ้าคุณสนุกกับตัวเกมเดโม่แล้วล่ะก็ อย่าลืมบันทึกเกมผมลงรายการสิ่งที่อยากได้และกดติดตามบนสตีมด้วยล่ะ - หลังจากนี้จะมีอัปเดตให้ลองอีกเพียบเลย!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6463,7 +6463,7 @@ msgstr "เตรียมการติดตั้ง..."
 msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
 msgstr ""
 "โปรแกรมติดตั้งปลั๊กอินกำลังจัดเตรียมปลั๊กอิน\n"
-"ที่เหมาะสมกับแอพลิเคชั่น"
+"ที่เหมาะสมกับแอปพลิเคชั่น"
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6526,7 +6526,7 @@ msgstr ""
 "- ศัตรูใหม่\n"
 "- บอสใหม่\n"
 "- ชนิดเคอร์เซอร์ใหม่\n"
-"- วอลล์เปเปอร์ใหม่\n"
+"- วอลเปเปอร์ใหม่\n"
 "- อัปเกรดใหม่\n"
 "- และอื่นๆอีกมาก"
 
@@ -6670,7 +6670,7 @@ msgstr "เสียงปุ่ม"
 #. Scene label
 #. screens: upgrade_button.tscn
 msgid "Search Refresh"
-msgstr "รีเฟรชเสิร์ช"
+msgstr "รีเฟรชการค้นหา"
 
 #. Scene label
 #. screens: upgrade_button.tscn
