@@ -36,7 +36,7 @@ msgstr "ดีฟอลท์"
 msgid "CLASS.default.description"
 msgstr ""
 "ไม่มีข้อดีหรือข้อเสียใดๆ\n"
-"เคอร์เซอร์ที่มาตรฐานและสมดุล"
+"เคอร์เซอร์มาตรฐานและสมดุล"
 
 #. Class select - name (null)
 #. source: Null
@@ -108,7 +108,7 @@ msgstr ""
 "ได้รับ 1 คีย์เมื่อเริ่มเกม\n"
 "เหรียญที่ได้รับ x1.3\n"
 "ระยะดึงดูด x1.3\n"
-"ลดราคาของในร้านค้า 10%\n"
+"ราคาของในร้านค้าลดลง 10%\n"
 "พลังชีวิตสูงสุด x0.9\n"
 "ดาเมจอาวุธ x0.85"
 
@@ -403,7 +403,7 @@ msgstr "ดาเมจอาวุธ +1% ทุกพลังชีวิต 
 #. Plugin - name (damage_speed_crit)
 #. source: Performance Options
 msgid "PLUGIN.damage_speed_crit.name"
-msgstr "เพอฟอร์แมนส์ ออฟชั่น"
+msgstr "เพอฟอร์แมนส์ ออฟชั่นส์"
 
 #. Plugin - description (damage_speed_crit)
 #. source: Increase Weapon Damage +10%.\nIncrease Refresh Speed +10%.\nIncrease Crit Chance +5%.\nIncrease Crit Damage +15%.
@@ -731,7 +731,7 @@ msgstr ""
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
 msgid "PLUGIN.wallet_damage.name"
-msgstr "วอลล์เล็ต ดาเมจ"
+msgstr "วอลเล็ท ดาเมจ"
 
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
@@ -905,7 +905,7 @@ msgstr "ตัวเลือกอัปเกรดในร้านค้า
 #. Plugin - name (extra_upgrade_choice)
 #. source: Optional Components
 msgid "PLUGIN.extra_upgrade_choice.name"
-msgstr "ออฟชั่นนอล คอมโพเนนท์"
+msgstr "ออฟชั่นนอล คอมโพเนนท์ส"
 
 #. Plugin - description (extra_upgrade_choice)
 #. source: Add +1 upgrade choice on Level Up.
@@ -1096,7 +1096,7 @@ msgstr "ความเร็วประมวลผล"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr "เพิ่มความเร็วที่ใช้ในการประมวลผลรวมถึงการเปิดไฟล์ .zip .bat เลมไวร์ และอื่นๆ (แบบก้าวกระโดด)"
+msgstr "เพิ่มความเร็วที่ใช้ในการประมวลผล รวมถึงการเปิดไฟล์ .zip .bat เลมไวร์ และอื่นๆ (แบบก้าวกระโดด)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1241,7 +1241,7 @@ msgstr "พลังอินเฟ็คท์ของอาวุธ {weapon}
 #. Weapon amount upgrade - phrase after "additional" for AVD
 #. source: logos spawning
 msgid "WEAPON.avd.spawn_noun"
-msgstr "เรียกโลโก้"
+msgstr "ปล่อยโลโก้"
 
 #. Weapon amount upgrade - phrase after "additional" for Bubbles
 #. source: bubbles spawning
@@ -1261,7 +1261,7 @@ msgstr "เรียกกรรไกร"
 #. Weapon amount upgrade - phrase after "additional" for Firewall
 #. source: fire rings spawning
 msgid "WEAPON.firewall.spawn_noun"
-msgstr "เรียกวงแหวนไฟ"
+msgstr "สร้างวงล้อไฟ"
 
 #. Weapon amount upgrade - phrase after "additional" for FontArt
 #. source: letters spawning
@@ -1276,7 +1276,7 @@ msgstr "ยิงกระสุน"
 #. Weapon amount upgrade - phrase after "additional" for Paint
 #. source: circles spawning
 msgid "WEAPON.paint.spawn_noun"
-msgstr "วาดวงแหวน"
+msgstr "วาดวงกลม"
 
 #. Weapon amount upgrade - phrase after "additional" for Pinball
 #. source: pinballs spawning
@@ -1296,7 +1296,7 @@ msgstr "เรียกแว่นขยาย"
 #. Weapon amount upgrade - phrase after "additional" for Solitaire
 #. source: cards spawning
 msgid "WEAPON.solitaire.spawn_noun"
-msgstr "เรียกไพ่"
+msgstr "ปล่อยไพ่"
 
 #. Upgrade card - description (upgrade_player_armor)
 #. source: Increases damage resistance by +{percent}%.
@@ -1424,7 +1424,7 @@ msgstr "บับเบิล"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr "เรียกฟองขนาดใหญ่ลอยไปมา สร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
+msgstr "ปล่อยฟองขนาดใหญ่ลอยไปมา สร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1516,7 +1516,7 @@ msgstr "เสิร์ช"
 #. Upgrade card - description (weapon_search)
 #. source: Sends out a magnifying glass around the player.
 msgid "UPGRADE.weapon_search.description"
-msgstr "ปล่อยแว่นขยายวิ่งโคจรรอบๆเคอร์เซอร์ออกเป็นวงกว้าง"
+msgstr "เรียกแว่นขยายวิ่งโคจรรอบๆเคอร์เซอร์ออกเป็นวงกว้าง"
 
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
@@ -1526,7 +1526,7 @@ msgstr "โซลิแทร์"
 #. Upgrade card - description (weapon_solitaire)
 #. source: Shoots a bouncing card that adds stacks of Infect to enemies.
 msgid "UPGRADE.weapon_solitaire.description"
-msgstr "ยิงไพ่สะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
+msgstr "ปล่อยไพ่สะท้อนที่จะสร้างความเสียหายอินเฟ็คท์ทับซ้อนให้กับศัตรู"
 
 #. Upgrade card - name (weapon_fraps)
 #. source: Frames
@@ -1567,7 +1567,7 @@ msgstr "ไมน์ส"
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
 msgstr ""
-"โยนกับระเบิดรอบตัวและทำการระเบิดตัวเอง\n"
+"วางกับระเบิดรอบตัวและทำการระเบิดตัวเอง\n"
 "เมื่อถูกศัตรูสัมผัส"
 
 #. Upgrade card - name (weapon_email)
@@ -1624,7 +1624,7 @@ msgstr "เอวีเอ็น แชท"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr "เรียกฟองข้อความสนทนาโคจรรอบเคอร์เซอร์ สร้างความเสียหายแล็กให้กับศัตรู"
+msgstr "สร้างฟองข้อความสนทนาโคจรรอบเคอร์เซอร์ สร้างความเสียหายแล็กให้กับศัตรู"
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1656,7 +1656,7 @@ msgstr "เอาท์พุต ดีไวซ์"
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts concentric handshake rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "กระจายวงแหวนคลื่นเสียงระยะใกล้รอบๆเคอร์เซอร์ออกเป็นวงกว้าง"
+msgstr "ปล่อยวงแหวนคลื่นเสียงระยะใกล้รอบๆเคอร์เซอร์ออกเป็นวงกว้าง"
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1676,12 +1676,12 @@ msgstr "ยิงกระสุน"
 #. Weapon metadata
 #. source: mine
 msgid "WEAPON.minesweeper.spawn_noun"
-msgstr "วางระเบิด"
+msgstr "วางกับระเบิด"
 
 #. Weapon metadata
 #. source: envelope
 msgid "WEAPON.email.spawn_noun"
-msgstr "เรียกซองจดหมาย"
+msgstr "ปล่อยซองจดหมาย"
 
 #. Weapon metadata
 #. source: tab
@@ -1691,7 +1691,7 @@ msgstr "เปิดแท็บ"
 #. Weapon metadata
 #. source: trap
 msgid "WEAPON.orchestra.spawn_noun"
-msgstr "วางกับดัก"
+msgstr "เปิดแท็บ"
 
 #. Weapon metadata
 #. source: dish
@@ -1701,7 +1701,7 @@ msgstr "วางจานส่งสัญญาณ"
 #. Weapon metadata
 #. source: chat bubble
 msgid "WEAPON.avn.spawn_noun"
-msgstr "เรียกกล่องข้อความ"
+msgstr "สร้างฟองข้อความ"
 
 #. Weapon metadata
 #. source: cone
@@ -1711,12 +1711,12 @@ msgstr "เรียกกรวย"
 #. Weapon metadata
 #. source: link
 msgid "WEAPON.blatand.spawn_noun"
-msgstr "ปล่อยลิ้งก์"
+msgstr "เชื่อมต่อสัญญาณ"
 
 #. Weapon metadata
 #. source: ring
 msgid "WEAPON.modem.spawn_noun"
-msgstr "ปล่อยวงแหวน"
+msgstr "ปล่อยคลื่นเสียง"
 
 #. BOSS - name (recycle_bin)
 #. source: Recycle Bin
@@ -2011,7 +2011,7 @@ msgstr "เสียงคีย์เจ็น"
 #. Settings menu
 #. source: Animation Speed
 msgid "SETTINGS.anim_speed"
-msgstr "ความเร็วอนิเมชั่น"
+msgstr "ความเร็วแอนิเมชั่น"
 
 #. Settings menu
 #. source: Menu Cursor Speed
@@ -2056,7 +2056,7 @@ msgstr "ปรับระดับความชัดของฟิลเต
 #. Settings menu
 #. source: Show or hide the monitor frame around the desktop.
 msgid "SETTINGS.show_monitor_bezel_tip"
-msgstr "แสดงหรือซ่อนกรอบจอคอมรอบๆหน้าเดสก์ท็อป"
+msgstr "แสดงหรือซ่อนกรอบจอคอมรอบหน้าเดสก์ท็อป"
 
 #. Settings menu
 #. source: Overall volume for every sound in the game.
@@ -2442,7 +2442,7 @@ msgstr "ธีม"
 #. Personalise window - wallpaper group box title
 #. source: Wallpaper
 msgid "UI.personalise_group_background"
-msgstr "วอลล์เปเปอร์"
+msgstr "วอลเปเปอร์"
 
 #. Personalise window - user name group box title
 #. source: User name
@@ -2472,7 +2472,7 @@ msgstr "ปลดล็อครูปโปรไฟล์ใหม่"
 #. Cosmetic unlock - wallpaper reward blurb
 #. source: Unlocks a new desktop wallpaper.
 msgid "UI.cosmetic_wallpaper_desc"
-msgstr "ปลดล็อควอลล์เปเปอร์ใหม่"
+msgstr "ปลดล็อควอลเปเปอร์ใหม่"
 
 #. Cosmetic unlock - theme reward blurb
 #. source: Unlocks a new desktop theme.
@@ -2706,7 +2706,7 @@ msgstr "ภารกิจ"
 #. Tasks screen - sort completed toggle
 #. source: Sort by Completed
 msgid "UI.task_sort_completed"
-msgstr "เรียงตามอันที่สำเร็จ"
+msgstr "จัดเรียงอันที่สำเร็จขึ้นบน"
 
 #. Tasks footer - categories cycle label next to key icons
 #. source: Categories
@@ -2736,7 +2736,7 @@ msgstr "ปลั๊กอินคือส่วนเสริมที่ส
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr "ไดร์เวอร์อาวุธจะทำการอัปเกรดอาวุธด้วยส่วนเสริมพิเศษ เมื่อปลดล็อคจะสามารถเลือกได้เมื่ออาวุธถึงเลเวล 8, 16 และ 24"
+msgstr "ไดร์เวอร์อาวุธจะทำการอัปเกรดอาวุธด้วยตัวเลือกพิเศษ เมื่อปลดล็อคจะสามารถเลือกได้เมื่ออาวุธถึงเลเวล 8, 16 และ 24"
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
@@ -2876,7 +2876,7 @@ msgstr "ไฟล์ที่เปิด"
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
 msgid "UI.stat_files_opened_desc"
-msgstr "โฟลเดอร์และไฟล์ที่ดับเบิลคลิกรวมทุกรอบ"
+msgstr "โฟลเดอร์และไฟล์ที่เปิดรวมทุกรอบ"
 
 #. Profile stats - safe folders
 #. source: Safe Folders
@@ -2931,12 +2931,12 @@ msgstr "โดนป็อปอัปโฆษณาโจมตี"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr "ถูกป๊อปอัพโฆษณาบังจอจากการเปิดไฟล์ Zip หรือไฟล์ดาวน์โหลดแรมล้มเหลว"
+msgstr "จำนวนครั้งที่ถูกป๊อปอัพโฆษณาบังจอหลังเปิดไฟล์ Zip หรือไฟล์ดาวน์โหลดแรมล้มเหลว"
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
 msgid "UI.stat_rars_desc"
-msgstr "บีบอัดไฟล์ Rar สำเร็จ"
+msgstr "จำนวนครั้งที่บีบอัดไฟล์ Rar สำเร็จ"
 
 #. Profile stats - file extension row title
 #. source: .%s files opened
@@ -2948,7 +2948,7 @@ msgstr "ไฟล์ .%s ถูกเปิด"
 #. source: %s files successfully opened.
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_ext_opened_desc"
-msgstr "เปิดไฟล์ %s สำเร็จ"
+msgstr "จำนวนครั้งที่เปิดไฟล์ %s สำเร็จ"
 
 #. Profile stats - named file opened row title
 #. source: %s opened
@@ -3327,7 +3327,7 @@ msgstr "คลิกเพื่อเปิดการใช้งาน"
 #. source: Complete %s or higher once to enable Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.policies_locked"
-msgstr "เล่นจบรอบด้วยระดับ % หรือสูงกว่าเพื่อปลดล็อคกฎเกณฑ์"
+msgstr "เล่นจบรอบด้วยระดับ %s หรือสูงกว่าเพื่อปลดล็อคกฎเกณฑ์"
 
 #. Domain Policies locked until 3 distinct policies completed on the chosen protocol or higher
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
@@ -3489,7 +3489,7 @@ msgstr "จัดเรียงข้อมูล"
 msgid "UI.defrag_capacity"
 msgstr ""
 "UI (script-driven)\n"
-"‪source: %2.2f KB"
+"‪ซอร์ส: %2.2f KB"
 
 #. Upgrade screen - speech prompt
 #. source: Select an upgrade to continue.
@@ -3542,7 +3542,7 @@ msgstr "ทำภารกิจรองสำเร็จ"
 #. Vapidshare cracked installer spawned toast
 #. source: Cracked Installer created
 msgid "UI.notif_vapidshare_complete"
-msgstr "สร้างไฟล์ติดตั้งแคร็ก"
+msgstr "สร้างไฟล์ติดตั้งปลั๊กอินแคร็ก"
 
 #. Vapidshare part finished toast. %s is the part filename
 #. source: %s complete
@@ -3569,13 +3569,13 @@ msgstr "เคอร์เซอร์แต่ละชนิดจะมีส
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
 msgstr ""
-"ระดับความยากโฟลเดอร์มีกฎการเล่นแต่ละรอบแตกแต่งกัน\n"
+"ระดับความยากโฟลเดอร์มีกฎการเล่นแต่ละรอบแตกต่างกัน\n"
 "ตามความยากของศัตรู รางวัล และสิ่งที่ปลดล็อคได้"
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr "กฎเพิ่มเติมทับซ้อนโปรโตคอล หากเล่นจบรอบจะได้ Beanz เพิ่มมากขึ้น"
+msgstr "กฎเพิ่มเติมแยกจากโปรโตคอล หากเล่นจบรอบจะได้ Beanz เพิ่มมากขึ้น"
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3590,7 +3590,7 @@ msgstr "ถัดไป"
 #. Tutorial window title
 #. source: Quick Start Guide
 msgid "UI.tutorial_title"
-msgstr "ไกด์เริ่มเล่นแบบรวดรัด"
+msgstr "ไกด์สอนเล่นแบบรวดรัด"
 
 #. Tutorial page 1 - {game}
 #. source: Welcome to {game}!\n\nI'm Virry, and I'm going to take you through some basics of how to play.
@@ -3662,7 +3662,7 @@ msgstr ""
 "\n"
 "บางไฟล์ก็ไม่ปลอดภัย บางไฟล์ต้องการคีย์ และบางไฟล์ก็การันตีที่จะได้รับรางวัล\n"
 "\n"
-"ตัวคุณเองก็มีเป้าหมายที่ตั้งอยู่มุมขวาบนที่ต้องทำในแต่ละรอบเพื่อรับรางวัล"
+"ในแต่ละด่านก็จะมีเป้าหมายที่คุณที่ต้องทำเพื่อรับรางวัล ตั้งอยู่มุมขวาบน"
 
 #. Tutorial page 7 - {safe} {vapor}
 #. source: Earn Beanz for clearing enemies and making it to the {safe} in time.\n\nGet extra Beanz for completing Tasks.\n\nSpend your Beanz on new Cursor Classes, Weapons, Stat Upgrades, Plugins, Files, {vapor} items and more!
@@ -3679,7 +3679,7 @@ msgstr ""
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
 msgid "UI.tutorial_8_body"
 msgstr ""
-"และนี่คือทั้งหมดที่ฉันพอสามารถสอนได้!\n"
+"และนี่คือทั้งหมดที่ฉันสามารถสอนได้!\n"
 "\n"
 "เลือกอาวุธ เริ่มเกม เอาชีวิตรอด และก็ขอให้เล่นสนุกนะ :)"
 
@@ -3687,7 +3687,7 @@ msgstr ""
 #. source: %s cleared, %s dropped.
 #. Keep placeholders unchanged: %s
 msgid "UI.notif_cracked_installer"
-msgstr "จัดการ %s สำเร็จ ดรอป %s"
+msgstr "จัดการ %s สำเร็จ ดรอป%s"
 
 #. Multi Plus! toast when they share a name. %d is count, %s is Error Plus! etc
 #. source: %d %s
@@ -3836,7 +3836,7 @@ msgstr "ติดตั้งปลั๊กอิน"
 #. Finance Manager all-in button
 #. source: All In
 msgid "UI.stock_trader_all_in"
-msgstr "ลงทุนเหรียญทั้งหมด"
+msgstr "ใช้เหรียญทั้งหมด"
 
 #. Finance Manager withdraw button
 #. source: Withdraw
@@ -4105,7 +4105,7 @@ msgstr "มีหน้าต่างวินโดว์เปิดพร้
 #. Unlock description - overlay windows in all 4 corners
 #. source: Open files until their windows fill every corner of the screen.
 msgid "UI.unlock_corner_windows_desc"
-msgstr "เปิดไฟล์จนหน้าต่างวินโดว์ปิดทุกส่วนของหน้าจอ"
+msgstr "เปิดไฟล์จนหน้าต่างวินโดว์ปิดทุกส่วนบนหน้าจอ"
 
 #. Unlock requirement - complete N tasks
 #. source: Complete {amount} tasks
@@ -4250,7 +4250,7 @@ msgstr "จัดการบอสตัวไหนก็ได้"
 #. source: {boss} File
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_reward"
-msgstr "ไฟล์{boss}"
+msgstr "ไฟล์ {boss}"
 
 #. Unlock description - boss choice file
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
@@ -4421,14 +4421,14 @@ msgstr "ตัวติดตั้งเลเจนดารี่"
 #. UI (script-driven)
 #. source: Defeat a Plus! enemy in 10 seconds
 msgid "UI.unlock_file_morgan_av"
-msgstr "จัดการศัตรู พลัส! ภายใน 10 วินาที"
+msgstr "จัดการศัตรูพลัส! ภายใน 10 วินาที"
 
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
 msgstr ""
 "ติดตั้งมอร์แกน แอนตี้ไวรัส\n"
-"เพิ่มความยากและเพิ่มจำนวนศัตรู พลัส!"
+"เพิ่มความยากและเพิ่มจำนวนศัตรูพลัส!"
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4740,7 +4740,7 @@ msgstr "อัปเกรด"
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
 msgstr ""
-"ไฟล์ตรวจสภาพจะมอบหัวใจมากขึ้น\n"
+"ไฟล์ตรวจสภาพจะมอบหัวใจเพิ่มขึ้น\n"
 "ในการต่อสู้รอบถัดๆไป"
 
 #. Health Check Pro heal tooltip
@@ -4985,63 +4985,63 @@ msgstr "%s เพื่อคืนแต้ม"
 #. Desktop icon tooltip
 #. source: Double-Click to Fight
 msgid "CLICKABLE.double_click_fight"
-msgstr "ดับเบิลคลิกเพื่อเข้าต่อสู้"
+msgstr "กดดับเบิลคลิกเพื่อเข้าต่อสู้"
 
 #. Desktop icon tooltip
 #. source: Double-Click to collect all coins
 msgid "CLICKABLE.double_click_collect_coins"
-msgstr "ดับเบิลคลิกเพื่อรวบรวมเหรียญ"
+msgstr "กดดับเบิลคลิกเพื่อรวบรวมเหรียญ"
 
 #. Desktop icon tooltip
 #. source: Double-Click to collect all data
 msgid "CLICKABLE.double_click_collect_data"
-msgstr "ดับเบิลคลิกเพื่อรวบรวมข้อมูล"
+msgstr "กดดับเบิลคลิกเพื่อรวบรวมข้อมูล"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Install Plugin
 msgid "CLICKABLE.double_click_install"
-msgstr "ดับเบิลคลิกเพื่อติดตั้งปลั๊กอิน"
+msgstr "กดดับเบิลคลิกเพื่อติดตั้งปลั๊กอิน"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Generate Key
 msgid "CLICKABLE.double_click_keygen"
-msgstr "ดับเบิลคลิกเพื่อสร้างคีย์"
+msgstr "กดดับเบิลคลิกเพื่อสร้างคีย์"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Play
 msgid "CLICKABLE.double_click_play"
-msgstr "ดับเบิลคลิกเพื่อเล่น"
+msgstr "กดดับเบิลคลิกเพื่อเล่น"
 
 #. Desktop icon tooltip
 #. source: Double-Click to skip track
 msgid "CLICKABLE.double_click_shuffle"
-msgstr "ดับเบิลคลิกเพื่อข้ามแทร็กเพลง"
+msgstr "กดดับเบิลคลิกเพื่อข้ามแทร็กเพลง"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Shop
 msgid "CLICKABLE.double_click_shop"
-msgstr "ดับเบิลคลิกเพื่อเข้าสู่ร้านค้า"
+msgstr "กดดับเบิลคลิกเพื่อเข้าสู่ร้านค้า"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Unarchive
 msgid "CLICKABLE.double_click_unarchive"
-msgstr "ดับเบิลคลิกเพื่อไม่บันทึก"
+msgstr "กดดับเบิลคลิกเพื่อแตกไฟล์"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Equip
 msgid "CLICKABLE.double_click_equip"
-msgstr "ดับเบิลคลิกเพื่อติดตั้ง"
+msgstr "กดดับเบิลคลิกเพื่อติดตั้ง"
 
 #. Desktop icon tooltip
 #. source: Double-Click to apply
 msgid "CLICKABLE.double_click_apply"
-msgstr "ดับเบิลคลิกเพื่อใช้งาน"
+msgstr "กดดับเบิลคลิกเพื่อใช้งาน"
 
 #. Starter folder buy prompt
 #. source: Double-Click to purchase for %d Beanz
 #. Keep placeholders unchanged: %d
 msgid "CLICKABLE.double_click_buy"
-msgstr "ดับเบิลคลิกเพื่อซื้อด้วย %d Beanz"
+msgstr "กดดับเบิลคลิกเพื่อซื้อด้วย %d Beanz"
 
 #. Desktop icon tooltip
 #. source: Need %d Beanz to purchase
@@ -5052,12 +5052,12 @@ msgstr "ต้องการ %d Beanz เพื่อซื้อ"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link
 msgid "CLICKABLE.double_click_open_link"
-msgstr "ดับเบิลคลิกเพื่อเปิดลิ้งก์"
+msgstr "กดดับเบิลคลิกเพื่อเปิดลิ้งก์"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Change Language
 msgid "CLICKABLE.double_click_cycle_language"
-msgstr "ดับเบิลคลิกเพื่อเปลี่ยนภาษา"
+msgstr "กดดับเบิลคลิกเพื่อเปลี่ยนภาษา"
 
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
@@ -5577,7 +5577,7 @@ msgstr "ว่าง"
 #. Vapor window
 #. source: {0} files failed to validate and will be reaquired.
 msgid "VAPOR.validate_fail"
-msgstr "VAPOR.validate_fail"
+msgstr "ไม่สามารถตรวสอบความถูกต้องของไฟล์ {0} อย่าง ดำเนินการดาวน์โหลดใหม่"
 
 #. Weapon driver / overclock card - name (overclocked)
 #. source: Overclocked
@@ -5618,7 +5618,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (bloated_cache)
 #. source: Bloated Cache
 msgid "DRIVER.bloated_cache.name"
-msgstr "โบลท์ แคช"
+msgstr "โบลทต์ แคช"
 
 #. Weapon driver / overclock card - description (bloated_cache)
 #. source: Multiply Size 1.5x.
@@ -5942,7 +5942,7 @@ msgstr "กับระเบิดไม่หายไปจนกว่าจ
 #. Weapon driver / overclock card - name (modem_handshake)
 #. source: Dial-up Congestion
 msgid "DRIVER.modem_handshake.name"
-msgstr "ไดอัล-อัป คอนเกสชั่น"
+msgstr "ไดอัล-อัป คอนเจสชั่น"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -6024,7 +6024,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
 msgid "DRIVER.quarantine_strict.name"
-msgstr "สตริกต์"
+msgstr "สตริกท์"
 
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
@@ -6232,7 +6232,7 @@ msgstr "เลมไวร์ 4.7"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Searching: cursor upgrades"
-msgstr "กำลังค้นหา: เคอร์เซอร์อัปเกรด"
+msgstr "กำลังค้นหา: อัปเกรดเคอร์เซอร์"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6257,7 +6257,7 @@ msgstr "บิตเรท"
 #. Scene label
 #. screens: spam_ad_2.tscn
 msgid "(3) \"hey x \"  HOT!!! Singles"
-msgstr "(3) \"เฮ้ พวก \"  สาวโสดสุดฮ็อต!!!"
+msgstr "(3) \"เฮ้ พ่อหนุ่ม \"  สาวโสดสุดฮ็อต!!!"
 
 #. Scene label
 #. screens: spam_ad_3.tscn
@@ -6590,7 +6590,7 @@ msgid ""
 "Shaun Hammond Business Solutions Ltd"
 msgstr ""
 "แอนตี้ไวรัส เซอร์ไวเวอร์ส 2003 โปรเฟสชันแนล\n"
-"บริษัท ชอว์น แฮมมอนด์ บิซิเนส โซลูชั่น จำกัด"
+"ชอว์น แฮมมอนด์ บิซิเนส โซลูชั่น จำกัด"
 
 #. Scene label
 #. screens: settings_menu.tscn
