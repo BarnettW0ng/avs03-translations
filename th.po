@@ -564,7 +564,7 @@ msgstr "คูปอง โค้ด"
 #. Plugin - description (shop_discount_10)
 #. source: Discount Shop Items +10%.
 msgid "PLUGIN.shop_discount_10.description"
-msgstr "ราคาขายของในร้านค้าลดลง 10%"
+msgstr "ราคาของในร้านค้าลดลง 10%"
 
 #. Plugin - name (shop_discount_25)
 #. source: Volume License
@@ -574,7 +574,7 @@ msgstr "โวลูม ไลเซนส์"
 #. Plugin - description (shop_discount_25)
 #. source: Discount Shop Items +25%.
 msgid "PLUGIN.shop_discount_25.description"
-msgstr "ราคาขายของในร้านค้าลดลง 25%"
+msgstr "ราคาของในร้านค้าลดลง 25%"
 
 #. Plugin - name (slow_but_strong)
 #. source: Rau und Stark
