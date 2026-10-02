@@ -1656,7 +1656,7 @@ msgstr "Very Large Cone"
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr ""
-"Oranje pionnen zitten aan je vast. Alles waar ze op wijzen, wordt geroosterd "
+"Oranje pylonen zitten aan je vast. Alles waar ze op wijzen, wordt geroosterd "
 "met Heat."
 
 #. Upgrade card - name (weapon_blatand)
@@ -1727,7 +1727,7 @@ msgstr "chatballonnen"
 #. Weapon metadata
 #. source: cone
 msgid "WEAPON.cone.spawn_noun"
-msgstr "pionnen"
+msgstr "pylonen"
 
 #. Weapon metadata
 #. source: link
