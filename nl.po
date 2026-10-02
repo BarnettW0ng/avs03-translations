@@ -24,7 +24,7 @@ msgstr ""
 "+12 armor.\n"
 "0.8x cursorsnelheid.\n"
 "0.85x wapenschade.\n"
-"1.1x wapenschade als je damage krijgt (8s, stackt tot 3x)."
+"1.1x wapenschade als je geraakt wordt (8s, stackt tot 3x)."
 
 #. Class select - name (default)
 #. source: Default
@@ -267,7 +267,7 @@ msgstr "Hardware-IRQ"
 msgid "PLUGIN.armor_damage_trigger.description"
 msgstr ""
 "+5 armor.\n"
-"+25 packet loss als je damage krijgt (10s)."
+"+25 packet loss als je geraakt wordt (10s)."
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
@@ -371,7 +371,7 @@ msgstr "Batterij kritiek"
 msgid "PLUGIN.cursor_speed_damage.description"
 msgstr ""
 "+10% cursorsnelheid.\n"
-"+30% cursorsnelheid als je damage krijgt (10s)."
+"+30% cursorsnelheid als je geraakt wordt (10s)."
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -478,7 +478,7 @@ msgstr "Aanwijzer zoeken"
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
 msgstr ""
-"Triggert een Blast als je damage krijgt (20s cooldown, korter per stack)."
+"Triggert een Blast als je geraakt wordt (20s cooldown, korter per stack)."
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -520,7 +520,7 @@ msgstr "Geluk bij een ongeluk"
 #. Plugin - description (lucky_when_hurt)
 #. source: Multiply Luck 2.0x when taking Damage (Lasts 6s).
 msgid "PLUGIN.lucky_when_hurt.description"
-msgstr "2.0x geluk als je damage krijgt (6s)."
+msgstr "2.0x geluk als je geraakt wordt (6s)."
 
 #. Plugin - name (magnetism_boost)
 #. source: Magnetism Boost
@@ -656,7 +656,7 @@ msgstr "Leesmij"
 msgid "PLUGIN.xp_gain_on_damage.description"
 msgstr ""
 "+10% EXP-bonus.\n"
-"+4 EXP als je damage krijgt."
+"+4 EXP als je geraakt wordt."
 
 #. Plugin - name (morgan_av)
 #. source: Morgan Antivirus
@@ -834,7 +834,7 @@ msgstr "Beloningslek"
 #. Plugin - description (reward_leak)
 #. source: Spawn 4 CLICK-ME or Memory Leak files around you.
 msgid "PLUGIN.reward_leak.description"
-msgstr "Spawnt 4 CLICK-ME- of Memory Leak-bestanden om je heen."
+msgstr "Spawnt 4 bestanden om je heen: CLICK-ME of Memory Leak."
 
 #. Plugin - name (expansion_slot)
 #. source: Expansion Slot
@@ -1502,7 +1502,7 @@ msgstr "Paint"
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
 msgstr ""
-"Tekent cirkels rond de speler die vijanden damage doen en na verloop van "
+"Tekent cirkels rond de speler die vijanden schade doen en na verloop van "
 "tijd Lag-stacks geven."
 
 #. Upgrade card - name (weapon_pinball)
@@ -1523,7 +1523,7 @@ msgstr "Quarantaine"
 #. Upgrade card - description (weapon_quarantine)
 #. source: Scans an area around the player damaging enemies.
 msgid "UPGRADE.weapon_quarantine.description"
-msgstr "Scant een gebied rond de speler en doet damage aan vijanden."
+msgstr "Scant een gebied rond de speler en doet schade aan vijanden."
 
 #. Upgrade card - name (weapon_search)
 #. source: Search
@@ -1554,7 +1554,7 @@ msgstr "Frames"
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
 msgstr ""
-"Vuurt flikkerende FPS-getallen af. Het getal dat je ziet is de damage die je "
+"Vuurt flikkerende FPS-getallen af. Het getal dat je ziet is de schade die je "
 "doet."
 
 #. Upgrade card - name (weapon_scimitar)
@@ -1667,7 +1667,7 @@ msgstr "Blåtand"
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr "Verbindt vijanden met gestippelde Infect-links van vaste lengte."
+msgstr "Legt gestippelde Infect-verbindingen van vaste lengte tussen vijanden."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1732,7 +1732,7 @@ msgstr "pionnen"
 #. Weapon metadata
 #. source: link
 msgid "WEAPON.blatand.spawn_noun"
-msgstr "links"
+msgstr "verbindingen"
 
 #. Weapon metadata
 #. source: ring
@@ -2121,7 +2121,7 @@ msgstr ""
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
 msgid "SETTINGS.controller_vibration_tip"
-msgstr "Laat de controller vibreren als je damage krijgt."
+msgstr "Laat de controller vibreren als je geraakt wordt."
 
 #. Settings menu
 #. source: OK
@@ -4073,7 +4073,7 @@ msgstr "Haal level {amount} in één run"
 #. source: Deal {amount} damage
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_deal_damage"
-msgstr "Doe {amount} damage"
+msgstr "Deel {amount} schade uit"
 
 #. Unlock requirement - open N files lifetime
 #. source: Open {amount} files
@@ -4184,7 +4184,7 @@ msgstr "Verzamel {amount} munten"
 #. source: Take {amount} damage
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_take_damage"
-msgstr "Incasseer {amount} damage"
+msgstr "Incasseer {amount} schade"
 
 #. Unlock requirement - land N HaD: DoCK headshots
 #. source: Land {amount} headshots
@@ -4284,7 +4284,7 @@ msgstr ""
 #. source: Land a single hit of {amount} damage
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_hit"
-msgstr "Doe {amount} damage met één hit"
+msgstr "Deel {amount} schade uit met één hit"
 
 #. Unlock requirement - complete a protocol
 #. source: Complete {protocol}
@@ -4519,7 +4519,7 @@ msgstr "Verouderde hardware"
 #. Optional extra difficulty policy - description (legacy_hardware)
 #. source: Enemies move 40% faster and deal 20% more damage.
 msgid "POLICY.legacy_hardware.description"
-msgstr "Vijanden bewegen 40% sneller en doen 20% meer damage."
+msgstr "Vijanden bewegen 40% sneller en doen 20% meer schade."
 
 #. Optional extra difficulty policy - name (bloatware)
 #. source: Bloatware
@@ -4539,7 +4539,7 @@ msgstr "Void Breach"
 #. Optional extra difficulty policy - description (void_breach)
 #. source: The void deals 2x damage and applies 2x Lag.
 msgid "POLICY.void_breach.description"
-msgstr "De void doet 2x damage en geeft 2x Lag."
+msgstr "De void doet 2x schade en geeft 2x Lag."
 
 #. Optional extra difficulty policy - name (bad_sector)
 #. source: Bad Sector
