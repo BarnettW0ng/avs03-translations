@@ -960,7 +960,10 @@ msgstr "โปรโตคอล 5"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr "คุณไม่จำเป็นต้องเล่นความยากนี้ ได้รับ 64 Beanz ทุกครั้งที่เปิดโฟลเดอร์ปลอดภัย ถ้าคุณรอดไปถึงตอนนั้นได้นะ"
+msgstr ""
+"คุณไม่จำเป็นต้องเล่นความยากนี้\n"
+"ได้รับ 64 Beanz ทุกครั้งที่เปิดโฟลเดอร์ปลอดภัย\n"
+"ถ้าคุณรอดไปถึงตอนนั้นได้นะ"
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -2427,7 +2430,7 @@ msgstr "กล่องข้อความ"
 #. Personalise window - use Steam name and picture checkbox
 #. source: Use Steam profile
 msgid "UI.personalise_use_steam_profile"
-msgstr "ใช้โปรไฟล์สตีม"
+msgstr "ใช้รูปโปรไฟล์สตีม"
 
 #. Personalise window - Steam overlay name prompt
 #. source: Enter a name
@@ -3488,7 +3491,7 @@ msgstr "จัดเรียงข้อมูล"
 #. source: %2.2f KB
 msgid "UI.defrag_capacity"
 msgstr ""
-"UI (script-driven)\n"
+"UI (รันผ่านสคริปท์)\n"
 "‪ซอร์ส: %2.2f KB"
 
 #. Upgrade screen - speech prompt
@@ -3569,7 +3572,7 @@ msgstr "เคอร์เซอร์แต่ละชนิดจะมีส
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
 msgstr ""
-"ระดับความยากโฟลเดอร์มีกฎการเล่นแต่ละรอบแตกต่างกัน\n"
+"ระดับความยากโฟลเดอร์มีรูปแบบการเล่นแตกต่างกัน\n"
 "ตามความยากของศัตรู รางวัล และสิ่งที่ปลดล็อคได้"
 
 #. Starter folder policies category help
@@ -3625,7 +3628,7 @@ msgstr ""
 "\n"
 "เลือกระดับความยาก โปรโตคอล 1 - 3\n"
 "\n"
-"หากเล่นจบโปรโตคอล จะปลดล็อค{policies}ที่จะมอบความท้าทายในการเล่นให้กับคุณ\n"
+"หากเล่นจบโปรโตคอล จะปลดล็อค{policies}ที่จะมอบความท้าทายเพิ่มเติมให้คุณ\n"
 "\n"
 "เอาล่ะ เลือก{class}และ{difficulty}ที่ต้องการเลย!"
 
@@ -3709,7 +3712,7 @@ msgstr "ติดตั้งชุดปลั๊กอิน"
 #. Installer splash wait label
 #. source: Please wait...
 msgid "UI.installer_please_wait"
-msgstr "โปรดรอ..."
+msgstr "โปรดรอสักครู่..."
 
 #. Cracked installer window title
 #. source: Cracked Plugin Setup
@@ -5277,7 +5280,7 @@ msgstr "ระดับความยากของโปรโตคอลใ
 #. Run stats panel row
 #. source: Levels Gained
 msgid "RUNSTAT.levels_gained"
-msgstr "เลเวลที่ได้รับ"
+msgstr "เลเวล"
 
 #. Run stats panel row
 #. source: Levels gained from experience this run.
@@ -6561,7 +6564,7 @@ msgstr "นี่คือ"
 #. Scene label
 #. screens: options_menu.tscn; pause_menu.tscn; torrent_window.tscn
 msgid "Options"
-msgstr "ตัวเลือก"
+msgstr "ตั้งค่า"
 
 #. Scene label
 #. screens: options_menu.tscn
