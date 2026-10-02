@@ -6610,7 +6610,7 @@ msgstr "FPS สูงสุด:"
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Cycle"
-msgstr "รอบ"
+msgstr "เปลี่ยน"
 
 #. Scene label
 #. screens: settings_menu.tscn
