@@ -339,7 +339,7 @@ msgstr "เพิ่มอัตราการดรอปเหรียญจ
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
 msgid "PLUGIN.crit_chance_boost.name"
-msgstr "คริ แชนส์ บูสท์"
+msgstr "คริติคอล แชนส์ บูสท์"
 
 #. Plugin - description (crit_chance_boost)
 #. source: Multiply Crit Chance 1.1x.
@@ -623,7 +623,7 @@ msgstr "อัตราการดรอป EXP จากศัตรู +20%"
 #. Plugin - name (xp_file_open)
 #. source: Knowledge Base
 msgid "PLUGIN.xp_file_open.name"
-msgstr "นอร์ลเลจ เบส"
+msgstr "โนว์ลเลดจ์ เบส"
 
 #. Plugin - description (xp_file_open)
 #. source: Gain +5 EXP when opening a File.
@@ -731,7 +731,7 @@ msgstr ""
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
 msgid "PLUGIN.wallet_damage.name"
-msgstr "วอลเล็ท ดาเมจ"
+msgstr "วอลเล็ต ดาเมจ"
 
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
@@ -890,7 +890,7 @@ msgstr "พาวเวอร์ ยูส"
 #. Plugin - description (power_user)
 #. source: Special File capacity scales with Weapon Power.
 msgid "PLUGIN.power_user.description"
-msgstr "ความจุไฟล์พิเศษเพิ่มขึ้นตามพลังอาวุธ"
+msgstr "ความจุไฟล์พิเศษเพิ่มขึ้นตามพลังของอาวุธ"
 
 #. Plugin - name (extra_shop_offer)
 #. source: Software Catalog
@@ -1284,7 +1284,7 @@ msgstr "วาดวงกลม"
 #. Weapon amount upgrade - phrase after "additional" for Pinball
 #. source: pinballs spawning
 msgid "WEAPON.pinball.spawn_noun"
-msgstr "ยิงลูกบอล"
+msgstr "ยิงลูกพินบอล"
 
 #. Weapon amount upgrade - phrase after "additional" for Quarantine
 #. source: scans
@@ -2719,7 +2719,7 @@ msgstr "หมวดหมู่"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "การเล่นแต่ละรอบของคุณจะถูกบันทึกลงในหน้านี้ เปลี่ยนไปหน้าทาสก์เพื่อปลดล็อคความสำเร็จ"
+msgstr "การเล่นแต่ละรอบของคุณจะถูกบันทึกลงในหน้านี้ เปลี่ยนไปหน้าภารกิจเพื่อปลดล็อคความสำเร็จ"
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -3545,7 +3545,7 @@ msgstr "ทำภารกิจรองสำเร็จ"
 #. Vapidshare cracked installer spawned toast
 #. source: Cracked Installer created
 msgid "UI.notif_vapidshare_complete"
-msgstr "สร้างไฟล์ติดตั้งปลั๊กอินแคร็ก"
+msgstr "สร้างไฟล์โปรแกรมติดตั้งปลั๊กอินแคร็ก"
 
 #. Vapidshare part finished toast. %s is the part filename
 #. source: %s complete
@@ -3814,7 +3814,7 @@ msgstr "ช่วยเหลือ"
 #. Window menu Action
 #. source: Action
 msgid "UI.menu_action"
-msgstr "ดำเนินการ"
+msgstr "จัดการ"
 
 #. Starter folder / policies tree - difficulty row
 #. source: Folder Difficulty
@@ -3866,23 +3866,23 @@ msgstr "คุณชนะ!"
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
 msgstr ""
-"A fatal exception has occurred and the system has been terminated to prevent corruption.\n"
+"เกิดข้อผิดพลาดร้ายแรง ระบบได้ยุติการทำงานเพื่อป้องกันข้อมูลเสียหาย\n"
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"If this is the first time you've seen this termination screen, restart your system\n"
-"If this screen appears again, internal modules may have been compromised\n"
+"หากนี่เป็นครั้งแรกที่คุณเห็นหน้าจอยุติการทำงาน กรุณารีสตาร์ทคอมพิวเตอร์ของคุณ\n"
+"หากหน้าจอนี้ยังคงเกิดขึ้นอีกครั้ง โมดูลภายในระบบอาจได้รับความเสียหายจากการถูกโจมตี\n"
 "\n"
-"Please verify the integrity of your installed components. Unexpected behavior may\n"
-"indicate corrupted memory, invalid packet injection, or unauthorized script execution\n"
+"โปรดตรวจสอบความสมบูรณ์ของส่วนประกอบที่ติดตั้ง\n"
+"การทำงานที่ผิดปกติจากการฝังโค้ดอันตรายหรือการรันสคริปต์ที่ไม่ได้รับอนุญาตอาจเป็นสาเหตุที่ทำให้ข้อมูลเกิดความเสียหาย\n"
 "\n"
-"If the issue persists, perform a secure reboot or contact your system's internal administrator\n"
+"หากปัญหายังคงอยู่ ให้ทำการรีบู้ตแบบปลอดภัยหรือติดต่อผู้ดูแลระบบภายในของคุณ\n"
 "\n"
-"Technical Dump:\n"
+"ข้อมูลทางเทคนิค:\n"
 "STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
 "\n"
-"Beginning forced shutdown...\n"
-"Memory cache flushed\n"
+"บังคับเริ่มการชัตดาวน์...\n"
+"ล้างหน่วยความจำแคช\n"
 "\n"
 "กด {click} เพื่อดำเนินการต่อ กด {tab} เพื่อดูสถิติ"
 
@@ -6524,7 +6524,7 @@ msgid ""
 "- weapon evos\n"
 "- and more"
 msgstr ""
-"อัปเดทเร็วๆนี้\n"
+"อัปเดตตัวเต็มเร็วๆนี้\n"
 "- อาวุธใหม่\n"
 "- ศัตรูใหม่\n"
 "- บอสใหม่\n"
