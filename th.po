@@ -5969,7 +5969,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
 msgid "DRIVER.orchestra_fortissimo.name"
-msgstr "แท็บ โอวเอร์โหลด"
+msgstr "แท็บ โอเวอร์โหลด"
 
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
@@ -6454,7 +6454,7 @@ msgstr "ออกไปยังหน้าเมนู"
 #. Scene label
 #. screens: installer_window.tscn
 msgid "PluginInstaller v2.03 r2"
-msgstr "โปรแกรมติดตั้งปลั๊กอิน v2.03 r2"
+msgstr "ปลั๊กอิน อินสตอลเลอร์ v2.03 r2"
 
 #. Scene label
 #. screens: installer_window.tscn
