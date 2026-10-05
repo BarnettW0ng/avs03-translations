@@ -4848,7 +4848,7 @@ msgstr "Dil değiştirmek için Çift Tıkla"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr "Linki açmak için Çift Tıkla[br]Oyundaki çeviriler, topluluğun cömert katkılarıyla sağlanmıştır."
+msgstr "Bağlantıyı açmak için Çift Tıkla[br]Oyundaki çeviriler, topluluğun cömert katkılarıyla sağlanmıştır."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
