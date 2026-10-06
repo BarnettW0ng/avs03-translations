@@ -942,7 +942,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Paket Kaybı"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Gelen tüm hasardan kaçınma şansı. (Üstel)"
 
@@ -978,7 +978,7 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Şans"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
 msgstr "Daha iyi seçeneklerin gelme ihtimalini artırır; diğer avantajların yanı sıra nadirliği yükseltir."
 
@@ -1546,7 +1546,7 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Varsayılan Levha Cismi"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr "Üzerinize yapışmış turuncu trafik takozları. İşaret ettikleri şeyleri Hararet ile pişiriyorlar."
 
@@ -1566,9 +1566,9 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Çıkış Aygıtı"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "İmleçten dışa doğru eş merkezli el sıkışma sinyalleri yayar."
+msgstr "İmleçten dışa doğru ses dalgaları yayar."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1601,9 +1601,9 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "sekme"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
-msgstr "tuzak"
+msgstr "sekme"
 
 #. Weapon metadata
 #. source: dish
@@ -1628,7 +1628,7 @@ msgstr "bağlantı"
 #. Weapon metadata
 #. source: ring
 msgid "WEAPON.modem.spawn_noun"
-msgstr "sinyal"
+msgstr "dalga"
 
 #. BOSS - name (recycle_bin)
 #. source: Recycle Bin
@@ -2559,6 +2559,46 @@ msgstr "Profil.xls - Antivirus Survivors"
 msgid "UI.start_menu_tasks_stats"
 msgstr "Görevler ve İstatistikler"
 
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Emeği Geçenler"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Geliştirme, Çizim, Müzik vb."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Yapımcı"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Animatör (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "Topluluk QA"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Topluluk Çevirmenleri"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Özel Teşekkürler"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr "Bu hayalimi gerçekleştirmeme yardımcı olduğunuz için hepinize çok teşekkür ederim. Sizi seviyorum! -Shaun"
+
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
@@ -3312,7 +3352,7 @@ msgid "UI.task_unlocks_category"
 msgstr "%s Kilidi Açıldı"
 
 #. Task tooltip - category line with Beanz amount
-#. source: %s %+d Beanz
+#. source: %s +%d Beanz
 #. Keep placeholders unchanged: %s, %d
 msgid "UI.task_category_beanz"
 msgstr ""
@@ -4425,9 +4465,9 @@ msgid "POLICY.open_relay.description"
 msgstr "Her savaş klasörü istenmeyen posta barındırır."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
-msgstr "Varsayılan Etki Alanı İlkesi"
+msgstr "Natasha'nın Gazabı"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
@@ -5612,9 +5652,9 @@ msgid "DRIVER.fontart_bold.description"
 msgstr "Boyutu %+60 artır. Gücü %+60 artır.\nMiktarı %-25 azalt."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr ""
+msgstr "Kontur"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5682,9 +5722,9 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Mayınlar, tetiklenene kadar yerlerinde kalır."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Çevirmeli Bağlantı Tıkanıklığı"
+msgstr "Geri Besleme"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5692,9 +5732,9 @@ msgid "DRIVER.modem_handshake.description"
 msgstr "Geri Püskürtmeyi, Gecikmeye dönüştürür. Miktara +1 ekle.\nBoyutu %+25 artır."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Geniş Bant"
+msgstr "Kazanç"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
