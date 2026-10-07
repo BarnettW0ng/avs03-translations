@@ -176,7 +176,7 @@ msgstr "Velocitat del cursor"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "Multiplica la velocitat de cursorl un 1% addicional per rang."
+msgstr "Multiplica la velocitat de cursor un 1% addicional per rang."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
