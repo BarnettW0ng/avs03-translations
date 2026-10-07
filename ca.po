@@ -101,7 +101,7 @@ msgstr ""
 #. Class select - name (admin)
 #. source: Admin
 msgid "CLASS.admin.name"
-msgstr "Administrador"
+msgstr "Admin"
 
 #. Class select - description (admin)
 #. source: Start with +1 Key.\nMultiply Coin Gain 1.3x.\nMultiply Pickup Range 1.3x.\nDiscount Shop Items +10%.\nMultiply Max HP 0.9x.\nMultiply Weapon Damage 0.85x.
@@ -176,7 +176,7 @@ msgstr "Velocitat del cursor"
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "Multiplica la velocitat de cursor un 1% addicional per rang."
+msgstr "Multiplica la velocitat de cursorl un 1% addicional per rang."
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
@@ -186,7 +186,7 @@ msgstr "Multiplica l'obtenció d'EXP un 2% addicional per rang."
 #. Meta upgrade menu - description (health_regen)
 #. source: Adds +1 Health Regen per Rank.
 msgid "META.health_regen.description"
-msgstr "Afegeix 1 regeneració de vida més per rang."
+msgstr "Afegeix 1 PV de regeneració de vida més per rang."
 
 #. Meta upgrade menu - description (luck)
 #. source: Multiply Luck by an extra +1% per Rank.
@@ -290,7 +290,7 @@ msgstr "Edició Empresarial"
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
 "Afegeix 64 PV màxims.\n"
-"Afegeix 12 regeneració de vida."
+"Afegeix 12 PV de regeneració de vida."
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -331,7 +331,7 @@ msgstr "Millora d'Obtenció de Monedes"
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "Multiplica el guany de monedes 1,1x."
+msgstr "Multiplica l'obtenció de monedes 1,1x."
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -341,7 +341,8 @@ msgstr "Carpetes Compartides"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "Incrementa la probabilitat de caiguda dels enemics en un 20%-"
+msgstr ""
+"Incrementa la probabilitat de caiguda de monedes dels enemics en un 20%."
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -565,7 +566,7 @@ msgstr "Millora de Regeneració de Vida"
 #. Plugin - description (regen_boost)
 #. source: Add +5 Health Regen.
 msgid "PLUGIN.regen_boost.description"
-msgstr "Afegeix 5 de regeneració de vida."
+msgstr "Afegeix 5 PV de regeneració de vida."
 
 #. Plugin - name (shop_discount_10)
 #. source: Coupon Code
@@ -1319,7 +1320,7 @@ msgstr "escaneigs"
 #. Weapon amount upgrade - phrase after "additional" for Search
 #. source: magnifying glasses
 msgid "WEAPON.search.spawn_noun"
-msgstr "llupes"
+msgstr "lupes"
 
 #. Weapon amount upgrade - phrase after "additional" for Solitaire
 #. source: cards spawning
@@ -1372,7 +1373,7 @@ msgstr "Incrementa l'obtenció d'EXP un {percent}%."
 #. source: Increases Health Regen by +{percent} every 20s.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_health_regen.description"
-msgstr "Incrementa la regeneració de vida un {percent} cada 20s."
+msgstr "Incrementa la regeneració de vida de {percent} cada 20s."
 
 #. Upgrade card - description (upgrade_player_luck)
 #. source: Increases luck by +{percent}%.
@@ -1390,7 +1391,7 @@ msgstr "Incrementa el magnetisme del jugador un {percent}%."
 #. source: Increases Max HP by +{percent}.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_max_health.description"
-msgstr "Incrementa els PV màxims un {percent}."
+msgstr "Incrementa els PV màxims uns {percent} PV."
 
 #. Upgrade card - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
@@ -2702,7 +2703,7 @@ msgstr "Perfil.xls - Antivirus Survivors"
 #. Start menu - Tasks and Stats button
 #. source: Tasks and Stats
 msgid "UI.start_menu_tasks_stats"
-msgstr "Tasques i estadístiques."
+msgstr "Tasques i estadístiques"
 
 #. Credits window - title, also the desktop icon name
 #. source: Credits
@@ -3194,7 +3195,7 @@ msgstr "Millores comprades de la botiga."
 #. source: Sheet %d
 #. Keep placeholders unchanged: %d
 msgid "UI.sheet_tab"
-msgstr "Fulla %d"
+msgstr "Full %d"
 
 #. Vapor store - window title
 #. source: Vapor Store
@@ -3305,7 +3306,7 @@ msgstr "Cursors"
 #. Tasks screen - weapon driver unlock category
 #. source: Drivers
 msgid "UI.task_group_drivers"
-msgstr "Drivers"
+msgstr "Controladors"
 
 #. Tasks screen - files category (special, safe, battle)
 #. source: Files
@@ -3340,7 +3341,7 @@ msgstr "Classe de Cursor"
 #. Task tooltip type - singular
 #. source: Plugin
 msgid "UI.task_group_singular_plugin"
-msgstr "Complement"
+msgstr "Complements"
 
 #. Task tooltip type - singular
 #. source: Protocol
@@ -3931,7 +3932,7 @@ msgstr ""
 #. Installer Install button tooltip
 #. source: Installs plugin.
 msgid "UI.installer_install_tooltip"
-msgstr "Instal·la complents."
+msgstr "Instal·la el(s) complements."
 
 #. Finance Manager all-in button
 #. source: All In
@@ -3986,7 +3987,7 @@ msgstr ""
 "Començant l'apagada forçada...\n"
 "Cau de memòria esborrada.\n"
 "\n"
-"Premeu {click} per continuar. {tab} per a estadístiques"
+"Premeu {click} per continuar. {tab} per a estadístiques."
 
 #. Browser address-bar caption
 #. source: Address
@@ -4006,7 +4007,7 @@ msgstr "Eliminar"
 #. Installer Skip button
 #. source: Skip
 msgid "UI.installer_skip_button"
-msgstr "Saltar"
+msgstr "Ometre"
 
 #. Vapor window cache-validation status
 #. source: Validating cache files...
@@ -4136,7 +4137,7 @@ msgstr "PV: %d/%d"
 #. source: Clear {amount} enemies
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_clear_enemies"
-msgstr "Elimina {amount} enemies"
+msgstr "Elimina {amount} enemics"
 
 #. Unlock requirement - clear N enemies with a weapon
 #. source: Clear {amount} enemies with {weapon}
@@ -4196,7 +4197,7 @@ msgstr "Obre evapor.exe {amount} vegades"
 #. source: Clear {amount} {enemy} enemies
 #. Keep placeholders unchanged: {amount}, {enemy}
 msgid "UI.unlock_clear_enemy"
-msgstr "Elimina {amount} enemics {enemy"
+msgstr "Elimina {amount} enemics {enemy}"
 
 #. Unlock requirement - complete N runs
 #. source: Complete {amount} runs
@@ -4342,7 +4343,7 @@ msgstr "Obre {amount} arxius LemFil"
 #. source: Trigger {amount} Spam Ad Attacks
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_spam_popups"
-msgstr "Activa {amunt} atacs de missatges brossa"
+msgstr "Activa {amount} atacs de missatges brossa"
 
 #. Unlock requirement - defeat a boss
 #. source: Defeat {boss}
@@ -4397,7 +4398,7 @@ msgstr "Arriba a la ronda {amount} en el protocol {protocol} o major"
 #. source: Heal {amount} HP total
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_plugin_big_hp_regen_boost"
-msgstr "Cura't {amount} PV totals"
+msgstr "Regenerat {amount} PV totals"
 
 #. UI (script-driven)
 #. source: Die 10 times
@@ -5204,7 +5205,7 @@ msgstr "No es requereix clau"
 #. Legendary installer tooltip
 #. source: Uses 3 keys · Always Legendary
 msgid "CLICKABLE.legendary_installer_hint"
-msgstr "Usa 3 Claus · Sempre Llegèndari"
+msgstr "Usa 3 Claus · Sempre Llegendari"
 
 #. Desktop icon tooltip
 #. source: Destroys everything on-screen!
@@ -5373,7 +5374,7 @@ msgstr "Instal·lador.pgi"
 #. Desktop icon tooltip
 #. source: cracked_installer.pgi
 msgid "CLICKABLE.filename.cracked_installer"
-msgstr "instal·lador_crackejat.pgi"
+msgstr "instal·lador_craquejat.pgi"
 
 #. Desktop icon tooltip
 #. source: LEGENDARY_SETUP.exe
@@ -5714,7 +5715,7 @@ msgstr "Sobrevellotjat"
 msgid "DRIVER.overclocked.description"
 msgstr ""
 "Multiplica el dany 1,6x.\n"
-"Redueix actualització un 15%."
+"Redueix l'actualització un 15%."
 
 #. Weapon driver / overclock card - name (hyperthreaded)
 #. source: Hyperthreaded
