@@ -24,7 +24,8 @@ msgstr ""
 "Dodaje +12 Oklopa.\n"
 "Pomnožuje Brzina Kursora 0,8x.\n"
 "Pomnožuje Šteta od Oružja za 0,85x.\n"
-"Pomnožuje Šteta od Oružja za 1,1x prilikom primanja štete (Traje 8s, steka se do 3)."
+"Pomnožuje Šteta od Oružja za 1,1x prilikom primanja štete (Traje 8s, steka "
+"se do 3)."
 
 #. Class select - name (default)
 #. source: Default
@@ -65,7 +66,8 @@ msgstr ""
 "Dodaje +15 Gubitak Paketa.\n"
 "Smanjuje Maks. HP -25.\n"
 "Pomnožuje Štetu Oružja 0,9x.\n"
-"Pomnožuje Brzinu Kursora 1,25x i Osvježavanja Oružja 1,2x pri Gubitku Paketa (traje 4s)."
+"Pomnožuje Brzinu Kursora 1,25x i Osvježavanja Oružja 1,2x pri Gubitku Paketa "
+"(traje 4s)."
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -120,7 +122,9 @@ msgstr "Kaos"
 #. Folder evolution mode - description (chaos)
 #. source: A inconsistent unpredictable mess of difficulty. I couldn't tell you what to expect.
 msgid "EVO.chaos.description"
-msgstr "Nedosljedan nepredvidiv nered teškoća. Ne bih ti mogao reći što možeš očekivati."
+msgstr ""
+"Nedosljedan nepredvidiv nered teškoća. Ne bih ti mogao reći što možeš "
+"očekivati."
 
 #. Folder evolution mode - name (linear)
 #. source: Linear
@@ -140,7 +144,9 @@ msgstr "Varijabilan"
 #. Folder evolution mode - description (variable)
 #. source: A varied level of enemies that ramps up and down to give more moments of peace but harder increases.
 msgid "EVO.variable.description"
-msgstr "Varijalna razina neprijatelja koja se pojačava i smanjuje kako bi pružila više trenutaka mira, ali se i težina povećava."
+msgstr ""
+"Varijalna razina neprijatelja koja se pojačava i smanjuje kako bi pružila "
+"više trenutaka mira, ali se i težina povećava."
 
 #. Meta upgrade menu - description (armor)
 #. source: Adds +1 Armo(u)r per Rank.
@@ -462,7 +468,8 @@ msgstr "Automatski Oporavak"
 #. Plugin - description (hp_on_heal)
 #. source: 7% Chance to Add +3 Max HP when Healed. (5s Cooldown).
 msgid "PLUGIN.hp_on_heal.description"
-msgstr "7% šanse za dodavanje +3 Maks. HP-a prilikom liječenja. (5 sekundi hlađenja)."
+msgstr ""
+"7% šanse za dodavanje +3 Maks. HP-a prilikom liječenja. (5 sekundi hlađenja)."
 
 #. Plugin - name (locate_pointer)
 #. source: Locate Pointer
@@ -472,7 +479,9 @@ msgstr "Prikaži mjesto Pokazivača"
 #. Plugin - description (locate_pointer)
 #. source: Trigger a Blast when taking damage (20s cooldown, reduced per stack).
 msgid "PLUGIN.locate_pointer.description"
-msgstr "Aktiviraj Eksploziju prilikom primanja štete (vrijeme hlađenja 20 s, smanjuje se po stacku)."
+msgstr ""
+"Aktiviraj Eksploziju prilikom primanja štete (vrijeme hlađenja 20 s, "
+"smanjuje se po stacku)."
 
 #. Plugin - name (luck_boost)
 #. source: Luck Boost
@@ -914,7 +923,9 @@ msgstr "Protokol I"
 #. Difficulty protocol - description (protocol_1)
 #. source: The beginner difficulty. Earn 16 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_1.description"
-msgstr "Početnička težina. Zaradite 16 Beanz-a po otvorenom Sigurnom Folderu + očišćenim neprijateljima."
+msgstr ""
+"Početnička težina. Zaradite 16 Beanz-a po otvorenom Sigurnom Folderu + "
+"očišćenim neprijateljima."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -924,7 +935,9 @@ msgstr "Protokol II"
 #. Difficulty protocol - description (protocol_2)
 #. source: The sophomore difficulty. Earn 24 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_2.description"
-msgstr "Teža težina. Zaradite 24 Beanz-a po otvorenom Sigurnom Folderu + očišćenim neprijateljima."
+msgstr ""
+"Teža težina. Zaradite 24 Beanz-a po otvorenom Sigurnom Folderu + očišćenim "
+"neprijateljima."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -934,7 +947,9 @@ msgstr "Protokol III"
 #. Difficulty protocol - description (protocol_3)
 #. source: The tertiary difficulty. Earn 32 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_3.description"
-msgstr "Težina za oni koji su spremni. Zaradite 32 Beanz-a po otvorenom Sigurnom Folderu + očišćenim neprijateljima."
+msgstr ""
+"Težina za oni koji su spremni. Zaradite 32 Beanz-a po otvorenom Sigurnom "
+"Folderu + očišćenim neprijateljima."
 
 #. Difficulty protocol - name (protocol_4)
 #. source: Protocol IV
@@ -944,7 +959,9 @@ msgstr "Protokol IV"
 #. Difficulty protocol - description (protocol_4)
 #. source: The senior difficulty. Earn 48 Beanz per Safe Folder opened + cleared enemies.
 msgid "PROTOCOL.protocol_4.description"
-msgstr "Težina za profesionalca. Zaradite 48 Beanz-a po otvorenom Sigurnom Folderu + očišćenim neprijateljima."
+msgstr ""
+"Težina za profesionalca. Zaradite 48 Beanz-a po otvorenom Sigurnom Folderu + "
+"očišćenim neprijateljima."
 
 #. Difficulty protocol - name (protocol_5)
 #. source: Protocol V
@@ -954,7 +971,9 @@ msgstr "Protokol V"
 #. Difficulty protocol - description (protocol_5)
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
-msgstr "Ne moraš ovo raditi. 64 Beanz-a po otvorenom Sigurnom Folderu ako ipak to učinite."
+msgstr ""
+"Ne moraš ovo raditi. 64 Beanz-a po otvorenom Sigurnom Folderu ako ipak to "
+"učinite."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
@@ -1012,7 +1031,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "Gubitak Paketa"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "Šansa za izbjegavanje svu dolaznu štetu. (Eksponencijalni)"
 
@@ -1048,9 +1067,11 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "Sreća"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
-msgstr "Povećava šanse za bolje bacanje, što rezultira većom rijetkošću, između ostalih događaja."
+msgstr ""
+"Povećava šanse za bolje bacanje, što rezultira većom rijetkošću, između "
+"ostalih događaja."
 
 #. Stat display - name (upgrade_player_magnetism_multi)
 #. source: Magnetism
@@ -1080,7 +1101,8 @@ msgstr "Moć Oružja"
 #. Stat display - description (upgrade_player_power_multi)
 #. source: Increases power of Repel, Heat, Infect and Lag from all weapons.
 msgid "STAT.upgrade_player_power_multi.description"
-msgstr "Povećava snagu Odbijanja, Zagrijavanja, Infekcije i Kašnjenja od svih oružja."
+msgstr ""
+"Povećava snagu Odbijanja, Zagrijavanja, Infekcije i Kašnjenja od svih oružja."
 
 #. Stat display - name (upgrade_player_proc_speed)
 #. source: Processing Speed
@@ -1090,7 +1112,9 @@ msgstr "Brzina Obrade"
 #. Stat display - description (upgrade_player_proc_speed)
 #. source: Multiplies the speed that all files process at, including .zip, .bat, LemWire etc. (Exponential)
 msgid "STAT.upgrade_player_proc_speed.description"
-msgstr "Množi brzinu obrade svih datoteka, uključujući .zip, .bat, LemWire itd. (Eksponencijalni)"
+msgstr ""
+"Množi brzinu obrade svih datoteka, uključujući .zip, .bat, LemWire itd. "
+"(Eksponencijalni)"
 
 #. Stat display - name (upgrade_player_refresh_multi)
 #. source: Weapon Refresh
@@ -1120,7 +1144,9 @@ msgstr "Količina Oružja"
 #. Stat display - description (upgrade_player_weap_amount)
 #. source: Chance of additional weapon spawns on attack. Relative to base amount.
 msgid "STAT.upgrade_player_weap_amount.description"
-msgstr "Šansa pojavljivanja dodatne kopije oružja pri napadu. U odnosu na početni iznos."
+msgstr ""
+"Šansa pojavljivanja dodatne kopije oružja pri napadu. U odnosu na početni "
+"iznos."
 
 #. Stat display - name (upgrade_player_weap_size)
 #. source: Weapon Size
@@ -1362,7 +1388,9 @@ msgstr "Poveća Maks. HP +{percent}%."
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "Poveća snagu Odbijanja, Zagrijavanja, Infekcije i Kašnjenja od oružja za +{percent}%."
+msgstr ""
+"Poveća snagu Odbijanja, Zagrijavanja, Infekcije i Kašnjenja od oružja za +"
+"{percent}%."
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1418,7 +1446,9 @@ msgstr "Mjehurići"
 #. Upgrade card - description (weapon_bubbles)
 #. source: Giant bubbles float around that add stacks of Infect to enemies.
 msgid "UPGRADE.weapon_bubbles.description"
-msgstr "Ogrnomni mjehurići lete okolo ekrana i dodaju stekove Infekcije neprijateljima."
+msgstr ""
+"Ogrnomni mjehurići lete okolo ekrana i dodaju stekove Infekcije "
+"neprijateljima."
 
 #. Upgrade card - name (weapon_cdrive)
 #. source: C: Drive
@@ -1458,7 +1488,9 @@ msgstr "FontArt"
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
 msgid "UPGRADE.weapon_fontart.description"
-msgstr "Baca slova na najjačeg neprijatelja koja doda stekova Zagrijavanja neprijateljima."
+msgstr ""
+"Baca slova na najjačeg neprijatelja koja doda stekova Zagrijavanja "
+"neprijateljima."
 
 #. Upgrade card - name (weapon_hitmarkers)
 #. source: HaD: DoCK
@@ -1478,7 +1510,9 @@ msgstr "Bojanje"
 #. Upgrade card - description (weapon_paint)
 #. source: Paints circles near the player that damage and add stacks of Lag to enemies over time.
 msgid "UPGRADE.weapon_paint.description"
-msgstr "Crta krugove u blizini igrača koji nanose štetu i s vremenom dodaju stekove Kašnjenja neprijateljima."
+msgstr ""
+"Crta krugove u blizini igrača koji nanose štetu i s vremenom dodaju stekove "
+"Kašnjenja neprijateljima."
 
 #. Upgrade card - name (weapon_pinball)
 #. source: Pinball
@@ -1528,7 +1562,8 @@ msgstr "Frames"
 #. Upgrade card - description (weapon_fraps)
 #. source: Fires flickering FPS numbers. The number shown is the damage dealt.
 msgid "UPGRADE.weapon_fraps.description"
-msgstr "Ispaljuje treperave FPS brojeve. Prikazani broj predstavlja nanesenu štetu."
+msgstr ""
+"Ispaljuje treperave FPS brojeve. Prikazani broj predstavlja nanesenu štetu."
 
 #. Upgrade card - name (weapon_scimitar)
 #. source: Scimitar
@@ -1548,7 +1583,9 @@ msgstr "Snajper 1.6"
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr "Jedan snažan udarac na najjačeg neprijatelja. Očišćeni neprijatelji su predstavljeni u killfeedu."
+msgstr ""
+"Jedan snažan udarac na najjačeg neprijatelja. Očišćeni neprijatelji su "
+"predstavljeni u killfeedu."
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -1558,7 +1595,8 @@ msgstr "Minolovac"
 #. Upgrade card - description (weapon_minesweeper)
 #. source: Tosses mines that plant, then explode when an enemy touches them.
 msgid "UPGRADE.weapon_minesweeper.description"
-msgstr "Baca mine koje se zasade, a zatim eksplodiraju kada ih neprijatelj dodirne."
+msgstr ""
+"Baca mine koje se zasade, a zatim eksplodiraju kada ih neprijatelj dodirne."
 
 #. Upgrade card - name (weapon_email)
 #. source: Email
@@ -1568,7 +1606,9 @@ msgstr "E-pošta"
 #. Upgrade card - description (weapon_email)
 #. source: Envelopes fly out, bounce off walls, and boomerang home hitting both ways.
 msgid "UPGRADE.weapon_email.description"
-msgstr "Korverte lete van, odbijaju se od zidova i vraćaju se kao bumerang u oba smjera."
+msgstr ""
+"Korverte lete van, odbijaju se od zidova i vraćaju se kao bumerang u oba "
+"smjera."
 
 #. Upgrade card - name (weapon_cruiser)
 #. source: Internet Cruiser
@@ -1590,7 +1630,9 @@ msgstr "Orkestar"
 #. Upgrade card - description (weapon_orchestra)
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
-msgstr "Otvara karticu preglednika na najbližem neprijatelju na zaslonu. Zarazi, a ponekad i pogubi."
+msgstr ""
+"Otvara karticu preglednika na najbližem neprijatelju na zaslonu. Zarazi, a "
+"ponekad i pogubi."
 
 #. Upgrade card - name (weapon_satellite)
 #. source: WLAN
@@ -1610,7 +1652,9 @@ msgstr "AVN Čavrljanje"
 #. Upgrade card - description (weapon_avn)
 #. source: Orbiting chat-bubble beams type out messages and Lag enemies.
 msgid "UPGRADE.weapon_avn.description"
-msgstr "Orbitirajuće balona za čavrljanje tipkaju poruke i dodaju Kašnjenje neprijateljima."
+msgstr ""
+"Orbitirajuće balona za čavrljanje tipkaju poruke i dodaju Kašnjenje "
+"neprijateljima."
 
 #. Upgrade card - name (weapon_cone)
 #. source: Very Large Cone
@@ -1618,9 +1662,11 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "Veliki Lomaći Čunj"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "Narančaste prometne konusi zalijepljeni su za vas. Prže ono na što upiru sa Zagrijavanjem."
+msgstr ""
+"Narančaste prometne konusi zalijepljeni su za vas. Prže ono na što upiru sa "
+"Zagrijavanjem."
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1630,7 +1676,9 @@ msgstr "Blåtand"
 #. Upgrade card - description (weapon_blatand)
 #. source: Chains dashed Infect links between enemies at a fixed link length.
 msgid "UPGRADE.weapon_blatand.description"
-msgstr "Isprekidani lanci Infektiraju veze između neprijatelja na fiksnoj duljini veze."
+msgstr ""
+"Isprekidani lanci Infektiraju veze između neprijatelja na fiksnoj duljini "
+"veze."
 
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
@@ -1638,9 +1686,9 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "Izlazni Uređaj"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "Izbacuje prstenove koncentrične tonovi za uspostavljanje veze prema van od kursora."
+msgstr "Zvučni valovi šire se prema van od kursora."
 
 #. Weapon metadata
 #. source: FPS counter
@@ -1673,7 +1721,7 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "kartica"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "kartica"
 
@@ -1988,9 +2036,19 @@ msgid "SETTINGS.music_volume"
 msgstr "Glasnoća glazbe"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "Glasnoća zvučnih efekata"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "Glasnoća Ključgena"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "Zvuk računala u glavnom izborniku"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2025,12 +2083,16 @@ msgstr "Koliko veliko igra se prikazuje unutar prozora."
 #. Settings menu
 #. source: Lock the frame rate to your display to prevent tearing.
 msgid "SETTINGS.vsync_tip"
-msgstr "Zaključava broj sličica u sekundi na vaš zaslon kako bi se spriječilo trganje slike."
+msgstr ""
+"Zaključava broj sličica u sekundi na vaš zaslon kako bi se spriječilo "
+"trganje slike."
 
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr "Maksimalan broj sličica u sekundi. Neograničeno koristi ograničenje vašeg hardvera."
+msgstr ""
+"Maksimalan broj sličica u sekundi. Neograničeno koristi ograničenje vašeg "
+"hardvera."
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2053,9 +2115,21 @@ msgid "SETTINGS.music_volume_tip"
 msgstr "Glasnoća zvučne podloge."
 
 #. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "Glasnoća za zvučne efekte."
+
+#. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "Glasnoća za Ključgen prozore koji reproduciraju vlastitu pjesmu."
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr ""
+"Reproduciraj zvuk zujanja računala na\n"
+"glavnom izborniku."
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2065,17 +2139,21 @@ msgstr "Jezik za izbornike i tekst u igri."
 #. Settings menu
 #. source: How quickly UI animations and transitions play.
 msgid "SETTINGS.anim_speed_tip"
-msgstr "Koliko brzo se reproduciraju animacije i prijelazi korisničkog sučelja."
+msgstr ""
+"Koliko brzo se reproduciraju animacije i prijelazi korisničkog sučelja."
 
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr "Koliko se brzo kursor pomiče sa džojstikom ili tipkovnicom u izbornicima."
+msgstr ""
+"Koliko se brzo kursor pomiče sa džojstikom ili tipkovnicom u izbornicima."
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
-msgstr "U Sigurnim Mapama upravljajte kursorom mišem. Mape za Borbu uvijek se koristi WASD ili lijevi joystick."
+msgstr ""
+"U Sigurnim Mapama upravljajte kursorom mišem. Mape za Borbu uvijek se "
+"koristi WASD ili lijevi joystick."
 
 #. Settings menu
 #. source: Vibrate the controller when taking damage.
@@ -2634,6 +2712,48 @@ msgstr "Profil.xls - Antivirusni Survivori"
 msgid "UI.start_menu_tasks_stats"
 msgstr "Zadaci i Statistike"
 
+#. Credits window - title, also the desktop icon name
+#. source: Credits
+msgid "CREDITS.window_title"
+msgstr "Zasluge"
+
+#. Credits window - role title
+#. source: Development, Art, Music etc.
+msgid "CREDITS.solo_developer"
+msgstr "Razvoj, Grafika, Glazba itd."
+
+#. Credits window - role title
+#. source: Producer
+msgid "CREDITS.producer"
+msgstr "Producent"
+
+#. Credits window - role title. Keep the name Virry.
+#. source: Animator (Virry)
+msgid "CREDITS.animation_virry"
+msgstr "Animator (Virry)"
+
+#. Credits window - role title
+#. source: Community QA
+msgid "CREDITS.community_qa"
+msgstr "QA Zajednica"
+
+#. Credits window - role title
+#. source: Community Translators
+msgid "CREDITS.community_translators"
+msgstr "Prevoditelji iz zajednice"
+
+#. Credits window - role title
+#. source: Special Thanks
+msgid "CREDITS.special_thanks"
+msgstr "Posebne Zahvale:"
+
+#. Credits window - note under Special Thanks
+#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
+msgid "CREDITS.special_thanks_note"
+msgstr ""
+"Hvala vam svima od srca što ste mi pomogli ostvariti ovaj san. Volim vas "
+"sve! -Shaun"
+
 #. Profile stats window - statistics tab
 #. source: Stats
 msgid "UI.stats_tab"
@@ -2657,42 +2777,57 @@ msgstr "Categorije"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "Vaši rezultati igara nalaze se u ovoj tablici. Prebacite se na Zadatke za otključavanja."
+msgstr ""
+"Vaši rezultati igara nalaze se u ovoj tablici. Prebacite se na Zadatke za "
+"otključavanja."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_weapons"
-msgstr "Završite oružje zadatak, a zatim ga kupite u Dodaj/Ukloni otključavanja."
+msgstr ""
+"Završite oružje zadatak, a zatim ga kupite u Dodaj/Ukloni otključavanja."
 
 #. Virry blurb - cursor class tasks
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
-msgstr "Kursor Klase promijenjuju kako se boriš. Odključaj jedan, a zatim ga kupite u Dodaj/Ukloni otključavanja."
+msgstr ""
+"Kursor Klase promijenjuju kako se boriš. Odključaj jedan, a zatim ga kupite "
+"u Dodaj/Ukloni otključavanja."
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
-msgstr "Dodaci dodaju pasivnu snagu koju se mogu dobiti s Installer datotekama. Dovrši zadatka, a zatim kupite ih u Dodaj/Ukloni otključavanja."
+msgstr ""
+"Dodaci dodaju pasivnu snagu koju se mogu dobiti s Installer datotekama. "
+"Dovrši zadatka, a zatim kupite ih u Dodaj/Ukloni otključavanja."
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
-msgstr "Upravljački Programi Oružja nadograđuju oružje s jedinstvenim dodacima. Kada su otključani, dođi do razine 8, 16 i 24 da biste odabrali jednog."
+msgstr ""
+"Upravljački Programi Oružja nadograđuju oružje s jedinstvenim dodacima. Kada "
+"su otključani, dođi do razine 8, 16 i 24 da biste odabrali jednog."
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr "Sigurne datoteke, Borbne datoteke, i Specijalne datoteke. Odključaj ih, i kupite ih u Dodaj/Ukloni otključavanja."
+msgstr ""
+"Sigurne datoteke, Borbne datoteke, i Specijalne datoteke. Odključaj ih, i "
+"kupite ih u Dodaj/Ukloni otključavanja."
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr "Teme obucu radnu površinu. Kada su odključani, mogu se staviti u Personaliziraj izborniku."
+msgstr ""
+"Teme obucu radnu površinu. Kada su odključani, mogu se staviti u "
+"Personaliziraj izborniku."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr "Završi Protokol sa svakim Pravilnikom, pa onda Pravilnik Domene. Protokol V je teži set."
+msgstr ""
+"Završi Protokol sa svakim Pravilnikom, pa onda Pravilnik Domene. Protokol V "
+"je teži set."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
@@ -3075,7 +3210,9 @@ msgstr "VAPOR"
 #. source: Special Files spawn during battle. While one is active, hold {special} to use it.
 #. Keep placeholders unchanged: {special}
 msgid "UI.vapor_store_intro"
-msgstr "Specijalne datoteke pojavljuju se tijekom borbe. Dok je jedna aktivna, drži {special} kako bi je upotrijebio."
+msgstr ""
+"Specijalne datoteke pojavljuju se tijekom borbe. Dok je jedna aktivna, drži "
+"{special} kako bi je upotrijebio."
 
 #. Vapor store - featured weapon heading
 #. source: Featured Weapon
@@ -3274,7 +3411,9 @@ msgstr "Završi %s ili teže jedanput za odključivanje pravilnike."
 #. source: Complete 3 different Policies on %s or higher to enable Domain Policies.
 #. Keep placeholders unchanged: %s
 msgid "UI.domain_policies_locked"
-msgstr "Završi tri drugačije Pravilnike na %s ili teže za odključavanje Pravilnik Domene."
+msgstr ""
+"Završi tri drugačije Pravilnike na %s ili teže za odključavanje Pravilnik "
+"Domene."
 
 #. UI (script-driven)
 #. source: Run Beanz: x%.2f
@@ -3356,7 +3495,9 @@ msgstr "Nesvršen"
 #. UI (script-driven)
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
-msgstr "Upravljajte pokazivačem sa mišom u Sigurnim Mapama.[br]Ratne Mape uvijek koristiti WASD ili lijevi stik."
+msgstr ""
+"Upravljajte pokazivačem sa mišom u Sigurnim Mapama.[br]Ratne Mape uvijek "
+"koristiti WASD ili lijevi stik."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3497,7 +3638,9 @@ msgstr "Nema dovoljno Ključeva :("
 #. Starter folder weapons category help
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
-msgstr "Tvoje prvo od četiri oružja za ovu igru. Dobit ćeš više kako budeš dosezao više razine."
+msgstr ""
+"Tvoje prvo od četiri oružja za ovu igru. Dobit ćeš više kako budeš dosezao "
+"više razine."
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
@@ -3507,12 +3650,15 @@ msgstr "Kursor Klase slože tvoje statistike"
 #. Starter folder difficulty category help
 #. source: Folder Difficulty sets the rules of the run: enemy pressure, rewards, and what you can unlock.
 msgid "UI.starter_help_difficulty"
-msgstr "Težina Mape određuje pravila sesije: valovi neprijatelja, nagrade i ono što možete otključati."
+msgstr ""
+"Težina Mape određuje pravila sesije: valovi neprijatelja, nagrade i ono što "
+"možete otključati."
 
 #. Starter folder policies category help
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
-msgstr "Dodatna pravila povrh protokola. Dobiješ više Beanz-a dok su uključeni."
+msgstr ""
+"Dodatna pravila povrh protokola. Dobiješ više Beanz-a dok su uključeni."
 
 #. Starter folder button that reopens the tutorial guide
 #. source: Guide
@@ -3540,7 +3686,8 @@ msgstr "Ja sam Virry i provest ću te kroz neke osnove ove igre."
 #. Keep placeholders unchanged: {move}, {click}, {drag}
 msgid "UI.tutorial_2_body"
 msgstr ""
-"Koristite {move} za kretanje po zaslonu. Kliknite s {click} i ne zaboravite dvaput kliknuti za otvaranje datoteka\n"
+"Koristite {move} za kretanje po zaslonu. Kliknite s {click} i ne zaboravite "
+"dvaput kliknuti za otvaranje datoteka\n"
 "\n"
 "Također možete koristiti {drag} za povlačenje i premještanje datoteka."
 
@@ -3549,7 +3696,8 @@ msgstr ""
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
 msgstr ""
-"Za sada odaberite {default}, ali kasnije možete otključati različite kursore s različitim efektima.\n"
+"Za sada odaberite {default}, ali kasnije možete otključati različite kursore "
+"s različitim efektima.\n"
 "\n"
 "Odaberi {protocol_1}–{protocol_3} kao svoju {difficulty}.\n"
 "\n"
@@ -3562,25 +3710,32 @@ msgstr ""
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
 msgstr ""
-"Napreduj kroz igru i podiži razinu kako bi svojoj konfiguraciji dodao još oružja.\n"
+"Napreduj kroz igru i podiži razinu kako bi svojoj konfiguraciji dodao još "
+"oružja.\n"
 "\n"
-"Tijekom igranja možeš otključati i nadogradnje oružja kojima poboljšavaš njihove statistike.\n"
+"Tijekom igranja možeš otključati i nadogradnje oružja kojima poboljšavaš "
+"njihove statistike.\n"
 "\n"
-"Kada vaše oružje dostigne određene razine, otključavate {drivers} koji daju prilagođene nadogradnje."
+"Kada vaše oružje dostigne određene razine, otključavate {drivers} koji daju "
+"prilagođene nadogradnje."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
 #. Keep placeholders unchanged: {safe}
 msgid "UI.tutorial_5_body"
-msgstr "Ima 5 rundi od 5 minuta. Na kraju svake runde dođi do {safe} kako bi prešao dalje."
+msgstr ""
+"Ima 5 rundi od 5 minuta. Na kraju svake runde dođi do {safe} kako bi prešao "
+"dalje."
 
 #. Tutorial page 6
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
 msgstr ""
-"Izbjegavaj neprijatelje, skupljaj Novčić i XP, nabavljaj nadogradnje i otvaraj datoteke.\n"
+"Izbjegavaj neprijatelje, skupljaj Novčić i XP, nabavljaj nadogradnje i "
+"otvaraj datoteke.\n"
 "\n"
-"Neke datoteke imaju rizike, nekima su potrebni ključevi, a neke daju zajamčene nagrade.\n"
+"Neke datoteke imaju rizike, nekima su potrebni ključevi, a neke daju "
+"zajamčene nagrade.\n"
 "\n"
 "Također ćeš u svakoj rundi imati sporedni cilj za dodatne nagrade."
 
@@ -3591,7 +3746,8 @@ msgid "UI.tutorial_7_body"
 msgstr ""
 "Sakupi dodatne Beanzove dovršavanjem dodatnih zadataka.\n"
 "\n"
-"Potroši svoje Beanz-ove na otključavanje klasa kursora, oružja, nadogradnji, dodataka, novih vrsta datoteka, {vapor} predmeta i još mnogo toga!"
+"Potroši svoje Beanz-ove na otključavanje klasa kursora, oružja, nadogradnji, "
+"dodataka, novih vrsta datoteka, {vapor} predmeta i još mnogo toga!"
 
 #. Tutorial page 8
 #. source: That's everything for now!\n\nPick your first weapon, play, survive, and have fun :)
@@ -3778,17 +3934,25 @@ msgstr "Pobijedio si!"
 #. Keep placeholders unchanged: {click}, {tab}
 msgid "UI.bluescreen_text"
 msgstr ""
-"Otkriven je problem i sustav Windows je isključen da bi se spriječilo oštećenje računala.\n"
+"Otkriven je problem i sustav Windows je isključen da bi se spriječilo "
+"oštećenje računala.\n"
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"Ako prvi put vidite ovaj zaslon s pogreškom zaustavljanja, ponovno pokrenite računalo.\n"
+"Ako prvi put vidite ovaj zaslon s pogreškom zaustavljanja, ponovno pokrenite "
+"računalo.\n"
 "Ako se ovaj zaslon ponovno pojavi, slijedite ove korake:\n"
 "\n"
-"Provjerite je li novi hardver ili softver ispravno instaliran. Ako se radi o novoj instalaciji, zatražite od proizvođača hardvera ili softvera sva ažuriranja sustava koja su vam potrebna.\n"
+"Provjerite je li novi hardver ili softver ispravno instaliran. Ako se radi o "
+"novoj instalaciji, zatražite od proizvođača hardvera ili softvera sva "
+"ažuriranja sustava koja su vam potrebna.\n"
 "\n"
-"Ako se problemi nastave, onemogućite ili uklonite novoinstalirani hardver ili softver. Onemogućite BIOS-ove mogućnosti memorije kao što su predmemoriranje ili sjenčanje.\n"
-"Ako trebate koristiti sigurni način rada da biste uklonili ili onemogućili komponente, ponovno pokrenite računalo, pritisnite F8 da biste odabrali Napredne mogućnosti pokretanja, a zatim odaberite Sigurni način rada.\n"
+"Ako se problemi nastave, onemogućite ili uklonite novoinstalirani hardver "
+"ili softver. Onemogućite BIOS-ove mogućnosti memorije kao što su "
+"predmemoriranje ili sjenčanje.\n"
+"Ako trebate koristiti sigurni način rada da biste uklonili ili onemogućili "
+"komponente, ponovno pokrenite računalo, pritisnite F8 da biste odabrali "
+"Napredne mogućnosti pokretanja, a zatim odaberite Sigurni način rada.\n"
 "\n"
 "Tehnička informacije:\n"
 "STOP: 0x0000000d (0xFF0000Fa, 0x00000023, 0x00000022, 0x820ea23b)\n"
@@ -3878,7 +4042,8 @@ msgstr "Preuzmi"
 #. Vapidshare part tooltip while another part is downloading
 #. source: Another part is downloading. Get Vapidshare Pro for simultaneous downloads.
 msgid "CLICKABLE.vapid_part_busy"
-msgstr "Drugi dio već se preuzima. Dobi Vapidshare Pro za istovremenski preuzimanja."
+msgstr ""
+"Drugi dio već se preuzima. Dobi Vapidshare Pro za istovremenski preuzimanja."
 
 #. Shop / upgrade screen - reroll button
 #. source: Reroll: %.2f Coin
@@ -4171,7 +4336,9 @@ msgstr "{boss} Datoteka"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr "Dopušta vam da odaberete {boss} na kraju sesije umjesto slučajnog odabira Šefa."
+msgstr ""
+"Dopušta vam da odaberete {boss} na kraju sesije umjesto slučajnog odabira "
+"Šefa."
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4337,7 +4504,9 @@ msgstr "Očisti Plus! neprijatelj u 10 sekundi"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr "Instaliraj Morgan Antivirusni program za veću težinu i dodatnih Plus! neprijatelje."
+msgstr ""
+"Instaliraj Morgan Antivirusni program za veću težinu i dodatnih Plus! "
+"neprijatelje."
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4459,7 +4628,9 @@ msgstr "Aktivacija Potrebno"
 #. Optional extra difficulty policy - description (unsigned_driver)
 #. source: Keygen files do not spawn. Get plugins from cracked installers, or buy Keys at the Key Shop.
 msgid "POLICY.unsigned_driver.description"
-msgstr "Ključgen datoteke se ne pojavljuju. Dobi dodatke iz krekirane instalere, ili kupi Ključeve u Dućan Ključeva."
+msgstr ""
+"Ključgen datoteke se ne pojavljuju. Dobi dodatke iz krekirane instalere, ili "
+"kupi Ključeve u Dućan Ključeva."
 
 #. Optional extra difficulty policy - name (read_only)
 #. source: Read Only
@@ -4542,14 +4713,17 @@ msgid "POLICY.open_relay.description"
 msgstr "Svaka ratna datoteka dođe sa spam oglasima."
 
 #. Optional extra difficulty policy - name (default_domain_policy)
-#. source: Default Domain Policy
+#. source: Natasha's Wrath
 msgid "POLICY.default_domain_policy.name"
-msgstr "Zadani Pravilnik Domene"
+msgstr "Natašin Gnjev"
 
 #. Optional extra difficulty policy - description (default_domain_policy)
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
-msgstr "Svaki standardni Pravilnik odjednom. Neprijatelji su brži, teži i više ih. Polovuje trenutni HP svakom Ratnoj Mapi. Nema dodatnih oružja, Ključgen, ili ponovno bacanje. 2x praznina."
+msgstr ""
+"Svaki standardni Pravilnik odjednom. Neprijatelji su brži, teži i više ih. "
+"Polovuje trenutni HP svakom Ratnoj Mapi. Nema dodatnih oružja, Ključgen, ili "
+"ponovno bacanje. 2x praznina."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
@@ -4648,7 +4822,8 @@ msgstr "Nadograđeno"
 #. Health Check Pro upgrade-files tooltip
 #. source: Health Check files in the next battles drop more hearts this run.
 msgid "UI.health_check_pro_boost_tooltip"
-msgstr "Provjeru Zdravlja datoteke u sljedećim bitkama daju više srca ovoj sesiji."
+msgstr ""
+"Provjeru Zdravlja datoteke u sljedećim bitkama daju više srca ovoj sesiji."
 
 #. Health Check Pro heal tooltip
 #. source: Restore 50% of your Max HP right now.
@@ -4967,7 +5142,9 @@ msgstr "Kliknite dvaput za promjenu jezika"
 #. Desktop icon tooltip
 #. source: Double-Click to Open Link[br]Translations in the game are generously included by community contribution.
 msgid "CLICKABLE.github_translations"
-msgstr "Kliknite dvaput za otvaranje poveznicu[br]Prijevode u igri velikodušno su omogućili drugi igrači."
+msgstr ""
+"Kliknite dvaput za otvaranje poveznicu[br]Prijevode u igri velikodušno su "
+"omogućili drugi igrači."
 
 #. Desktop icon tooltip
 #. source: %.0f%% chance of Success
@@ -5247,7 +5424,9 @@ msgstr "Bodovi"
 #. Run stats panel row
 #. source: Run score from clears, levels, safe folders, and a completion bonus.
 msgid "RUNSTAT.score_desc"
-msgstr "Bodovi ove sesije od čišćenja neprijatela, razine, sigurne mape, i bonus za završetak."
+msgstr ""
+"Bodovi ove sesije od čišćenja neprijatela, razine, sigurne mape, i bonus za "
+"završetak."
 
 #. Run stats panel row
 #. source: Class
@@ -5335,7 +5514,9 @@ msgstr "Ključevi sakupljeni u zadnjoj Ratnoj Mapi."
 #. Safe Folder explorer - last round Beanz tooltip
 #. source: Beanz earned in the last Battle Folder, including the Safe Folder award.
 msgid "RUNSTAT.last_round_beanz_desc"
-msgstr "Beanz-ovi zarađeni u zadnjoj Ratnoj Mapi, uključujući nagradu od Sigurnoj Mapi."
+msgstr ""
+"Beanz-ovi zarađeni u zadnjoj Ratnoj Mapi, uključujući nagradu od Sigurnoj "
+"Mapi."
 
 #. Run and last-round DPS label
 #. source: DPS
@@ -5482,7 +5663,8 @@ msgstr "Prazan"
 #. Vapor window
 #. source: {0} files failed to validate and will be reaquired.
 msgid "VAPOR.validate_fail"
-msgstr "{0} datoteke nije uspjelo provjeriti valjanost i budu bile ponovno preuzete."
+msgstr ""
+"{0} datoteke nije uspjelo provjeriti valjanost i budu bile ponovno preuzete."
 
 #. Weapon driver / overclock card - name (overclocked)
 #. source: Overclocked
@@ -5769,9 +5951,9 @@ msgstr ""
 "Smanjuje Količinu -25%."
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "WordArt"
+msgstr "Obrub"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5849,9 +6031,9 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "Mine ostaju dok se ne aktiviraju."
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "Zagušenje Dial-up Veze"
+msgstr "Povratni Zvuk"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -5861,9 +6043,9 @@ msgstr ""
 "Poveća Veličinu +25%."
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
-msgstr "Širokopojasna Veza"
+msgstr "Pojačanje"
 
 #. Weapon driver / overclock card - description (modem_broadband)
 #. source: Increase Speed +50%.\nIncrease Damage +20%.
@@ -6331,19 +6513,25 @@ msgstr "Pobjeda!"
 msgid ""
 "You did it! I'm proud of you! I hope you had fun.\n"
 "\n"
-"However I am very sorry that this is such a boring and uninspired win screen. You deserve better and you will get better - in the full release.\n"
+"However I am very sorry that this is such a boring and uninspired win "
+"screen. You deserve better and you will get better - in the full release.\n"
 "\n"
-"In the meantime, enjoy trying some of the harder difficulties, go spend those Beanz on some upgrades and try out some different builds.\n"
+"In the meantime, enjoy trying some of the harder difficulties, go spend "
+"those Beanz on some upgrades and try out some different builds.\n"
 "\n"
-"If you had fun during this demo be sure to give it a wishlist or follow on Steam - there's so much more to come!"
+"If you had fun during this demo be sure to give it a wishlist or follow on "
+"Steam - there's so much more to come!"
 msgstr ""
 "Uspjeli ste! Ponosan sam na vas! Nadam se da ste se zabavili.\n"
 "\n"
-"Međutim, jako mi je žao što je ovo tako dosadan i neinspirativan ekran za pobjedu. Zaslužujete bolje i bit ćete bolji - u punom izdanju.\n"
+"Međutim, jako mi je žao što je ovo tako dosadan i neinspirativan ekran za "
+"pobjedu. Zaslužujete bolje i bit ćete bolji - u punom izdanju.\n"
 "\n"
-"U međuvremenu, uživajte u isprobavanju nekih težih razina, potrošite Beanz na neke nadogradnje i isprobajte neke različite opreme i taktike.\n"
+"U međuvremenu, uživajte u isprobavanju nekih težih razina, potrošite Beanz "
+"na neke nadogradnje i isprobajte neke različite opreme i taktike.\n"
 "\n"
-"Ako ste se zabavili tijekom ove demo verzije, svakako je dodajte na listu želja ili pratite na Steamu - bit će još puno toga!"
+"Ako ste se zabavili tijekom ove demo verzije, svakako je dodajte na listu "
+"želja ili pratite na Steamu - bit će još puno toga!"
 
 #. Scene label
 #. screens: end_screen.tscn
@@ -6367,8 +6555,12 @@ msgstr "Priprema za instalaciju…"
 
 #. Scene label
 #. screens: installer_window.tscn
-msgid "PluginInstaller is preparing to find all appropriate plugins for this application."
-msgstr "DodatakInstaler se priprema pronaći sve odgovarajuće dodatke za ovu aplikaciju."
+msgid ""
+"PluginInstaller is preparing to find all appropriate plugins for this "
+"application."
+msgstr ""
+"DodatakInstaler se priprema pronaći sve odgovarajuće dodatke za ovu "
+"aplikaciju."
 
 #. Scene label
 #. screens: installer_window.tscn
@@ -6645,43 +6837,3 @@ msgstr "Prozor"
 #. Scene label
 msgid "Antivirus Survivors 2003 Professional"
 msgstr "Antivirusni Program Survivori 2003. Profesionalan"
-
-#. Credits window
-#. source: Credits
-msgid "CREDITS.window_title"
-msgstr "Zasluge"
-
-#. Credits window - role title
-#. source: Development, Art, Music etc.
-msgid "CREDITS.solo_developer"
-msgstr "Razvoj, Grafika, Glazba itd."
-
-#. Credits window - role title
-#. source: Producer
-msgid "CREDITS.producer"
-msgstr "Producent"
-
-#. Credits window - role title. Keep the name Virry.
-#. source: Animator (Virry)
-msgid "CREDITS.animation_virry"
-msgstr "Animator (Virry)"
-
-#. Credits window - role title
-#. source: Community QA
-msgid "CREDITS.community_qa"
-msgstr "QA Zajednica"
-
-#. Credits window - role title
-#. source: Community Translators
-msgid "CREDITS.community_translators"
-msgstr "Prevoditelji iz zajednice"
-
-#. Credits window - role title
-#. source: Special Thanks
-msgid "CREDITS.special_thanks"
-msgstr "Posebne Zahvale:"
-
-#. Credits window - note under Special Thanks
-#. source: Thank you all so much for helping me achieve this dream. I love you all! -Shaun
-msgid "CREDITS.special_thanks_note"
-msgstr "Hvala vam svima od srca što ste mi pomogli ostvariti ovaj san. Volim vas sve! -Shaun"
